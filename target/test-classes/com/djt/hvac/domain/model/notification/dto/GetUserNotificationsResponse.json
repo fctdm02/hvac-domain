@@ -1,0 +1,24 @@
+[{
+	"userId": 100,
+	"audienceScopeId": 4,
+	"category": "SYSTEM",
+	"producer": "USER",
+	"attentionLevel": "MEDIUM",
+	"presentationTypes": ["EMAIL", "TOAST"],
+	"applicationTypes": ["FUSION", "SYNERGY"],
+	"emailTypes": ["AT_TIME_OF_EVENT"],
+	"name": "PLANNED_SITE_MAINTENANCE",
+	"displayName": "Resolute - Planned Site Maintenance",
+	"emailCannotBeTurnedOff": false,
+	"eventId": 1000,
+	"eventUuid": "5afde5b6-e802-11ec-8fea-0242ac120002",
+	"occurredOnDate": "2022-09-31 00:00:00",
+	"expirationDate": "2022-12-31 00:00:00",
+	"substitutionTokenValues": {
+		"DATE_AND_TIME_OF_MAINTENANCE": "July 15th, 2022 at 3:00AM"
+	},
+	"hasBeenPublished": true,
+	"hasBeenRead": false,
+	"hasBeenEmailed": true,
+	"publishedBy": "tmyers@resolutebi.com"
+}]

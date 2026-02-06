@@ -1,0 +1,33 @@
+[ {
+  "system_type_id" : 4,
+  "parent_id" : 115335,
+  "child_id" : 2839242
+}, {
+  "system_type_id" : 4,
+  "parent_id" : 115326,
+  "child_id" : 2839243
+}, {
+  "system_type_id" : 4,
+  "parent_id" : 115320,
+  "child_id" : 2839244
+}, {
+  "system_type_id" : 4,
+  "parent_id" : 115339,
+  "child_id" : 2839245
+}, {
+  "system_type_id" : 4,
+  "parent_id" : 115463,
+  "child_id" : 2839246
+}, {
+  "system_type_id" : 4,
+  "parent_id" : 115356,
+  "child_id" : 2839250
+}, {
+  "system_type_id" : 4,
+  "parent_id" : 115322,
+  "child_id" : 2839248
+}, {
+  "system_type_id" : 4,
+  "parent_id" : 115344,
+  "child_id" : 2839249
+} ]

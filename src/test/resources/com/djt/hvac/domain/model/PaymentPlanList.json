@@ -1,0 +1,81 @@
+[ {
+  "id" : 1,
+  "point_cap" : 3000,
+  "interval" : "MONTHLY",
+  "cost_per_interval" : 300.0,
+  "stripe_product_id" : "prod_Gf7BlYZMSKwR15",
+  "stripe_plan_id" : "plan_Gf7CPDdVgEr0Hc",
+  "stripe_test_product_id" : "prod_GfSR0F9rOvF5Jz",
+  "stripe_test_plan_id" : "plan_GfSSjocBNNL12b",
+  "deprecated" : false
+}, {
+  "id" : 2,
+  "point_cap" : 3000,
+  "interval" : "YEARLY",
+  "cost_per_interval" : 3000.0,
+  "stripe_product_id" : "prod_Gf7HtNPFJLTdxM",
+  "stripe_plan_id" : "plan_Gf7HzXJ8FiRkBl",
+  "stripe_test_product_id" : "prod_GfSTTnA1nE06aJ",
+  "stripe_test_plan_id" : "plan_GfSU14234Vjgjs",
+  "deprecated" : false
+}, {
+  "id" : 3,
+  "point_cap" : 5000,
+  "interval" : "MONTHLY",
+  "cost_per_interval" : 500.0,
+  "stripe_product_id" : "prod_Gf7JoEWcoeKdcf",
+  "stripe_plan_id" : "plan_Gf7KVBHdnm3wTJ",
+  "stripe_test_product_id" : "prod_GfSUsZiqaeRPP7",
+  "stripe_test_plan_id" : "plan_GfSVHf9pYqk2Tt",
+  "deprecated" : false
+}, {
+  "id" : 4,
+  "point_cap" : 5000,
+  "interval" : "YEARLY",
+  "cost_per_interval" : 5000.0,
+  "stripe_product_id" : "prod_Gf7LiWNnfHWt7N",
+  "stripe_plan_id" : "plan_Gf7L6vC92ZzKoA",
+  "stripe_test_product_id" : "prod_GfSWbzv9EV4gPE",
+  "stripe_test_plan_id" : "plan_GfSWvz92t7PGut",
+  "deprecated" : false
+}, {
+  "id" : 5,
+  "point_cap" : 10000,
+  "interval" : "MONTHLY",
+  "cost_per_interval" : 700.0,
+  "stripe_product_id" : "prod_Gf7NW7nI6iCXVU",
+  "stripe_plan_id" : "plan_Gf7O0WWL4WUfyL",
+  "stripe_test_product_id" : "prod_GfSX0onAPKaNFX",
+  "stripe_test_plan_id" : "plan_GfSXZxPO1IhT4U",
+  "deprecated" : false
+}, {
+  "id" : 6,
+  "point_cap" : 10000,
+  "interval" : "YEARLY",
+  "cost_per_interval" : 7000.0,
+  "stripe_product_id" : "prod_Gf7PPTLy21sA44",
+  "stripe_plan_id" : "plan_Gf7PUhDTpaF8HB",
+  "stripe_test_product_id" : "prod_GfSY74uCAzcJeU",
+  "stripe_test_plan_id" : "plan_GfSYlyjfUGgX8x",
+  "deprecated" : false
+}, {
+  "id" : 7,
+  "point_cap" : 1500,
+  "interval" : "MONTHLY",
+  "cost_per_interval" : 150.0,
+  "stripe_product_id" : "prod_HLlUTcYaZep7cd",
+  "stripe_plan_id" : "plan_HLlUtX9f5FW5PV",
+  "stripe_test_product_id" : "prod_HLl7YeozoYGS75",
+  "stripe_test_plan_id" : "plan_HLlFjw3rWykUtl",
+  "deprecated" : false
+}, {
+  "id" : 8,
+  "point_cap" : 1500,
+  "interval" : "YEARLY",
+  "cost_per_interval" : 1500.0,
+  "stripe_product_id" : "prod_HLlUascHULwh3X",
+  "stripe_plan_id" : "plan_HLlUHRG8ViGTCH",
+  "stripe_test_product_id" : "prod_HLlOQsfRhxCeVK",
+  "stripe_test_plan_id" : "plan_HLlOHe5IqWHoNu",
+  "deprecated" : false
+} ]

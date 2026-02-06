@@ -1,0 +1,53 @@
+[
+	{
+		"id" : 1,
+		"parent_id" : null,
+		"name" : "Resolute",
+		"created_at" : "2020-01-21T17:13:58Z",
+		"updated_at" : "2020-01-21T17:14:55Z",
+		"uuid" : "d637555e-c809-4adc-ade8-336d5b8daab8",
+		"referral_agent_id" : 1,
+		"type" : "OUT_OF_BAND",
+		"payment_status" : "UP_TO_DATE",
+		"payment_status_updated_at" : "2020-01-21T17:14:55Z",
+		"status" : "ACTIVE",
+		"status_updated_at" : "2020-01-21T17:14:55Z",
+		"billing_start_date" : null,
+		"billing_renewal_date" : null,
+		"stripe_customer_id" : null
+	},
+	{
+		"id" : 2,
+		"parent_id" : 1,
+		"name" : "Test_Online_Distributor",
+		"created_at" : "2020-01-21T12:48:09Z",
+		"updated_at" : "2020-01-21T12:48:09Z",
+		"uuid" : "624944e6-6314-4f11-8a3e-bca282ea6e16",
+		"referral_agent_id" : 1,
+		"type" : "ONLINE",
+		"payment_status" : "UP_TO_DATE",
+		"payment_status_updated_at" : "2020-01-21T12:48:09Z",
+		"status" : "ACTIVE",
+		"status_updated_at" : "2020-01-21T12:48:09Z",
+		"billing_start_date" : null,
+		"billing_renewal_date" : null,
+		"stripe_customer_id" : "Test_Customer_Stripe_Customer_Id"
+	},
+	{
+		"id" : 3,
+		"parent_id" : 1,
+		"name" : "Test_Out_of_Band_Distributor",
+		"created_at" : "2020-01-21T13:05:19Z",
+		"updated_at" : "2020-01-21T13:05:19Z",
+		"uuid" : "079bef04-8953-4d9b-b281-e81faf40e9ca",
+		"referral_agent_id" : 1,
+		"type" : "OUT_OF_BAND",
+		"payment_status" : "UP_TO_DATE",
+		"payment_status_updated_at" : "2020-01-21T13:05:19Z",
+		"status" : "ACTIVE",
+		"status_updated_at" : "2020-01-21T13:05:19Z",
+		"billing_start_date" : "2020-01-21T13:05:19Z",
+		"billing_renewal_date" : "2020-01-21T13:05:19Z",
+		"stripe_customer_id" : null
+	}
+]

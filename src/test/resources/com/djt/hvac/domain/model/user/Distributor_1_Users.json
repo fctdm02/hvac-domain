@@ -1,0 +1,371 @@
+[
+	{
+		"id" : 400,
+		"distributor_id" : 1,
+		"email" : "chris.hallendy+345@gmail.com",
+		"first_name" : "Chris",
+		"last_name" : "Hallendy",
+		"role_id" : 6,
+		"account_manager" : false
+	},
+	{
+		"id" : 91,
+		"distributor_id" : 1,
+		"email" : "challendy@maddogtechnology.com",
+		"first_name" : "Chris",
+		"last_name" : "Hallendy",
+		"role_id" : 5,
+		"account_manager" : false
+	},
+	{
+		"id" : 92,
+		"distributor_id" : 1,
+		"email" : "cdevoto@maddogtechnology.com",
+		"first_name" : "Carlos",
+		"last_name" : "Devoto",
+		"role_id" : 5,
+		"account_manager" : false
+	},
+	{
+		"id" : 316,
+		"distributor_id" : 1,
+		"email" : "tmyers@resolutebi.com",
+		"first_name" : "Tom",
+		"last_name" : "Myers",
+		"role_id" : 5,
+		"account_manager" : false
+	},
+	{
+		"id" : 94,
+		"distributor_id" : 1,
+		"email" : "cruch@resolutebi.com",
+		"first_name" : "Chad",
+		"last_name" : "Ruch",
+		"role_id" : 5,
+		"account_manager" : false
+	},
+	{
+		"id" : 96,
+		"distributor_id" : 1,
+		"email" : "syang@maddogtechnology.com",
+		"first_name" : "Shawn",
+		"last_name" : "Yang",
+		"role_id" : 5,
+		"account_manager" : false
+	},
+	{
+		"id" : 97,
+		"distributor_id" : 1,
+		"email" : "dverlee@maddogtechnology.com",
+		"first_name" : "Derek",
+		"last_name" : "Verlee",
+		"role_id" : 5,
+		"account_manager" : false
+	},
+	{
+		"id" : 317,
+		"distributor_id" : 1,
+		"email" : "tshemberko@maddogtechnology.com",
+		"first_name" : "Taras",
+		"last_name" : "Shemberko",
+		"role_id" : 5,
+		"account_manager" : false
+	},
+	{
+		"id" : 101,
+		"distributor_id" : 1,
+		"email" : "pczarnik@maddogtechnology.com",
+		"first_name" : "Paul",
+		"last_name" : "Czarnik",
+		"role_id" : 5,
+		"account_manager" : false
+	},
+	{
+		"id" : 102,
+		"distributor_id" : 1,
+		"email" : "jbootcheck@resolutebi.com",
+		"first_name" : "Justin",
+		"last_name" : "Bootcheck",
+		"role_id" : 5,
+		"account_manager" : false
+	},
+	{
+		"id" : 103,
+		"distributor_id" : 1,
+		"email" : "bbasa@resolutebi.com",
+		"first_name" : "Brad",
+		"last_name" : "Basa",
+		"role_id" : 5,
+		"account_manager" : false
+	},
+	{
+		"id" : 104,
+		"distributor_id" : 1,
+		"email" : "ayik@resolutebi.com",
+		"first_name" : "Alan",
+		"last_name" : "Yik",
+		"role_id" : 5,
+		"account_manager" : false
+	},
+	{
+		"id" : 281,
+		"distributor_id" : 1,
+		"email" : "lmiller@resolutebi.com",
+		"first_name" : "Lisa",
+		"last_name" : "Miller",
+		"role_id" : 5,
+		"account_manager" : false
+	},
+	{
+		"id" : 108,
+		"distributor_id" : 1,
+		"email" : "phubbard@resolutebi.com",
+		"first_name" : "Peter",
+		"last_name" : "Hubbard",
+		"role_id" : 5,
+		"account_manager" : false
+	},
+	{
+		"id" : 405,
+		"distributor_id" : 1,
+		"email" : "moneill@resolutebi.com",
+		"first_name" : "Michael",
+		"last_name" : "O'Neill",
+		"role_id" : 5,
+		"account_manager" : false
+	},
+	{
+		"id" : 114,
+		"distributor_id" : 1,
+		"email" : "bjensen@resolutebi.com",
+		"first_name" : "Bill",
+		"last_name" : "Jensen",
+		"role_id" : 5,
+		"account_manager" : false
+	},
+	{
+		"id" : 117,
+		"distributor_id" : 1,
+		"email" : "jlangston@resolutebi.com",
+		"first_name" : "Jim",
+		"last_name" : "Langston",
+		"role_id" : 5,
+		"account_manager" : false
+	},
+	{
+		"id" : 119,
+		"distributor_id" : 1,
+		"email" : "rstropoli@maddogtechnology.com",
+		"first_name" : "Ron",
+		"last_name" : "Stropoli",
+		"role_id" : 5,
+		"account_manager" : false
+	},
+	{
+		"id" : 120,
+		"distributor_id" : 1,
+		"email" : "kpricer@maddogtechnology.com",
+		"first_name" : "Kate",
+		"last_name" : "Pricer",
+		"role_id" : 5,
+		"account_manager" : false
+	},
+	{
+		"id" : 214,
+		"distributor_id" : 1,
+		"email" : "adingman@resolutebi.com",
+		"first_name" : "Amber",
+		"last_name" : "Dingman",
+		"role_id" : 5,
+		"account_manager" : false
+	},
+	{
+		"id" : 179,
+		"distributor_id" : 1,
+		"email" : "smoketestprod1@outlook.com",
+		"first_name" : "",
+		"last_name" : "",
+		"role_id" : 5,
+		"account_manager" : false
+	},
+	{
+		"id" : 213,
+		"distributor_id" : 1,
+		"email" : "kmurphy@resolutebi.com",
+		"first_name" : "Keith",
+		"last_name" : "Murphy",
+		"role_id" : 6,
+		"account_manager" : false
+	},
+	{
+		"id" : 302,
+		"distributor_id" : 1,
+		"email" : "jcromwell@resolutebi.com",
+		"first_name" : "Josh",
+		"last_name" : "Cromwell",
+		"role_id" : 5,
+		"account_manager" : false
+	},
+	{
+		"id" : 231,
+		"distributor_id" : 1,
+		"email" : "ahill@resolutebi.com",
+		"first_name" : "Andrew",
+		"last_name" : "Hill",
+		"role_id" : 5,
+		"account_manager" : false
+	},
+	{
+		"id" : 212,
+		"distributor_id" : 1,
+		"email" : "jkrcmarik@resolutebi.com",
+		"first_name" : "John",
+		"last_name" : "Krcmarik",
+		"role_id" : 5,
+		"account_manager" : false
+	},
+	{
+		"id" : 254,
+		"distributor_id" : 1,
+		"email" : "spachuta@resolutebi.com",
+		"first_name" : "Sean",
+		"last_name" : "Pachuta",
+		"role_id" : 6,
+		"account_manager" : false
+	},
+	{
+		"id" : 255,
+		"distributor_id" : 1,
+		"email" : "smoketestprod2@resolutebi.com",
+		"first_name" : "Smoke Test",
+		"last_name" : "User",
+		"role_id" : 5,
+		"account_manager" : false
+	},
+	{
+		"id" : 323,
+		"distributor_id" : 1,
+		"email" : "cmurad@resolutebi.com",
+		"first_name" : "Claude",
+		"last_name" : "Murad",
+		"role_id" : 5,
+		"account_manager" : false
+	},
+	{
+		"id" : 327,
+		"distributor_id" : 1,
+		"email" : "lmitzel@resolutebi.com",
+		"first_name" : "Lanna",
+		"last_name" : "Mitzel",
+		"role_id" : 6,
+		"account_manager" : false
+	},
+	{
+		"id" : 328,
+		"distributor_id" : 1,
+		"email" : "dcilluffo@resolutebi.com",
+		"first_name" : "Dave",
+		"last_name" : "Cilluffo",
+		"role_id" : 5,
+		"account_manager" : false
+	},
+	{
+		"id" : 385,
+		"distributor_id" : 1,
+		"email" : "vsmolinski@resolutebi.com",
+		"first_name" : "Victor",
+		"last_name" : "Smolinski",
+		"role_id" : 6,
+		"account_manager" : false
+	},
+	{
+		"id" : 343,
+		"distributor_id" : 1,
+		"email" : "scrowe@resolutebi.com",
+		"first_name" : "Steve",
+		"last_name" : "Crowe",
+		"role_id" : 6,
+		"account_manager" : false
+	},
+	{
+		"id" : 307,
+		"distributor_id" : 1,
+		"email" : "jgraham@resolutebi.com",
+		"first_name" : "Jake",
+		"last_name" : "Graham",
+		"role_id" : 6,
+		"account_manager" : false
+	},
+	{
+		"id" : 306,
+		"distributor_id" : 1,
+		"email" : "sreilly@maddogtechnology.com",
+		"first_name" : "Steve",
+		"last_name" : "Reilly",
+		"role_id" : 6,
+		"account_manager" : false
+	},
+	{
+		"id" : 238,
+		"distributor_id" : 1,
+		"email" : "rhubbard@resolutebi.com",
+		"first_name" : "Parker",
+		"last_name" : "Hubbard",
+		"role_id" : 6,
+		"account_manager" : false
+	},
+	{
+		"id" : 349,
+		"distributor_id" : 1,
+		"email" : "toziem@resolutebi.com",
+		"first_name" : "Tom",
+		"last_name" : "Oziem",
+		"role_id" : 5,
+		"account_manager" : false
+	},
+	{
+		"id" : 354,
+		"distributor_id" : 1,
+		"email" : "testplatform@resolutebi.com",
+		"first_name" : "auto",
+		"last_name" : "man",
+		"role_id" : 5,
+		"account_manager" : false
+	},
+	{
+		"id" : 355,
+		"distributor_id" : 1,
+		"email" : "solsen@maddogtechnology.com",
+		"first_name" : "Steve",
+		"last_name" : "Olsen",
+		"role_id" : 6,
+		"account_manager" : false
+	},
+	{
+		"id" : 340,
+		"distributor_id" : 1,
+		"email" : "zcouts@resolutebi.com",
+		"first_name" : "Zach",
+		"last_name" : "Couts",
+		"role_id" : 5,
+		"account_manager" : false
+	},
+	{
+		"id" : 361,
+		"distributor_id" : 1,
+		"email" : "dwilloughby@maddogtechnology.com",
+		"first_name" : "Doug",
+		"last_name" : "Willoughby",
+		"role_id" : 5,
+		"account_manager" : false
+	},
+	{
+		"id" : 337,
+		"distributor_id" : 1,
+		"email" : "dyoung@resolutebi.com",
+		"first_name" : "Donn",
+		"last_name" : "Young",
+		"role_id" : 5,
+		"account_manager" : false
+	}
+]

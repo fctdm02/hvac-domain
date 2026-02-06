@@ -1,0 +1,376 @@
+[ {
+  "node_id" : 120373,
+  "node_type_id" : 1,
+  "node_name" : "KTB Florida Sports Arena",
+  "node_display_name" : "Hertz Arena",
+  "node_created_at" : "2018-08-14 16:24:21",
+  "node_updated_at" : "2021-09-03 12:02:41"
+}, {
+  "node_id" : 120374,
+  "node_type_id" : 3,
+  "node_name" : "germainArena",
+  "node_display_name" : "Hertz Arena",
+  "node_parent_id" : 120373,
+  "node_parent_node_type_id" : 1,
+  "node_created_at" : "2018-08-20 19:53:35",
+  "node_updated_at" : "2021-07-07 15:43:43",
+  "building_timezone" : "America/New_York",
+  "building_address" : "11000 Everblades Pkwy",
+  "building_city" : "Estero",
+  "building_state" : "FL",
+  "building_zip_code" : "33928-9412",
+  "building_latitude" : "26.440496",
+  "building_longitude" : "-81.77653",
+  "building_weather_station_id" : 13,
+  "building_temporal_id" : "30",
+  "building_temporal_effective_date" : "2018-09-01",
+  "building_temporal_sqft" : "171000",
+  "building_utility_id" : "{1,2,3}",
+  "building_utility_computation_interval_id" : "{3,3,4}",
+  "building_utility_formula" : "{22653*ELAPSED_DAYS_IN_MONTH,34.96*ELAPSED_DAYS_IN_MONTH,SAME_MONTH_YEAR(2019)}",
+  "building_utility_rate" : "{0.088,7.38,0.01539}",
+  "building_utility_baseline_description" : "{Baseline period is April 2017 to March 2018,Baseline period is April 2017 to March 2018,Baseline period is January 2019 - December 2019. Custom point created to reflect 3 year average usage from March 2017 - Feb 2020.}",
+  "building_utility_user_notes" : "{NULL,NULL,The updated baseline for Hertz references the point “Baseline|3yr avg” which is based on an average of the billed data from March 2017 - February 2020 (the most recent}",
+  "building_billing_grace_period" : "7d",
+  "building_status" : "ACTIVE",
+  "building_status_updated_at" : "2021-03-17 16:33:56",
+  "building_payment_status" : "UP_TO_DATE",
+  "building_payment_status_updated_at" : "2020-02-20 23:28:53",
+  "building_pending_deletion" : false,
+  "building_payment_type" : "OUT_OF_BAND"
+}, {
+  "node_id" : 131445,
+  "node_type_id" : 4,
+  "node_name" : "Sub-building_1536845603",
+  "node_display_name" : "Executive Level",
+  "node_parent_id" : 120374,
+  "node_parent_node_type_id" : 3,
+  "node_created_at" : "2018-09-13 13:33:23",
+  "node_updated_at" : "2018-09-13 13:33:53"
+}, {
+  "node_id" : 132453,
+  "node_type_id" : 5,
+  "node_name" : "Floor_1536956411",
+  "node_display_name" : "Executive",
+  "node_parent_id" : 131445,
+  "node_parent_node_type_id" : 4,
+  "node_created_at" : "2018-09-14 20:20:11",
+  "node_updated_at" : "2018-09-14 20:21:07",
+  "floor_ordinal" : 1
+}, {
+  "node_id" : 120401,
+  "node_type_id" : 8,
+  "node_name" : "RTU_06",
+  "node_display_name" : "RTU_06 | Offices",
+  "node_parent_id" : 132453,
+  "node_parent_node_type_id" : 5,
+  "node_created_at" : "2018-08-20 19:53:40",
+  "node_updated_at" : "2021-07-09 14:01:45"
+}, {
+  "node_id" : 120407,
+  "node_type_id" : 8,
+  "node_name" : "VAV_15",
+  "node_display_name" : "VAV_15 | Chris Palin's Office",
+  "node_parent_id" : 132453,
+  "node_parent_node_type_id" : 5,
+  "node_created_at" : "2018-08-20 19:53:41",
+  "node_updated_at" : "2021-08-20 12:02:35"
+}, {
+  "node_id" : 120392,
+  "node_type_id" : 8,
+  "node_name" : "VAV_16",
+  "node_display_name" : "VAV_16 | 1st Floor Reception",
+  "node_parent_id" : 132453,
+  "node_parent_node_type_id" : 5,
+  "node_created_at" : "2018-08-20 19:53:39",
+  "node_updated_at" : "2021-08-20 12:02:35"
+}, {
+  "node_id" : 120436,
+  "node_type_id" : 8,
+  "node_name" : "VAV_17",
+  "node_display_name" : "VAV_17 | Box Office",
+  "node_parent_id" : 132453,
+  "node_parent_node_type_id" : 5,
+  "node_created_at" : "2018-08-20 19:53:48",
+  "node_updated_at" : "2021-08-20 12:02:35"
+}, {
+  "node_id" : 120399,
+  "node_type_id" : 8,
+  "node_name" : "VAV_18",
+  "node_display_name" : "VAV_18 | Scott Bryant's Office",
+  "node_parent_id" : 132453,
+  "node_parent_node_type_id" : 5,
+  "node_created_at" : "2018-08-20 19:53:40",
+  "node_updated_at" : "2021-08-20 12:02:35"
+}, {
+  "node_id" : 120432,
+  "node_type_id" : 8,
+  "node_name" : "VAV_19",
+  "node_display_name" : "VAV_19 | Common Area",
+  "node_parent_id" : 132453,
+  "node_parent_node_type_id" : 5,
+  "node_created_at" : "2018-08-20 19:53:47",
+  "node_updated_at" : "2021-08-20 12:02:35"
+}, {
+  "node_id" : 120376,
+  "node_type_id" : 8,
+  "node_name" : "VAV_20",
+  "node_display_name" : "VAV_20 | Craig Brush's Office",
+  "node_parent_id" : 132453,
+  "node_parent_node_type_id" : 5,
+  "node_created_at" : "2018-08-20 19:53:35",
+  "node_updated_at" : "2021-08-20 12:02:35"
+}, {
+  "node_id" : 120378,
+  "node_type_id" : 8,
+  "node_name" : "VAV_21",
+  "node_display_name" : "VAV_21 | Board Room",
+  "node_parent_id" : 132453,
+  "node_parent_node_type_id" : 5,
+  "node_created_at" : "2018-08-20 19:53:36",
+  "node_updated_at" : "2021-08-20 12:02:35"
+}, {
+  "node_id" : 120382,
+  "node_type_id" : 8,
+  "node_name" : "VAV_22",
+  "node_display_name" : "VAV_22 | Mezz Computer Room",
+  "node_parent_id" : 132453,
+  "node_parent_node_type_id" : 5,
+  "node_created_at" : "2018-08-20 19:53:37",
+  "node_updated_at" : "2021-08-20 12:02:35"
+}, {
+  "node_id" : 120396,
+  "node_type_id" : 8,
+  "node_name" : "VAV_23",
+  "node_display_name" : "VAV_23 | OFR Interior Box",
+  "node_parent_id" : 132453,
+  "node_parent_node_type_id" : 5,
+  "node_created_at" : "2018-08-20 19:53:39",
+  "node_updated_at" : "2021-08-20 12:02:35"
+}, {
+  "node_id" : 120380,
+  "node_type_id" : 8,
+  "node_name" : "VAV_24",
+  "node_display_name" : "VAV_24 | OFR Entrance",
+  "node_parent_id" : 132453,
+  "node_parent_node_type_id" : 5,
+  "node_created_at" : "2018-08-20 19:53:36",
+  "node_updated_at" : "2021-08-20 12:02:35"
+}, {
+  "node_id" : 131446,
+  "node_type_id" : 4,
+  "node_name" : "Sub-building_1536845653",
+  "node_display_name" : "Arena Level",
+  "node_parent_id" : 120374,
+  "node_parent_node_type_id" : 3,
+  "node_created_at" : "2018-09-13 13:34:13",
+  "node_updated_at" : "2021-06-25 12:01:15"
+}, {
+  "node_id" : 132454,
+  "node_type_id" : 5,
+  "node_name" : "Floor_1536956654",
+  "node_display_name" : "Arena",
+  "node_parent_id" : 131446,
+  "node_parent_node_type_id" : 4,
+  "node_created_at" : "2018-09-14 20:24:14",
+  "node_updated_at" : "2021-06-25 12:01:15",
+  "floor_ordinal" : 1
+}, {
+  "node_id" : 120417,
+  "node_type_id" : 8,
+  "node_name" : "RTU_01",
+  "node_display_name" : "RTU_01 | Main Arena Bowl Loop & Suites",
+  "node_parent_id" : 132454,
+  "node_parent_node_type_id" : 5,
+  "node_created_at" : "2018-08-20 19:53:44",
+  "node_updated_at" : "2021-07-09 14:01:45"
+}, {
+  "node_id" : 120461,
+  "node_type_id" : 8,
+  "node_name" : "RTU_03",
+  "node_display_name" : "RTU_03 | Main Arena Bowl Loop & S Concourse",
+  "node_parent_id" : 132454,
+  "node_parent_node_type_id" : 5,
+  "node_created_at" : "2018-08-20 19:53:52",
+  "node_updated_at" : "2021-07-09 14:01:45"
+}, {
+  "node_id" : 120457,
+  "node_type_id" : 8,
+  "node_name" : "RTU_04",
+  "node_display_name" : "RTU_04 | Main Arena Bowl Loop",
+  "node_parent_id" : 132454,
+  "node_parent_node_type_id" : 5,
+  "node_created_at" : "2018-08-20 19:53:52",
+  "node_updated_at" : "2021-07-09 14:01:45"
+}, {
+  "node_id" : 120404,
+  "node_type_id" : 8,
+  "node_name" : "RTU_05_FC1",
+  "node_display_name" : "RTU_05_FC1 | BOH",
+  "node_parent_id" : 132454,
+  "node_parent_node_type_id" : 5,
+  "node_created_at" : "2018-08-20 19:53:41",
+  "node_updated_at" : "2021-07-09 14:01:45"
+}, {
+  "node_id" : 120385,
+  "node_type_id" : 8,
+  "node_name" : "RTU_07",
+  "node_display_name" : "RTU_07 | Breakaways",
+  "node_parent_id" : 132454,
+  "node_parent_node_type_id" : 5,
+  "node_created_at" : "2018-08-20 19:53:37",
+  "node_updated_at" : "2021-07-09 14:01:45"
+}, {
+  "node_id" : 120421,
+  "node_type_id" : 8,
+  "node_name" : "RTU_08",
+  "node_display_name" : "RTU_08 | Hertz Club",
+  "node_parent_id" : 132454,
+  "node_parent_node_type_id" : 5,
+  "node_created_at" : "2018-08-20 19:53:44",
+  "node_updated_at" : "2021-07-09 14:01:45"
+}, {
+  "node_id" : 120506,
+  "node_type_id" : 8,
+  "node_name" : "RTU_09",
+  "node_display_name" : "RTU_09 | Blue & Green Rinks",
+  "node_parent_id" : 132454,
+  "node_parent_node_type_id" : 5,
+  "node_created_at" : "2018-08-20 19:54:01",
+  "node_updated_at" : "2021-07-09 14:01:45"
+}, {
+  "node_id" : 120440,
+  "node_type_id" : 8,
+  "node_name" : "RTU_22",
+  "node_display_name" : "RTU_22 | Main Arena Bowl Loop & N Concourse",
+  "node_parent_id" : 132454,
+  "node_parent_node_type_id" : 5,
+  "node_created_at" : "2018-08-20 19:53:48",
+  "node_updated_at" : "2021-07-09 14:01:45"
+}, {
+  "node_id" : 120438,
+  "node_type_id" : 8,
+  "node_name" : "RTU_Misc",
+  "node_display_name" : "RTU_Misc",
+  "node_parent_id" : 132454,
+  "node_parent_node_type_id" : 5,
+  "node_created_at" : "2018-08-20 19:53:48",
+  "node_updated_at" : "2021-07-09 14:01:45"
+}, {
+  "node_id" : 121208,
+  "node_type_id" : 8,
+  "node_name" : "Rtu",
+  "node_display_name" : "Rtu",
+  "node_parent_id" : 132454,
+  "node_parent_node_type_id" : 5,
+  "node_created_at" : "2018-08-20 19:56:20",
+  "node_updated_at" : "2021-07-09 14:01:45"
+}, {
+  "node_id" : 121641,
+  "node_type_id" : 8,
+  "node_name" : "Bldg_Elec",
+  "node_display_name" : "Bldg_Elec",
+  "node_parent_id" : 120374,
+  "node_parent_node_type_id" : 3,
+  "node_created_at" : "2018-08-20 20:00:29",
+  "node_updated_at" : "2019-04-11 17:29:34"
+}, {
+  "node_id" : 121624,
+  "node_type_id" : 8,
+  "node_name" : "Bldg_Gas",
+  "node_display_name" : "Bldg_Gas",
+  "node_parent_id" : 120374,
+  "node_parent_node_type_id" : 3,
+  "node_created_at" : "2018-08-20 20:00:26",
+  "node_updated_at" : "2019-04-11 17:29:34"
+}, {
+  "node_id" : 121626,
+  "node_type_id" : 8,
+  "node_name" : "Bldg_Water",
+  "node_display_name" : "Bldg_Water",
+  "node_parent_id" : 120374,
+  "node_parent_node_type_id" : 3,
+  "node_created_at" : "2018-08-20 20:00:26",
+  "node_updated_at" : "2019-04-11 17:29:34"
+}, {
+  "node_id" : 121628,
+  "node_type_id" : 8,
+  "node_name" : "Breakaway_Gas",
+  "node_display_name" : "Breakaway_Gas",
+  "node_parent_id" : 120374,
+  "node_parent_node_type_id" : 3,
+  "node_created_at" : "2018-08-20 20:00:27",
+  "node_updated_at" : "2019-04-11 17:29:34"
+}, {
+  "node_id" : 120394,
+  "node_type_id" : 8,
+  "node_name" : "DX_26",
+  "node_display_name" : "Ice Plant (DX_26)",
+  "node_parent_id" : 120374,
+  "node_parent_node_type_id" : 3,
+  "node_created_at" : "2018-08-20 19:53:39",
+  "node_updated_at" : "2021-07-09 14:01:45"
+}, {
+  "node_id" : 121202,
+  "node_type_id" : 8,
+  "node_name" : "ICE",
+  "node_display_name" : "ICE",
+  "node_parent_id" : 120394,
+  "node_parent_node_type_id" : 8,
+  "node_created_at" : "2018-08-20 19:56:19",
+  "node_updated_at" : "2019-06-18 18:23:08"
+}, {
+  "node_id" : 120533,
+  "node_type_id" : 8,
+  "node_name" : "DX_28",
+  "node_display_name" : "DX_28",
+  "node_parent_id" : 120374,
+  "node_parent_node_type_id" : 3,
+  "node_created_at" : "2018-08-20 19:54:06",
+  "node_updated_at" : "2021-07-09 14:01:45"
+}, {
+  "node_id" : 120445,
+  "node_type_id" : 8,
+  "node_name" : "Dev_1475588",
+  "node_display_name" : "Dev_1475588",
+  "node_parent_id" : 120374,
+  "node_parent_node_type_id" : 3,
+  "node_created_at" : "2018-08-20 19:53:49",
+  "node_updated_at" : "2021-07-09 14:01:45"
+}, {
+  "node_id" : 121200,
+  "node_type_id" : 8,
+  "node_name" : "Schedule",
+  "node_display_name" : "Schedule",
+  "node_parent_id" : 120374,
+  "node_parent_node_type_id" : 3,
+  "node_created_at" : "2018-08-20 19:56:19",
+  "node_updated_at" : "2018-09-13 13:29:27"
+}, {
+  "node_id" : 120550,
+  "node_type_id" : 8,
+  "node_name" : "Semco_01",
+  "node_display_name" : "Semco_01",
+  "node_parent_id" : 120374,
+  "node_parent_node_type_id" : 3,
+  "node_created_at" : "2018-08-20 19:54:09",
+  "node_updated_at" : "2021-07-09 14:01:45"
+}, {
+  "node_id" : 120476,
+  "node_type_id" : 8,
+  "node_name" : "Semco_02",
+  "node_display_name" : "Semco_02",
+  "node_parent_id" : 120374,
+  "node_parent_node_type_id" : 3,
+  "node_created_at" : "2018-08-20 19:53:55",
+  "node_updated_at" : "2021-07-09 14:01:45"
+}, {
+  "node_id" : 123776,
+  "node_type_id" : 8,
+  "node_name" : "off prem weather station",
+  "node_display_name" : "Off Prem Weather Station",
+  "node_parent_id" : 120374,
+  "node_parent_node_type_id" : 3,
+  "node_created_at" : "2018-09-04 17:32:36",
+  "node_updated_at" : "2018-09-04 17:32:36"
+} ]

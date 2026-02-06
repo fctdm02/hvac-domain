@@ -1,0 +1,1083 @@
+[ {
+  "id" : 10,
+  "name" : "AHU Controller Performance",
+  "description" : "This report evaluates air handling unit (AHU) cooling valve, heating valve, and outside air damper commands based on total actuator movement and oscillations over time.",
+  "isInternal" : false,
+  "isBeta" : false,
+  "equipmentSpecs" : [ {
+    "id" : 10,
+    "equipmentTypeId" : 42,
+    "equipmentTypeName" : "ahu",
+    "tupleConstraintExpression" : "ClgCmd || HtgCmd || OaDmprCmd",
+    "tupleConstraintErrorMessage" : "Expected either a ClgCmd (cmd,cooling) point, a HtgCmd (cmd,heating) point, or an OaDmprCmd (air,cmd,damper,outside) point, but found none",
+    "pointSpecs" : [ {
+      "id" : 69,
+      "name" : "ClgCmd",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "errorMessage" : "Expected zero or one ClgCmd (cmd,cooling) point with data type of Numeric",
+      "requiredDataTypeId" : 1,
+      "tags" : [ "cmd", "cooling" ]
+    }, {
+      "id" : 72,
+      "name" : "DaFanSts",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "errorMessage" : "Expected zero or one DaFanSts (air,discharge,fan,run,sensor) point",
+      "tags" : [ "air", "discharge", "fan", "run", "sensor" ]
+    }, {
+      "id" : 70,
+      "name" : "HtgCmd",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "errorMessage" : "Expected zero or one HtgCmd (cmd,heating) point with data type of Numeric",
+      "requiredDataTypeId" : 1,
+      "tags" : [ "cmd", "heating" ]
+    }, {
+      "id" : 71,
+      "name" : "OaDmprCmd",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "errorMessage" : "Expected zero or one OaDmprCmd (air,cmd,damper,outside) point",
+      "tags" : [ "air", "cmd", "damper", "outside" ]
+    } ]
+  } ]
+}, {
+  "id" : 12,
+  "name" : "AHU Economizer Performance",
+  "description" : "This report evaluates Air Handling Unit (AHU) economizer operation (free cooling) and outside airflow, and provides a score based on the effectiveness of both. Fault conditions contributing to the score are: 1) weather conditions permit free cooling, but is not being fully utilized and 2) excessive outside air is entering the building resulting in additional heating or cooling. A relative cost is calculated to project the impact of these conditions.",
+  "isInternal" : false,
+  "isBeta" : false,
+  "equipmentSpecs" : [ {
+    "id" : 12,
+    "equipmentTypeId" : 42,
+    "equipmentTypeName" : "ahu",
+    "nodeFilterExpression" : "!mau",
+    "nodeFilterErrorMessage" : "Has 100% Makeup Unit tag",
+    "tupleConstraintExpression" : "(((OaHumidity && OaTemp) || (OffPremOaTemp && OffPremOaHumidity)) && ((DaFlow && OaFlow) || (MaTemp && RaTemp) || OaDmprCmd) && ((OaFlowMinSp && DaFlow) || OaDmprMinPosSp) && (ColdDeckTempSp || ColdDeckTemp || DaTempSp || DaTemp))",
+    "tupleConstraintErrorMessage" : "Point tuple constraint: (((OaHumidity && OaTemp) || (OffPremOaTemp && OffPremOaHumidity)) && ((DaFlow && OaFlow) || (MaTemp && RaTemp) || OaDmprCmd) && ((OaFlowMinSp && DaFlow) || OaDmprMinPosSp) && (ColdDeckTempSp || ColdDeckTemp || DaTempSp || DaTemp))",
+    "pointSpecs" : [ {
+      "id" : 81,
+      "name" : "ClgCmd",
+      "type" : "STANDARD",
+      "isRequired" : true,
+      "isArray" : false,
+      "errorMessage" : "Expected one ClgCmd (cmd,cooling) point",
+      "tags" : [ "cmd", "cooling" ]
+    }, {
+      "id" : 111,
+      "name" : "ColdDeckTemp",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "errorMessage" : "Expected zero or one ColdDeckTemp (air,coldDeck,sensor,temp) point",
+      "tags" : [ "air", "coldDeck", "sensor", "temp" ]
+    }, {
+      "id" : 110,
+      "name" : "ColdDeckTempSp",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "errorMessage" : "Expected zero or one ColdDeckTempSp (air,coldDeck,sp,temp) point",
+      "tags" : [ "air", "coldDeck", "sp", "temp" ]
+    }, {
+      "id" : 76,
+      "name" : "DaFanSts",
+      "type" : "STANDARD",
+      "isRequired" : true,
+      "isArray" : false,
+      "errorMessage" : "Expected one DaFanSts (air,discharge,fan,run,sensor) point",
+      "tags" : [ "air", "discharge", "fan", "run", "sensor" ]
+    }, {
+      "id" : 108,
+      "name" : "DaFlow",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "errorMessage" : "Expected zero or one DaFlow (air,discharge,flow,sensor) point",
+      "tags" : [ "air", "discharge", "flow", "sensor" ]
+    }, {
+      "id" : 112,
+      "name" : "DaTemp",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "errorMessage" : "Expected zero or one DaTemp (air,discharge,sensor,temp) point",
+      "tags" : [ "air", "discharge", "sensor", "temp" ]
+    }, {
+      "id" : 82,
+      "name" : "DaTempSp",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "errorMessage" : "Expected zero or one DaTempSp (air,discharge,sp,temp) point",
+      "tags" : [ "air", "discharge", "sp", "temp" ]
+    }, {
+      "id" : 83,
+      "name" : "EconMode",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "errorMessage" : "Expected zero or one EconMode (cmd,economizer,run) point",
+      "tags" : [ "cmd", "economizer", "run" ]
+    }, {
+      "id" : 86,
+      "name" : "HtgCmd",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "errorMessage" : "Expected zero or one HtgCmd (cmd,heating) point",
+      "tags" : [ "cmd", "heating" ]
+    }, {
+      "id" : 109,
+      "name" : "MaTemp",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "errorMessage" : "Expected zero or one MaTemp (air,mixed,sensor,temp) point",
+      "tags" : [ "air", "mixed", "sensor", "temp" ]
+    }, {
+      "id" : 79,
+      "name" : "OaDmprCmd",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "errorMessage" : "Expected zero or one OaDmprCmd (air,cmd,damper,outside) point",
+      "tags" : [ "air", "cmd", "damper", "outside" ]
+    }, {
+      "id" : 80,
+      "name" : "OaDmprMinPosSp",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "errorMessage" : "Expected zero or one OaDmprMinPosSp (air,damper,min,outside,sp) point",
+      "tags" : [ "air", "damper", "min", "outside", "sp" ]
+    }, {
+      "id" : 107,
+      "name" : "OaFlow",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "errorMessage" : "Expected zero or one OaFlow (air,flow,outside,sensor) point",
+      "tags" : [ "air", "flow", "outside", "sensor" ]
+    }, {
+      "id" : 113,
+      "name" : "OaFlowMinSp",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "errorMessage" : "Expected zero or one OaFlowMinSp (air,flow,min,outside,sp) point",
+      "tags" : [ "air", "flow", "min", "outside", "sp" ]
+    }, {
+      "id" : 78,
+      "name" : "OaHumidity",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "errorMessage" : "Expected zero or one OaHumidity (air,humidity,outside,sensor) point",
+      "tags" : [ "air", "humidity", "outside", "sensor" ]
+    }, {
+      "id" : 77,
+      "name" : "OaTemp",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "errorMessage" : "Expected zero or one OaTemp (air,outside,sensor,temp) point",
+      "tags" : [ "air", "outside", "sensor", "temp" ]
+    }, {
+      "id" : 114,
+      "name" : "OffPremOaHumidity",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "currentObjectExpression" : "ancestor(type=building).child(tags=off_prem_weather_station|*)",
+      "errorMessage" : "Expected zero or one OffPremOaHumidity (air,outside,sensor,humidity) point",
+      "tags" : [ "air", "humidity", "outside", "sensor" ]
+    }, {
+      "id" : 87,
+      "name" : "OffPremOaTemp",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "currentObjectExpression" : "ancestor(type=building).child(tags=off_prem_weather_station|*)",
+      "errorMessage" : "Expected zero or one OffPremOaTemp (air,outside,sensor,temp) point",
+      "tags" : [ "air", "outside", "sensor", "temp" ]
+    }, {
+      "id" : 85,
+      "name" : "RaHumidity",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "errorMessage" : "Expected zero or one RaHumidity (air,humidity,return,sensor) point",
+      "tags" : [ "air", "humidity", "return", "sensor" ]
+    }, {
+      "id" : 84,
+      "name" : "RaTemp",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "errorMessage" : "Expected zero or one RaTemp (air,return,sensor,temp) point",
+      "tags" : [ "air", "return", "sensor", "temp" ]
+    } ]
+  } ]
+}, {
+  "id" : 2,
+  "name" : "AHU Operations",
+  "description" : "This report scores air handling units based on the equipment’s ability to maintain discharge temperature and pressure setpoints. The 25 worst performing are shown along with potential root causes.",
+  "isInternal" : false,
+  "isBeta" : false,
+  "equipmentSpecs" : [ {
+    "id" : 2,
+    "equipmentTypeId" : 42,
+    "equipmentTypeName" : "ahu",
+    "nodeFilterExpression" : "!((elecHeat || gasHeat || hotWaterHeat || steamHeat) && !chilledWaterCool && !dxCool)",
+    "nodeFilterErrorMessage" : "Has heating tag, but is missing expected cooling tag",
+    "pointSpecs" : [ {
+      "id" : 15,
+      "name" : "ClgCmd",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "errorMessage" : "Expected zero or one ClgCmd (cmd,cooling) point",
+      "tags" : [ "cmd", "cooling" ]
+    }, {
+      "id" : 17,
+      "name" : "DaFanSpd",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "errorMessage" : "Expected zero or one DaFanSpd (air,cmd,discharge,fan,speed) point",
+      "tags" : [ "air", "cmd", "discharge", "fan", "speed" ]
+    }, {
+      "id" : 18,
+      "name" : "DaFanSts",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "errorMessage" : "Expected zero or one FanSts (cmd,fan,sensor) point",
+      "tags" : [ "air", "discharge", "fan", "run", "sensor" ]
+    }, {
+      "id" : 13,
+      "name" : "DaPress",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "errorMessage" : "Expected zero or one DaPress (air,discharge,pressure,sensor) point",
+      "tags" : [ "air", "discharge", "pressure", "sensor" ]
+    }, {
+      "id" : 14,
+      "name" : "DaPressSp",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "errorMessage" : "Expected zero or one DaPressSp (air,discharge,pressure,sp) point",
+      "tags" : [ "air", "discharge", "pressure", "sp" ]
+    }, {
+      "id" : 11,
+      "name" : "DaTemp",
+      "type" : "STANDARD",
+      "isRequired" : true,
+      "isArray" : false,
+      "errorMessage" : "Expected one DaTemp (air,discharge,sensor,temp) point",
+      "tags" : [ "air", "discharge", "sensor", "temp" ]
+    }, {
+      "id" : 12,
+      "name" : "DaTempSp",
+      "type" : "STANDARD",
+      "isRequired" : true,
+      "isArray" : false,
+      "errorMessage" : "Expected one DaTempSp (air,discharge,sp,temp) point",
+      "tags" : [ "air", "discharge", "sp", "temp" ]
+    }, {
+      "id" : 35,
+      "name" : "HtgCmd",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "errorMessage" : "Expected zero or one HtgCmd (cmd,heating) point",
+      "tags" : [ "cmd", "heating" ]
+    }, {
+      "id" : 16,
+      "name" : "OaDmprCmd",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "errorMessage" : "Expected zero or one OaDmprCmd (air,cmd,damper,outside) point",
+      "tags" : [ "air", "cmd", "damper", "outside" ]
+    }, {
+      "id" : 39,
+      "name" : "Rule3.1.10.1",
+      "type" : "RULE",
+      "isRequired" : false,
+      "errorMessage" : "Expected zero or one instances of rule 3.1.10.1 - Discharge Air Pressure Sensor Failure to be applied",
+      "ruleTemplateId" : 17
+    }, {
+      "id" : 36,
+      "name" : "Rule3.1.14.1",
+      "type" : "RULE",
+      "isRequired" : false,
+      "errorMessage" : "Expected zero or one instances of rule 3.1.14.1 - Discharge Air Fan VFD Invariant to be applied",
+      "ruleTemplateId" : 44
+    }, {
+      "id" : 37,
+      "name" : "Rule3.1.14.2",
+      "type" : "RULE",
+      "isRequired" : false,
+      "errorMessage" : "Expected zero or one instances of rule 3.1.14.2 - Discharge Air Fan VFD Invariant Fan Freq to be applied",
+      "ruleTemplateId" : 67
+    }, {
+      "id" : 38,
+      "name" : "Rule3.1.9.1",
+      "type" : "RULE",
+      "isRequired" : false,
+      "errorMessage" : "Expected zero or one instances of rule 3.1.9.1 - Discharge Air Temperature Sensor Failure to be applied",
+      "ruleTemplateId" : 5
+    } ]
+  } ]
+}, {
+  "id" : 3,
+  "name" : "AHU Performance",
+  "description" : "This report scores air handling units based on the equipment’s performance and efficiency. The 25 worst performing are shown with specific opportunities for improvement identified.",
+  "isInternal" : true,
+  "isBeta" : true,
+  "equipmentSpecs" : [ {
+    "id" : 3,
+    "equipmentTypeId" : 42,
+    "equipmentTypeName" : "ahu",
+    "pointSpecs" : [ {
+      "id" : 33,
+      "name" : "DaFanSts",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "errorMessage" : "Expected zero or one FanSts (cmd,fan,sensor) point",
+      "tags" : [ "air", "discharge", "fan", "run", "sensor" ]
+    }, {
+      "id" : 23,
+      "name" : "Rule3.1.15.1",
+      "type" : "RULE",
+      "isRequired" : false,
+      "errorMessage" : "Expected zero or one instances of rule 3.1.15.1 - Discharge Fan Static Pressure Setpoint Is Greater Than High Limit to be applied",
+      "ruleTemplateId" : 49
+    }, {
+      "id" : 24,
+      "name" : "Rule3.1.16.1",
+      "type" : "RULE",
+      "isRequired" : false,
+      "errorMessage" : "Expected zero or one instances of rule 3.1.16.1 - Discharge Fan Static Pressure Is Greater Than Setpoint to be applied",
+      "ruleTemplateId" : 68
+    }, {
+      "id" : 30,
+      "name" : "Rule3.1.21.1",
+      "type" : "RULE",
+      "isRequired" : false,
+      "errorMessage" : "Expected zero or one instances of rule 3.1.21.1 - Fan Status On When Commanded Off to be applied",
+      "ruleTemplateId" : 25
+    }, {
+      "id" : 25,
+      "name" : "Rule3.1.25.1",
+      "type" : "RULE",
+      "isRequired" : false,
+      "errorMessage" : "Expected zero or one instances of rule 3.1.25.1 - Discharge Air Static Pressure Setpoint Can Be Decreased to be applied",
+      "ruleTemplateId" : 34
+    }, {
+      "id" : 31,
+      "name" : "Rule3.1.27.1",
+      "type" : "RULE",
+      "isRequired" : false,
+      "errorMessage" : "Expected zero or one instances of rule 3.1.27.1 - Operating During Unoccupied Mode to be applied",
+      "ruleTemplateId" : 63
+    }, {
+      "id" : 26,
+      "name" : "Rule3.1.3.1",
+      "type" : "RULE",
+      "isRequired" : false,
+      "errorMessage" : "Expected zero or one instances of rule 3.1.3.1 - Free Cooling Is Not Maximized to be applied",
+      "ruleTemplateId" : 23
+    }, {
+      "id" : 32,
+      "name" : "Rule3.1.31.1",
+      "type" : "RULE",
+      "isRequired" : false,
+      "errorMessage" : "Expected zero or one instances of rule 3.1.31.1 - Majority Of VAVs In Heating Mode to be applied",
+      "ruleTemplateId" : 65
+    }, {
+      "id" : 21,
+      "name" : "Rule3.1.32.1",
+      "type" : "RULE",
+      "isRequired" : true,
+      "errorMessage" : "Expected one instance of rule 3.1.32.1 - Discharge Air Temperature Setpoint Is Less Than Low Limit to be applied",
+      "ruleTemplateId" : 78
+    }, {
+      "id" : 22,
+      "name" : "Rule3.1.34.1",
+      "type" : "RULE",
+      "isRequired" : true,
+      "errorMessage" : "Expected one instance of rule 3.1.34.1 - Discharge Air Temperature Is Less Than Setpoint to be applied",
+      "ruleTemplateId" : 79
+    }, {
+      "id" : 27,
+      "name" : "Rule3.1.4.1",
+      "type" : "RULE",
+      "isRequired" : false,
+      "errorMessage" : "Expected zero or one instances of rule 3.1.4.1 - Outside Air Damper Position is Greater Than Minimum Setpoint to be applied",
+      "ruleTemplateId" : 37
+    }, {
+      "id" : 28,
+      "name" : "Rule3.1.6.1",
+      "type" : "RULE",
+      "isRequired" : false,
+      "errorMessage" : "Expected zero or one instances of rule 3.1.6.1 - Percent Outside Air Calculated Is Greater Than Outside Air Damper Command to be applied",
+      "ruleTemplateId" : 26
+    }, {
+      "id" : 29,
+      "name" : "Rule3.1.7.1",
+      "type" : "RULE",
+      "isRequired" : false,
+      "errorMessage" : "Expected zero or one instances of rule 3.1.7.1 - Percent Outside Air Calculated Is Less Than Outside Air Damper Command to be applied",
+      "ruleTemplateId" : 27
+    }, {
+      "id" : 20,
+      "name" : "Rule3.1.8.1",
+      "type" : "RULE",
+      "isRequired" : true,
+      "errorMessage" : "Expected one instance of rule 3.1.8.1 - Operating Outside of Schedule to be applied",
+      "ruleTemplateId" : 62
+    } ]
+  } ]
+}, {
+  "id" : 8,
+  "name" : "AHU Schedule",
+  "description" : "The purpose of the AHU schedule report is to determine when AHUs are not running according to a predefined building schedule set by the user in RBI Synergy.",
+  "isInternal" : false,
+  "isBeta" : false,
+  "equipmentSpecs" : [ {
+    "id" : 8,
+    "equipmentTypeId" : 42,
+    "equipmentTypeName" : "ahu",
+    "pointSpecs" : [ {
+      "id" : 67,
+      "name" : "DaFanSts",
+      "type" : "STANDARD",
+      "isRequired" : true,
+      "isArray" : false,
+      "errorMessage" : "Expected one DaFanSts (air,discharge,fan,run,sensor) point",
+      "tags" : [ "air", "discharge", "fan", "run", "sensor" ]
+    }, {
+      "id" : 66,
+      "name" : "ScheduledOccSt",
+      "type" : "STANDARD",
+      "isRequired" : true,
+      "isArray" : false,
+      "currentObjectExpression" : "ancestor(type=building)",
+      "errorMessage" : "Expected one ScheduledOccSt (cmd,computed,occ,scheduled) point",
+      "tags" : [ "cmd", "computed", "occ", "scheduled" ]
+    } ]
+  } ]
+}, {
+  "id" : 4,
+  "name" : "High Demand Zones",
+  "description" : "This report identifies the most demanding VAV boxes based on the demand for cooling and airflow within the zone. The 25 most demanding VAV boxes are presented, along with potential root causes. ASHRAE Energy Standard 90.1 - 2016 requires the tracking and identification of high demand zones that will likely drive reset control strategies.",
+  "isInternal" : false,
+  "isBeta" : false,
+  "equipmentSpecs" : [ {
+    "id" : 4,
+    "equipmentTypeId" : 43,
+    "equipmentTypeName" : "vav",
+    "tupleConstraintExpression" : "(EffCoolSp || EffHeatSp) || ZoneTempDev",
+    "tupleConstraintErrorMessage" : "Expected either an EffCoolSp (air,cooling,effective,sp,temp,zone) point or an EffHeatSp (air,effective,heating,sp,temp,zone) point, or a ZoneTempDev (air,deviation,sensor,temp,zone) point, but found none",
+    "pointSpecs" : [ {
+      "id" : 48,
+      "name" : "DaFanSts",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "currentObjectExpression" : "parent(model=airSupply,type=equipment,tags=ahu|*)",
+      "errorMessage" : "Expected zero or one DaFanSts (air,discharge,fan,run,sensor) point",
+      "tags" : [ "air", "discharge", "fan", "run", "sensor" ]
+    }, {
+      "id" : 44,
+      "name" : "DaFlow",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "errorMessage" : "Expected zero or one DaFlow (air,discharge,flow,sensor) point",
+      "tags" : [ "air", "discharge", "flow", "sensor" ]
+    }, {
+      "id" : 45,
+      "name" : "DaFlowSp",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "errorMessage" : "Expected zero or one DaFlowSp (air,discharge,effective,flow,sp) point",
+      "tags" : [ "air", "discharge", "effective", "flow", "sp" ]
+    }, {
+      "id" : 46,
+      "name" : "DmprCmd",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "errorMessage" : "Expected zero or one DmprCmd (air,cmd,damper) point",
+      "tags" : [ "air", "cmd", "damper" ]
+    }, {
+      "id" : 41,
+      "name" : "EffCoolSp",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "errorMessage" : "Expected zero or one EffCoolSp (air,cooling,effective,sp,temp,zone) point",
+      "tags" : [ "air", "cooling", "effective", "sp", "temp", "zone" ]
+    }, {
+      "id" : 42,
+      "name" : "EffHeatSp",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "errorMessage" : "Expected zero or one EffHeatSp (air,effective,heating,sp,temp,zone) point",
+      "tags" : [ "air", "effective", "heating", "sp", "temp", "zone" ]
+    }, {
+      "id" : 47,
+      "name" : "RhtCmd",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "errorMessage" : "Expected zero or one RhtCmd (cmd,reheat) point",
+      "tags" : [ "cmd", "reheat" ]
+    }, {
+      "id" : 49,
+      "name" : "Rule3.2.18.1",
+      "type" : "RULE",
+      "isRequired" : false,
+      "errorMessage" : "Expected zero or one instances of rule 3.2.18.1 - VAV Discharge Airflow Sensor Failure to be applied",
+      "ruleTemplateId" : 47
+    }, {
+      "id" : 50,
+      "name" : "Rule3.2.9.1",
+      "type" : "RULE",
+      "isRequired" : false,
+      "errorMessage" : "Expected zero or one instances of rule 3.2.9.1 - VAV Zone Temperature Sensor Failure to be applied",
+      "ruleTemplateId" : 4
+    }, {
+      "id" : 40,
+      "name" : "ZoneTemp",
+      "type" : "STANDARD",
+      "isRequired" : true,
+      "isArray" : false,
+      "errorMessage" : "Expected one ZoneTemp (air,sensor,temp,zone) point",
+      "tags" : [ "air", "sensor", "temp", "zone" ]
+    }, {
+      "id" : 43,
+      "name" : "ZoneTempDev",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "errorMessage" : "Expected zero or one ZoneTempDev (air,deviation,sensor,temp,zone) point",
+      "tags" : [ "air", "deviation", "sensor", "temp", "zone" ]
+    } ]
+  } ]
+}, {
+  "id" : 13,
+  "name" : "IAQ Scorecard",
+  "description" : "Zones being served by Variable Air Volume boxes (VAVs) will be evaluated for compliance with the latest ASHRAE and CDC guildelines for Indoor Air Quality.",
+  "isInternal" : false,
+  "isBeta" : false,
+  "equipmentSpecs" : [ {
+    "id" : 13,
+    "equipmentTypeId" : 43,
+    "equipmentTypeName" : "vav",
+    "pointSpecs" : [ {
+      "id" : 93,
+      "name" : "CoolMinFlow",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "errorMessage" : "Expected zero or one CoolMinFlow (cooling,flow,min,sp) point",
+      "tags" : [ "cooling", "flow", "min", "sp" ]
+    }, {
+      "id" : 96,
+      "name" : "DaFanSts",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "currentObjectExpression" : "parent(model=airSupply,type=equipment,tags=ahu|*)",
+      "errorMessage" : "Expected zero or one DaFanSts (air,discharge,fan,run,sensor) point",
+      "tags" : [ "air", "discharge", "fan", "run", "sensor" ]
+    }, {
+      "id" : 92,
+      "name" : "DaFlow",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "errorMessage" : "Expected zero or one DaFlow (air,discharge,flow,sensor) point",
+      "tags" : [ "air", "discharge", "flow", "sensor" ]
+    }, {
+      "id" : 101,
+      "name" : "DaFlow",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "currentObjectExpression" : "parentEquipment(tags=ahu|*)",
+      "errorMessage" : "Expected zero or one DaFlow (air,discharge,flow,sensor) point",
+      "tags" : [ "air", "discharge", "flow", "sensor" ]
+    }, {
+      "id" : 105,
+      "name" : "DaFlowSp",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "errorMessage" : "Expected zero or one DaFlowSp (air,discharge,effective,flow,sp) point",
+      "tags" : [ "air", "discharge", "effective", "flow", "sp" ]
+    }, {
+      "id" : 94,
+      "name" : "HeatMinFlow",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "errorMessage" : "Expected zero or one HeatMinFlow (flow,heating,min,sp) point",
+      "tags" : [ "flow", "heating", "min", "sp" ]
+    }, {
+      "id" : 98,
+      "name" : "MaTemp",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "currentObjectExpression" : "parentEquipment(tags=ahu|*)",
+      "errorMessage" : "Expected zero or one MaTemp (air,mixed,sensor,temp) point",
+      "tags" : [ "air", "mixed", "sensor", "temp" ]
+    }, {
+      "id" : 95,
+      "name" : "OaFlow",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "currentObjectExpression" : "parentEquipment(tags=ahu|*)",
+      "errorMessage" : "Expected zero or one OaFlow (air,flow,outside,sensor) point",
+      "tags" : [ "air", "flow", "outside", "sensor" ]
+    }, {
+      "id" : 100,
+      "name" : "OaFlowMinSp",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "currentObjectExpression" : "parentEquipment(tags=ahu|*)",
+      "errorMessage" : "Expected zero or one OaFlowMinSp (air,flow,min,outside,sp) point",
+      "tags" : [ "air", "flow", "min", "outside", "sp" ]
+    }, {
+      "id" : 99,
+      "name" : "OaTemp",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "currentObjectExpression" : "parentEquipment(tags=ahu|*)",
+      "errorMessage" : "Expected zero or one OaTemp (air,outside,sensor,temp) point",
+      "tags" : [ "air", "outside", "sensor", "temp" ]
+    }, {
+      "id" : 89,
+      "name" : "Occ",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "errorMessage" : "Expected zero or one Occ (cmd,occupied) point",
+      "tags" : [ "cmd", "occupied" ]
+    }, {
+      "id" : 103,
+      "name" : "RaCO2",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "currentObjectExpression" : "parentEquipment(tags=ahu|*)",
+      "errorMessage" : "Expected zero or one RaCO2 (air,co2,return,sensor) point",
+      "tags" : [ "air", "co2", "return", "sensor" ]
+    }, {
+      "id" : 102,
+      "name" : "RaHumidity",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "currentObjectExpression" : "parentEquipment(tags=ahu|*)",
+      "errorMessage" : "Expected zero or one RaHumidity (air,humidity,return,sensor) point",
+      "tags" : [ "air", "humidity", "return", "sensor" ]
+    }, {
+      "id" : 97,
+      "name" : "RaTemp",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "currentObjectExpression" : "parentEquipment(tags=ahu|*)",
+      "errorMessage" : "Expected zero or one RaTemp (air,return,sensor,temp) point",
+      "tags" : [ "air", "return", "sensor", "temp" ]
+    }, {
+      "id" : 104,
+      "name" : "Rule3.1.5.1",
+      "type" : "RULE",
+      "isRequired" : false,
+      "currentObjectExpression" : "parentEquipment(tags=ahu|*)",
+      "errorMessage" : "Expected zero or one instances of rule 3.1.5.1 - Outside Air Damper Does Not Meet the Minimum Position Setpoint to be applied",
+      "ruleTemplateId" : 39
+    }, {
+      "id" : 91,
+      "name" : "ZoneCO2",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "errorMessage" : "Expected zero or one ZoneCO2 (air,co2,sensor,zone) point",
+      "tags" : [ "air", "co2", "sensor", "zone" ]
+    }, {
+      "id" : 90,
+      "name" : "ZoneHumidity",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "errorMessage" : "Expected zero or one ZoneHumidity (air,humidity,sensor,zone) point",
+      "tags" : [ "air", "humidity", "sensor", "zone" ]
+    }, {
+      "id" : 88,
+      "name" : "ZoneTemp",
+      "type" : "STANDARD",
+      "isRequired" : true,
+      "isArray" : false,
+      "errorMessage" : "Expected one ZoneTemp (air,sensor,temp,zone) point",
+      "tags" : [ "air", "sensor", "temp", "zone" ]
+    } ]
+  } ]
+}, {
+  "id" : 6,
+  "name" : "OR Performance",
+  "description" : "Operating Rooms (ORs) being served by Variable Air Volume boxes (VAVs) will be evaluated for performance and energy efficiency and scored.",
+  "isInternal" : false,
+  "isBeta" : true,
+  "equipmentSpecs" : [ {
+    "id" : 6,
+    "equipmentTypeId" : 43,
+    "equipmentTypeName" : "vav",
+    "pointSpecs" : [ {
+      "id" : 55,
+      "name" : "Occ",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "errorMessage" : "Expected zero or one Occ (cmd,occupied) point",
+      "tags" : [ "cmd", "occupied" ]
+    }, {
+      "id" : 62,
+      "name" : "ZoneAirChangeRateOa",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "errorMessage" : "Expected one ZoneAirChangeRateOa (air,changes,outside,sensor,zone) point",
+      "tags" : [ "air", "changes", "outside", "sensor", "zone" ]
+    }, {
+      "id" : 61,
+      "name" : "ZoneAirChangeRateTotal",
+      "type" : "STANDARD",
+      "isRequired" : true,
+      "isArray" : false,
+      "errorMessage" : "Expected one ZoneAirChangeRateTotal (air,changes,sensor,total,zone) point",
+      "tags" : [ "air", "changes", "sensor", "total", "zone" ]
+    }, {
+      "id" : 57,
+      "name" : "ZoneHumidity",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "errorMessage" : "Expected zero or one ZoneHumidity (air,humidity,sensor,zone) point",
+      "tags" : [ "air", "humidity", "sensor", "zone" ]
+    }, {
+      "id" : 58,
+      "name" : "ZonePress",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "errorMessage" : "Expected zero or one ZonePress (air,pressure,sensor,zone) point",
+      "tags" : [ "air", "pressure", "sensor", "zone" ]
+    }, {
+      "id" : 56,
+      "name" : "ZoneTemp",
+      "type" : "STANDARD",
+      "isRequired" : true,
+      "isArray" : false,
+      "errorMessage" : "Expected one ZoneTemp (air,sensor,temp,zone) point",
+      "tags" : [ "air", "sensor", "temp", "zone" ]
+    } ]
+  } ]
+}, {
+  "id" : 5,
+  "name" : "OR Scorecard",
+  "description" : "Operating Rooms (ORs) being served by Variable Air Volume boxes (VAVs) will be evaluated for compliance based on the ANSI/ASHRAE/ASHE Standard 170-2017 Ventilation of Health Care Facilities and scored.",
+  "isInternal" : false,
+  "isBeta" : false,
+  "equipmentSpecs" : [ {
+    "id" : 5,
+    "equipmentTypeId" : 43,
+    "equipmentTypeName" : "vav",
+    "pointSpecs" : [ {
+      "id" : 115,
+      "name" : "DoorSts",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "errorMessage" : "Expected zero or one DoorSts point",
+      "tags" : [ "switch" ]
+    }, {
+      "id" : 51,
+      "name" : "Occ",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "errorMessage" : "Expected zero or one Occ (cmd,occupied) point",
+      "tags" : [ "cmd", "occupied" ]
+    }, {
+      "id" : 60,
+      "name" : "ZoneAirChangeRateOa",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "errorMessage" : "Expected one ZoneAirChangeRateOa (air,changes,outside,sensor,zone) point",
+      "tags" : [ "air", "changes", "outside", "sensor", "zone" ]
+    }, {
+      "id" : 59,
+      "name" : "ZoneAirChangeRateTotal",
+      "type" : "STANDARD",
+      "isRequired" : true,
+      "isArray" : false,
+      "errorMessage" : "Expected one ZoneAirChangeRateTotal (air,changes,sensor,total,zone) point",
+      "tags" : [ "air", "changes", "sensor", "total", "zone" ]
+    }, {
+      "id" : 53,
+      "name" : "ZoneHumidity",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "errorMessage" : "Expected zero or one ZoneHumidity (air,humidity,sensor,zone) point",
+      "tags" : [ "air", "humidity", "sensor", "zone" ]
+    }, {
+      "id" : 54,
+      "name" : "ZonePress",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "errorMessage" : "Expected zero or one ZonePress (air,pressure,sensor,zone) point",
+      "tags" : [ "air", "pressure", "sensor", "zone" ]
+    }, {
+      "id" : 52,
+      "name" : "ZoneTemp",
+      "type" : "STANDARD",
+      "isRequired" : true,
+      "isArray" : false,
+      "errorMessage" : "Expected one ZoneTemp (air,sensor,temp,zone) point",
+      "tags" : [ "air", "sensor", "temp", "zone" ]
+    } ]
+  } ]
+}, {
+  "id" : 9,
+  "name" : "RTU DX Staging - Short Cycling",
+  "description" : "According to Copeland from Emerson Climate Technologies, to reduce the stress on the compressor running gear, a balanced pressure shutdown and subsequent start-up is suggested. This is obtained by equalizing the pressures for a brief period before shutdown and at start-up.\n\t\t•   The ideal suggested compressor cycle rate for reciprocating compressors is a maximum of 12 cycles per hour.\n\t\t•   This includes a recommended off time between cycles of 10 seconds minimum.\n\t\t•   The recommended minimum run time from startup to shutdown is 5 minutes.",
+  "isInternal" : true,
+  "isBeta" : true,
+  "equipmentSpecs" : [ {
+    "id" : 9,
+    "equipmentTypeId" : 42,
+    "equipmentTypeName" : "ahu",
+    "nodeFilterExpression" : "rooftop",
+    "nodeFilterErrorMessage" : "Missing expected rooftop tag",
+    "pointSpecs" : [ {
+      "id" : 68,
+      "name" : "ClgCmd",
+      "type" : "STANDARD",
+      "isRequired" : true,
+      "isArray" : false,
+      "errorMessage" : "Expected one ClgCmd (cmd,cooling) point",
+      "tags" : [ "cmd", "cooling" ]
+    } ]
+  } ]
+}, {
+  "id" : 7,
+  "name" : "VAV Controller Performance",
+  "description" : "This report evaluates Variable Air Volume Box (VAV) airflow damper and reheat valve commands based on total actuator movement and oscillations over time. The bottom 25 are listed.",
+  "isInternal" : false,
+  "isBeta" : false,
+  "equipmentSpecs" : [ {
+    "id" : 7,
+    "equipmentTypeId" : 43,
+    "equipmentTypeName" : "vav",
+    "tupleConstraintExpression" : "DmprCmd || RhtCmd",
+    "tupleConstraintErrorMessage" : "Expected either a DmprCmd (air,cmd,damper)  point or a RhtCmd (cmd,reheat) point, but found none",
+    "pointSpecs" : [ {
+      "id" : 65,
+      "name" : "DaFanSts",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "currentObjectExpression" : "parent(model=airSupply,type=equipment,tags=ahu|*)",
+      "errorMessage" : "Expected zero or one DaFanSts (air,discharge,fan,run,sensor) point",
+      "tags" : [ "air", "discharge", "fan", "run", "sensor" ]
+    }, {
+      "id" : 63,
+      "name" : "DmprCmd",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "errorMessage" : "Expected zero or one DmprCmd (air,cmd,damper) point with data type of Numeric",
+      "requiredDataTypeId" : 1,
+      "tags" : [ "air", "cmd", "damper" ]
+    }, {
+      "id" : 64,
+      "name" : "RhtCmd",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "errorMessage" : "Expected zero or one RhtCmd (cmd,reheat) point with data type of Numeric",
+      "requiredDataTypeId" : 1,
+      "tags" : [ "cmd", "reheat" ]
+    } ]
+  } ]
+}, {
+  "id" : 11,
+  "name" : "VAV Overrides",
+  "description" : "Variable Air Volume boxes (VAVs) will be evaluated for overrides and scored.",
+  "isInternal" : true,
+  "isBeta" : true,
+  "equipmentSpecs" : [ {
+    "id" : 11,
+    "equipmentTypeId" : 43,
+    "equipmentTypeName" : "vav",
+    "pointSpecs" : [ {
+      "id" : 73,
+      "name" : "DmprCmd",
+      "type" : "STANDARD",
+      "isRequired" : true,
+      "isArray" : false,
+      "errorMessage" : "Expected one DmprCmd (air,cmd,damper) point",
+      "tags" : [ "air", "cmd", "damper" ]
+    }, {
+      "id" : 75,
+      "name" : "FanCmd",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "errorMessage" : "Expected zero or one FanCmd (fan,run,run) point",
+      "tags" : [ "cmd", "fan", "run" ]
+    }, {
+      "id" : 74,
+      "name" : "RhtCmd",
+      "type" : "STANDARD",
+      "isRequired" : true,
+      "isArray" : false,
+      "errorMessage" : "Expected one RhtCmd (cmd,reheat) point",
+      "tags" : [ "cmd", "reheat" ]
+    } ]
+  } ]
+}, {
+  "id" : 1,
+  "name" : "VAV Scorecard",
+  "description" : "This report scores VAV boxes based on their ability to maintain zone temperature and airflow setpoints, and identifies the 25 worst performing VAV boxes, along with potential root causes.",
+  "isInternal" : false,
+  "isBeta" : false,
+  "equipmentSpecs" : [ {
+    "id" : 1,
+    "equipmentTypeId" : 43,
+    "equipmentTypeName" : "vav",
+    "tupleConstraintExpression" : "(EffCoolSp || EffHeatSp) || ZoneTempDev",
+    "tupleConstraintErrorMessage" : "Expected either an EffCoolSp (air,cooling,effective,sp,temp,zone) point or an EffHeatSp (air,effective,heating,sp,temp,zone) point, or a ZoneTempDev (air,deviation,sensor,temp,zone) point, but found none",
+    "pointSpecs" : [ {
+      "id" : 8,
+      "name" : "DaFanSts",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "currentObjectExpression" : "parent(model=airSupply,type=equipment,tags=ahu|*)",
+      "errorMessage" : "Expected zero or one DaFanSts (air,discharge,fan,run,sensor) point",
+      "tags" : [ "air", "discharge", "fan", "run", "sensor" ]
+    }, {
+      "id" : 4,
+      "name" : "DaFlow",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "errorMessage" : "Expected zero or one DaFlow (air,discharge,flow,sensor) point",
+      "tags" : [ "air", "discharge", "flow", "sensor" ]
+    }, {
+      "id" : 5,
+      "name" : "DaFlowSp",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "errorMessage" : "Expected zero or one DaFlowSp (air,discharge,effective,flow,sp) point",
+      "tags" : [ "air", "discharge", "effective", "flow", "sp" ]
+    }, {
+      "id" : 106,
+      "name" : "DaTemp",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "errorMessage" : "Expected zero or one DaTemp (air,discharge,sensor,temp) point",
+      "tags" : [ "air", "discharge", "sensor", "temp" ]
+    }, {
+      "id" : 6,
+      "name" : "DmprPos",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "errorMessage" : "Expected zero or one DmprPos (air,cmd,damper) point",
+      "tags" : [ "air", "cmd", "damper" ]
+    }, {
+      "id" : 2,
+      "name" : "EffCoolSp",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "errorMessage" : "Expected zero or one EffCoolSp (air,cooling,effective,sp,temp,zone) point",
+      "tags" : [ "air", "cooling", "effective", "sp", "temp", "zone" ]
+    }, {
+      "id" : 3,
+      "name" : "EffHeatSp",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "errorMessage" : "Expected zero or one EffHeatSp (air,effective,heating,sp,temp,zone) point",
+      "tags" : [ "air", "effective", "heating", "sp", "temp", "zone" ]
+    }, {
+      "id" : 7,
+      "name" : "RhtCmd",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "errorMessage" : "Expected zero or one RhtCmd (cmd,reheat) point",
+      "tags" : [ "cmd", "reheat" ]
+    }, {
+      "id" : 9,
+      "name" : "Rule3.2.18.1",
+      "type" : "RULE",
+      "isRequired" : false,
+      "errorMessage" : "Expected zero or one instances of rule 3.2.18.1 - VAV Discharge Airflow Sensor Failure to be applied",
+      "ruleTemplateId" : 47
+    }, {
+      "id" : 10,
+      "name" : "Rule3.2.9.1",
+      "type" : "RULE",
+      "isRequired" : false,
+      "errorMessage" : "Expected zero or one instances of rule 3.2.9.1 - VAV Zone Temperature Sensor Failure to be applied",
+      "ruleTemplateId" : 4
+    }, {
+      "id" : 1,
+      "name" : "ZoneTemp",
+      "type" : "STANDARD",
+      "isRequired" : true,
+      "isArray" : false,
+      "errorMessage" : "Expected one ZoneTemp (air,sensor,temp,zone) point",
+      "tags" : [ "air", "sensor", "temp", "zone" ]
+    }, {
+      "id" : 34,
+      "name" : "ZoneTempDev",
+      "type" : "STANDARD",
+      "isRequired" : false,
+      "isArray" : false,
+      "errorMessage" : "Expected zero or one ZoneTempDev (air,deviation,sensor,temp,zone) point",
+      "tags" : [ "air", "deviation", "sensor", "temp", "zone" ]
+    } ]
+  } ]
+} ]

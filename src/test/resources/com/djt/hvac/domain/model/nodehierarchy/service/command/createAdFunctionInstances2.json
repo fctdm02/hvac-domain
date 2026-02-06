@@ -1,0 +1,16 @@
+{
+	"customerId": 1,
+	"buildingIds": [2],
+	"submittedBy": "tmyers@resolutebi.com",
+	"performAutomaticRemediation": false,
+	"performAutomaticEvaluateReports": false,
+	"performAutomaticConfiguration": false,
+	"nodePath": "*",
+	"equipmentTypeId": -2,
+	"adFunctionTemplateId": -2,
+	"equipmentId": 3,
+	"functionType": "RULE",
+	"candidateTemplateEquipmentIds": {
+		"3": [4, 5, 6]
+	}
+}

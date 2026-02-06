@@ -1,0 +1,780 @@
+[ {
+  "id" : 18262,
+  "reportTemplateId" : 10,
+  "buildingId" : 120374,
+  "createdAt" : 1630671948783,
+  "updatedAt" : 1630671948783,
+  "candidateJson" : "[{\"reportTemplateEquipmentSpecId\":10,\"equipmentId\":120445,\"reportInstancePoints\":[{\"reportInstanceId\":18262,\"reportTemplateEquipmentSpecId\":10,\"reportTemplatePointSpecId\":71,\"equipmentId\":120445,\"pointId\":120560,\"type\":\"STANDARD\"}]},{\"reportTemplateEquipmentSpecId\":10,\"equipmentId\":120461,\"reportInstancePoints\":[{\"reportInstanceId\":18262,\"reportTemplateEquipmentSpecId\":10,\"reportTemplatePointSpecId\":69,\"equipmentId\":120461,\"pointId\":2698882,\"type\":\"STANDARD\"},{\"reportInstanceId\":18262,\"reportTemplateEquipmentSpecId\":10,\"reportTemplatePointSpecId\":72,\"equipmentId\":120461,\"pointId\":2698852,\"type\":\"STANDARD\"},{\"reportInstanceId\":18262,\"reportTemplateEquipmentSpecId\":10,\"reportTemplatePointSpecId\":71,\"equipmentId\":120461,\"pointId\":2698869,\"type\":\"STANDARD\"}]},{\"reportTemplateEquipmentSpecId\":10,\"equipmentId\":120457,\"reportInstancePoints\":[{\"reportInstanceId\":18262,\"reportTemplateEquipmentSpecId\":10,\"reportTemplatePointSpecId\":71,\"equipmentId\":120457,\"pointId\":120458,\"type\":\"STANDARD\"}]},{\"reportTemplateEquipmentSpecId\":10,\"equipmentId\":120385,\"reportInstancePoints\":[{\"reportInstanceId\":18262,\"reportTemplateEquipmentSpecId\":10,\"reportTemplatePointSpecId\":72,\"equipmentId\":120385,\"pointId\":937320,\"type\":\"STANDARD\"},{\"reportInstanceId\":18262,\"reportTemplateEquipmentSpecId\":10,\"reportTemplatePointSpecId\":70,\"equipmentId\":120385,\"pointId\":937311,\"type\":\"STANDARD\"}]}]",
+  "errorMessages" : [ {
+    "reportTemplateId" : 10,
+    "buildingId" : 120374,
+    "equipmentId" : 120394,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ -10 ]
+  }, {
+    "reportTemplateId" : 10,
+    "buildingId" : 120374,
+    "equipmentId" : 120533,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ -10 ]
+  }, {
+    "reportTemplateId" : 10,
+    "buildingId" : 120374,
+    "equipmentId" : 120550,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ -10 ]
+  }, {
+    "reportTemplateId" : 10,
+    "buildingId" : 120374,
+    "equipmentId" : 120476,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ -10 ]
+  }, {
+    "reportTemplateId" : 10,
+    "buildingId" : 120374,
+    "equipmentId" : 120401,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ -10 ]
+  }, {
+    "reportTemplateId" : 10,
+    "buildingId" : 120374,
+    "equipmentId" : 120417,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ -10 ]
+  }, {
+    "reportTemplateId" : 10,
+    "buildingId" : 120374,
+    "equipmentId" : 120404,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ -10 ]
+  }, {
+    "reportTemplateId" : 10,
+    "buildingId" : 120374,
+    "equipmentId" : 120421,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ -10 ]
+  }, {
+    "reportTemplateId" : 10,
+    "buildingId" : 120374,
+    "equipmentId" : 120506,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ -10 ]
+  }, {
+    "reportTemplateId" : 10,
+    "buildingId" : 120374,
+    "equipmentId" : 120440,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ -10 ]
+  }, {
+    "reportTemplateId" : 10,
+    "buildingId" : 120374,
+    "equipmentId" : 120438,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ -10 ]
+  }, {
+    "reportTemplateId" : 10,
+    "buildingId" : 120374,
+    "equipmentId" : 121208,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ -10 ]
+  } ],
+  "stateHasChanged" : false,
+  "needsEnabling" : false,
+  "needsDisabling" : false,
+  "ignored" : false
+}, {
+  "reportTemplateId" : 12,
+  "buildingId" : 120374,
+  "createdAt" : 1630671948783,
+  "updatedAt" : 1630671948783,
+  "candidateJson" : "[]",
+  "errorMessages" : [ {
+    "reportTemplateId" : 12,
+    "buildingId" : 120374,
+    "equipmentId" : 120394,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 81, 76, -12 ]
+  }, {
+    "reportTemplateId" : 12,
+    "buildingId" : 120374,
+    "equipmentId" : 120533,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 81, -12 ]
+  }, {
+    "reportTemplateId" : 12,
+    "buildingId" : 120374,
+    "equipmentId" : 120445,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 81, 76, -12 ]
+  }, {
+    "reportTemplateId" : 12,
+    "buildingId" : 120374,
+    "equipmentId" : 120550,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 81, 76, -12 ]
+  }, {
+    "reportTemplateId" : 12,
+    "buildingId" : 120374,
+    "equipmentId" : 120476,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 81, 76, -12 ]
+  }, {
+    "reportTemplateId" : 12,
+    "buildingId" : 120374,
+    "equipmentId" : 120401,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 81, -12 ]
+  }, {
+    "reportTemplateId" : 12,
+    "buildingId" : 120374,
+    "equipmentId" : 120417,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 81, 76, -12 ]
+  }, {
+    "reportTemplateId" : 12,
+    "buildingId" : 120374,
+    "equipmentId" : 120461,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ -12 ]
+  }, {
+    "reportTemplateId" : 12,
+    "buildingId" : 120374,
+    "equipmentId" : 120457,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 81, 76, -12 ]
+  }, {
+    "reportTemplateId" : 12,
+    "buildingId" : 120374,
+    "equipmentId" : 120404,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 81, 76, -12 ]
+  }, {
+    "reportTemplateId" : 12,
+    "buildingId" : 120374,
+    "equipmentId" : 120385,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 81, -12 ]
+  }, {
+    "reportTemplateId" : 12,
+    "buildingId" : 120374,
+    "equipmentId" : 120421,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 81, -12 ]
+  }, {
+    "reportTemplateId" : 12,
+    "buildingId" : 120374,
+    "equipmentId" : 120506,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 81, 76, -12 ]
+  }, {
+    "reportTemplateId" : 12,
+    "buildingId" : 120374,
+    "equipmentId" : 120440,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 81, -12 ]
+  }, {
+    "reportTemplateId" : 12,
+    "buildingId" : 120374,
+    "equipmentId" : 120438,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 81, 76, -12 ]
+  }, {
+    "reportTemplateId" : 12,
+    "buildingId" : 120374,
+    "equipmentId" : 121208,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 81, 76, -12 ]
+  } ],
+  "stateHasChanged" : false,
+  "needsEnabling" : false,
+  "needsDisabling" : false,
+  "ignored" : false
+}, {
+  "id" : 16909,
+  "reportTemplateId" : 2,
+  "buildingId" : 120374,
+  "createdAt" : 1630671948783,
+  "updatedAt" : 1630671948783,
+  "candidateJson" : "[{\"reportTemplateEquipmentSpecId\":2,\"equipmentId\":120445,\"reportInstancePoints\":[{\"reportInstanceId\":16909,\"reportTemplateEquipmentSpecId\":2,\"reportTemplatePointSpecId\":11,\"equipmentId\":120445,\"pointId\":121482,\"type\":\"STANDARD\"},{\"reportInstanceId\":16909,\"reportTemplateEquipmentSpecId\":2,\"reportTemplatePointSpecId\":12,\"equipmentId\":120445,\"pointId\":120871,\"type\":\"STANDARD\"},{\"reportInstanceId\":16909,\"reportTemplateEquipmentSpecId\":2,\"reportTemplatePointSpecId\":16,\"equipmentId\":120445,\"pointId\":120560,\"type\":\"STANDARD\"}]},{\"reportTemplateEquipmentSpecId\":2,\"equipmentId\":120417,\"reportInstancePoints\":[{\"reportInstanceId\":16909,\"reportTemplateEquipmentSpecId\":2,\"reportTemplatePointSpecId\":11,\"equipmentId\":120417,\"pointId\":276491,\"type\":\"STANDARD\"},{\"reportInstanceId\":16909,\"reportTemplateEquipmentSpecId\":2,\"reportTemplatePointSpecId\":12,\"equipmentId\":120417,\"pointId\":120816,\"type\":\"STANDARD\"}]},{\"reportTemplateEquipmentSpecId\":2,\"equipmentId\":120461,\"reportInstancePoints\":[{\"reportInstanceId\":16909,\"reportTemplateEquipmentSpecId\":2,\"reportTemplatePointSpecId\":15,\"equipmentId\":120461,\"pointId\":2698882,\"type\":\"STANDARD\"},{\"reportInstanceId\":16909,\"reportTemplateEquipmentSpecId\":2,\"reportTemplatePointSpecId\":17,\"equipmentId\":120461,\"pointId\":2698881,\"type\":\"STANDARD\"},{\"reportInstanceId\":16909,\"reportTemplateEquipmentSpecId\":2,\"reportTemplatePointSpecId\":18,\"equipmentId\":120461,\"pointId\":2698852,\"type\":\"STANDARD\"},{\"reportInstanceId\":16909,\"reportTemplateEquipmentSpecId\":2,\"reportTemplatePointSpecId\":13,\"equipmentId\":120461,\"pointId\":2698854,\"type\":\"STANDARD\"},{\"reportInstanceId\":16909,\"reportTemplateEquipmentSpecId\":2,\"reportTemplatePointSpecId\":11,\"equipmentId\":120461,\"pointId\":2698884,\"type\":\"STANDARD\"},{\"reportInstanceId\":16909,\"reportTemplateEquipmentSpecId\":2,\"reportTemplatePointSpecId\":12,\"equipmentId\":120461,\"pointId\":2698878,\"type\":\"STANDARD\"},{\"reportInstanceId\":16909,\"reportTemplateEquipmentSpecId\":2,\"reportTemplatePointSpecId\":16,\"equipmentId\":120461,\"pointId\":2698869,\"type\":\"STANDARD\"},{\"reportInstanceId\":16909,\"reportTemplateEquipmentSpecId\":2,\"reportTemplatePointSpecId\":39,\"equipmentId\":120461,\"pointId\":2698899,\"type\":\"RULE\"},{\"reportInstanceId\":16909,\"reportTemplateEquipmentSpecId\":2,\"reportTemplatePointSpecId\":36,\"equipmentId\":120461,\"pointId\":2698900,\"type\":\"RULE\"},{\"reportInstanceId\":16909,\"reportTemplateEquipmentSpecId\":2,\"reportTemplatePointSpecId\":38,\"equipmentId\":120461,\"pointId\":2698911,\"type\":\"RULE\"}]},{\"reportTemplateEquipmentSpecId\":2,\"equipmentId\":120457,\"reportInstancePoints\":[{\"reportInstanceId\":16909,\"reportTemplateEquipmentSpecId\":2,\"reportTemplatePointSpecId\":11,\"equipmentId\":120457,\"pointId\":276493,\"type\":\"STANDARD\"},{\"reportInstanceId\":16909,\"reportTemplateEquipmentSpecId\":2,\"reportTemplatePointSpecId\":12,\"equipmentId\":120457,\"pointId\":120839,\"type\":\"STANDARD\"},{\"reportInstanceId\":16909,\"reportTemplateEquipmentSpecId\":2,\"reportTemplatePointSpecId\":16,\"equipmentId\":120457,\"pointId\":120458,\"type\":\"STANDARD\"}]},{\"reportTemplateEquipmentSpecId\":2,\"equipmentId\":120404,\"reportInstancePoints\":[{\"reportInstanceId\":16909,\"reportTemplateEquipmentSpecId\":2,\"reportTemplatePointSpecId\":11,\"equipmentId\":120404,\"pointId\":937273,\"type\":\"STANDARD\"},{\"reportInstanceId\":16909,\"reportTemplateEquipmentSpecId\":2,\"reportTemplatePointSpecId\":12,\"equipmentId\":120404,\"pointId\":120974,\"type\":\"STANDARD\"}]},{\"reportTemplateEquipmentSpecId\":2,\"equipmentId\":120440,\"reportInstancePoints\":[{\"reportInstanceId\":16909,\"reportTemplateEquipmentSpecId\":2,\"reportTemplatePointSpecId\":18,\"equipmentId\":120440,\"pointId\":937367,\"type\":\"STANDARD\"},{\"reportInstanceId\":16909,\"reportTemplateEquipmentSpecId\":2,\"reportTemplatePointSpecId\":11,\"equipmentId\":120440,\"pointId\":276495,\"type\":\"STANDARD\"},{\"reportInstanceId\":16909,\"reportTemplateEquipmentSpecId\":2,\"reportTemplatePointSpecId\":12,\"equipmentId\":120440,\"pointId\":121307,\"type\":\"STANDARD\"},{\"reportInstanceId\":16909,\"reportTemplateEquipmentSpecId\":2,\"reportTemplatePointSpecId\":38,\"equipmentId\":120440,\"pointId\":1155154,\"type\":\"RULE\"}]}]",
+  "errorMessages" : [ {
+    "reportTemplateId" : 2,
+    "buildingId" : 120374,
+    "equipmentId" : 120394,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 11, 12 ]
+  }, {
+    "reportTemplateId" : 2,
+    "buildingId" : 120374,
+    "equipmentId" : 120533,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 12 ]
+  }, {
+    "reportTemplateId" : 2,
+    "buildingId" : 120374,
+    "equipmentId" : 120550,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 11, 12 ]
+  }, {
+    "reportTemplateId" : 2,
+    "buildingId" : 120374,
+    "equipmentId" : 120476,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 11, 12 ]
+  }, {
+    "reportTemplateId" : 2,
+    "buildingId" : 120374,
+    "equipmentId" : 120401,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 12 ]
+  }, {
+    "reportTemplateId" : 2,
+    "buildingId" : 120374,
+    "equipmentId" : 120385,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 11, 12 ]
+  }, {
+    "reportTemplateId" : 2,
+    "buildingId" : 120374,
+    "equipmentId" : 120421,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 11, 12 ]
+  }, {
+    "reportTemplateId" : 2,
+    "buildingId" : 120374,
+    "equipmentId" : 120506,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 11, 12 ]
+  }, {
+    "reportTemplateId" : 2,
+    "buildingId" : 120374,
+    "equipmentId" : 120438,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 11, 12 ]
+  }, {
+    "reportTemplateId" : 2,
+    "buildingId" : 120374,
+    "equipmentId" : 121208,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 11, 12 ]
+  } ],
+  "stateHasChanged" : false,
+  "needsEnabling" : false,
+  "needsDisabling" : false,
+  "ignored" : false
+}, {
+  "reportTemplateId" : 3,
+  "buildingId" : 120374,
+  "createdAt" : 1630671948783,
+  "updatedAt" : 1630671948783,
+  "candidateJson" : "[]",
+  "errorMessages" : [ {
+    "reportTemplateId" : 3,
+    "buildingId" : 120374,
+    "equipmentId" : 120394,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 21, 22, 20 ]
+  }, {
+    "reportTemplateId" : 3,
+    "buildingId" : 120374,
+    "equipmentId" : 120533,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 21, 22, 20 ]
+  }, {
+    "reportTemplateId" : 3,
+    "buildingId" : 120374,
+    "equipmentId" : 120445,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 21, 22, 20 ]
+  }, {
+    "reportTemplateId" : 3,
+    "buildingId" : 120374,
+    "equipmentId" : 120550,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 21, 22, 20 ]
+  }, {
+    "reportTemplateId" : 3,
+    "buildingId" : 120374,
+    "equipmentId" : 120476,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 21, 22, 20 ]
+  }, {
+    "reportTemplateId" : 3,
+    "buildingId" : 120374,
+    "equipmentId" : 120401,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 21, 20 ]
+  }, {
+    "reportTemplateId" : 3,
+    "buildingId" : 120374,
+    "equipmentId" : 120417,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 21, 22, 20 ]
+  }, {
+    "reportTemplateId" : 3,
+    "buildingId" : 120374,
+    "equipmentId" : 120461,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 20 ]
+  }, {
+    "reportTemplateId" : 3,
+    "buildingId" : 120374,
+    "equipmentId" : 120457,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 21, 22, 20 ]
+  }, {
+    "reportTemplateId" : 3,
+    "buildingId" : 120374,
+    "equipmentId" : 120404,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 21, 22, 20 ]
+  }, {
+    "reportTemplateId" : 3,
+    "buildingId" : 120374,
+    "equipmentId" : 120385,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 21, 22, 20 ]
+  }, {
+    "reportTemplateId" : 3,
+    "buildingId" : 120374,
+    "equipmentId" : 120421,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 21, 22, 20 ]
+  }, {
+    "reportTemplateId" : 3,
+    "buildingId" : 120374,
+    "equipmentId" : 120506,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 21, 22, 20 ]
+  }, {
+    "reportTemplateId" : 3,
+    "buildingId" : 120374,
+    "equipmentId" : 120440,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 21, 20 ]
+  }, {
+    "reportTemplateId" : 3,
+    "buildingId" : 120374,
+    "equipmentId" : 120438,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 21, 22, 20 ]
+  }, {
+    "reportTemplateId" : 3,
+    "buildingId" : 120374,
+    "equipmentId" : 121208,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 21, 22, 20 ]
+  } ],
+  "stateHasChanged" : false,
+  "needsEnabling" : false,
+  "needsDisabling" : false,
+  "ignored" : false
+}, {
+  "reportTemplateId" : 8,
+  "buildingId" : 120374,
+  "createdAt" : 1630671948783,
+  "updatedAt" : 1630671948783,
+  "candidateJson" : "[]",
+  "errorMessages" : [ {
+    "reportTemplateId" : 8,
+    "buildingId" : 120374,
+    "equipmentId" : 120394,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 67, 66 ]
+  }, {
+    "reportTemplateId" : 8,
+    "buildingId" : 120374,
+    "equipmentId" : 120533,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 66 ]
+  }, {
+    "reportTemplateId" : 8,
+    "buildingId" : 120374,
+    "equipmentId" : 120445,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 67, 66 ]
+  }, {
+    "reportTemplateId" : 8,
+    "buildingId" : 120374,
+    "equipmentId" : 120550,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 67, 66 ]
+  }, {
+    "reportTemplateId" : 8,
+    "buildingId" : 120374,
+    "equipmentId" : 120476,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 67, 66 ]
+  }, {
+    "reportTemplateId" : 8,
+    "buildingId" : 120374,
+    "equipmentId" : 120401,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 66 ]
+  }, {
+    "reportTemplateId" : 8,
+    "buildingId" : 120374,
+    "equipmentId" : 120417,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 67, 66 ]
+  }, {
+    "reportTemplateId" : 8,
+    "buildingId" : 120374,
+    "equipmentId" : 120461,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 66 ]
+  }, {
+    "reportTemplateId" : 8,
+    "buildingId" : 120374,
+    "equipmentId" : 120457,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 67, 66 ]
+  }, {
+    "reportTemplateId" : 8,
+    "buildingId" : 120374,
+    "equipmentId" : 120404,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 67, 66 ]
+  }, {
+    "reportTemplateId" : 8,
+    "buildingId" : 120374,
+    "equipmentId" : 120385,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 66 ]
+  }, {
+    "reportTemplateId" : 8,
+    "buildingId" : 120374,
+    "equipmentId" : 120421,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 66 ]
+  }, {
+    "reportTemplateId" : 8,
+    "buildingId" : 120374,
+    "equipmentId" : 120506,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 67, 66 ]
+  }, {
+    "reportTemplateId" : 8,
+    "buildingId" : 120374,
+    "equipmentId" : 120440,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 66 ]
+  }, {
+    "reportTemplateId" : 8,
+    "buildingId" : 120374,
+    "equipmentId" : 120438,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 67, 66 ]
+  }, {
+    "reportTemplateId" : 8,
+    "buildingId" : 120374,
+    "equipmentId" : 121208,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 67, 66 ]
+  } ],
+  "stateHasChanged" : false,
+  "needsEnabling" : false,
+  "needsDisabling" : false,
+  "ignored" : false
+}, {
+  "id" : 5549,
+  "reportTemplateId" : 4,
+  "buildingId" : 120374,
+  "createdAt" : 1630671948783,
+  "updatedAt" : 1630671948783,
+  "candidateJson" : "[{\"reportTemplateEquipmentSpecId\":4,\"equipmentId\":120407,\"reportInstancePoints\":[{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":48,\"equipmentId\":120407,\"pointId\":937294,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":44,\"equipmentId\":120407,\"pointId\":937422,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":45,\"equipmentId\":120407,\"pointId\":120584,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":46,\"equipmentId\":120407,\"pointId\":937418,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":41,\"equipmentId\":120407,\"pointId\":937404,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":42,\"equipmentId\":120407,\"pointId\":937405,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":47,\"equipmentId\":120407,\"pointId\":120997,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":40,\"equipmentId\":120407,\"pointId\":276497,\"type\":\"STANDARD\"}]},{\"reportTemplateEquipmentSpecId\":4,\"equipmentId\":120392,\"reportInstancePoints\":[{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":48,\"equipmentId\":120392,\"pointId\":937294,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":44,\"equipmentId\":120392,\"pointId\":937449,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":45,\"equipmentId\":120392,\"pointId\":121410,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":46,\"equipmentId\":120392,\"pointId\":937446,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":41,\"equipmentId\":120392,\"pointId\":937433,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":42,\"equipmentId\":120392,\"pointId\":937434,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":47,\"equipmentId\":120392,\"pointId\":120915,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":40,\"equipmentId\":120392,\"pointId\":276498,\"type\":\"STANDARD\"}]},{\"reportTemplateEquipmentSpecId\":4,\"equipmentId\":120436,\"reportInstancePoints\":[{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":48,\"equipmentId\":120436,\"pointId\":937294,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":44,\"equipmentId\":120436,\"pointId\":937478,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":45,\"equipmentId\":120436,\"pointId\":121401,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":46,\"equipmentId\":120436,\"pointId\":937474,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":41,\"equipmentId\":120436,\"pointId\":937460,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":42,\"equipmentId\":120436,\"pointId\":937461,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":47,\"equipmentId\":120436,\"pointId\":120858,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":40,\"equipmentId\":120436,\"pointId\":276499,\"type\":\"STANDARD\"}]},{\"reportTemplateEquipmentSpecId\":4,\"equipmentId\":120399,\"reportInstancePoints\":[{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":48,\"equipmentId\":120399,\"pointId\":937294,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":44,\"equipmentId\":120399,\"pointId\":937507,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":45,\"equipmentId\":120399,\"pointId\":120400,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":46,\"equipmentId\":120399,\"pointId\":937503,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":41,\"equipmentId\":120399,\"pointId\":937489,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":42,\"equipmentId\":120399,\"pointId\":937490,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":47,\"equipmentId\":120399,\"pointId\":121411,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":40,\"equipmentId\":120399,\"pointId\":276500,\"type\":\"STANDARD\"}]},{\"reportTemplateEquipmentSpecId\":4,\"equipmentId\":120432,\"reportInstancePoints\":[{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":48,\"equipmentId\":120432,\"pointId\":937294,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":44,\"equipmentId\":120432,\"pointId\":937536,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":45,\"equipmentId\":120432,\"pointId\":121281,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":46,\"equipmentId\":120432,\"pointId\":937532,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":41,\"equipmentId\":120432,\"pointId\":937518,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":42,\"equipmentId\":120432,\"pointId\":937519,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":47,\"equipmentId\":120432,\"pointId\":121562,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":40,\"equipmentId\":120432,\"pointId\":276501,\"type\":\"STANDARD\"}]},{\"reportTemplateEquipmentSpecId\":4,\"equipmentId\":120376,\"reportInstancePoints\":[{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":48,\"equipmentId\":120376,\"pointId\":937294,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":44,\"equipmentId\":120376,\"pointId\":937566,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":45,\"equipmentId\":120376,\"pointId\":121107,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":46,\"equipmentId\":120376,\"pointId\":937562,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":41,\"equipmentId\":120376,\"pointId\":937547,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":42,\"equipmentId\":120376,\"pointId\":937548,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":47,\"equipmentId\":120376,\"pointId\":120619,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":40,\"equipmentId\":120376,\"pointId\":276502,\"type\":\"STANDARD\"}]},{\"reportTemplateEquipmentSpecId\":4,\"equipmentId\":120378,\"reportInstancePoints\":[{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":48,\"equipmentId\":120378,\"pointId\":937294,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":44,\"equipmentId\":120378,\"pointId\":937595,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":45,\"equipmentId\":120378,\"pointId\":121603,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":46,\"equipmentId\":120378,\"pointId\":937591,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":41,\"equipmentId\":120378,\"pointId\":937577,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":42,\"equipmentId\":120378,\"pointId\":937578,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":47,\"equipmentId\":120378,\"pointId\":121127,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":40,\"equipmentId\":120378,\"pointId\":276503,\"type\":\"STANDARD\"}]},{\"reportTemplateEquipmentSpecId\":4,\"equipmentId\":120382,\"reportInstancePoints\":[{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":48,\"equipmentId\":120382,\"pointId\":937294,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":44,\"equipmentId\":120382,\"pointId\":937624,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":45,\"equipmentId\":120382,\"pointId\":120383,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":46,\"equipmentId\":120382,\"pointId\":937620,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":41,\"equipmentId\":120382,\"pointId\":937606,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":42,\"equipmentId\":120382,\"pointId\":937607,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":47,\"equipmentId\":120382,\"pointId\":120889,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":40,\"equipmentId\":120382,\"pointId\":276504,\"type\":\"STANDARD\"}]},{\"reportTemplateEquipmentSpecId\":4,\"equipmentId\":120396,\"reportInstancePoints\":[{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":48,\"equipmentId\":120396,\"pointId\":937294,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":44,\"equipmentId\":120396,\"pointId\":937653,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":45,\"equipmentId\":120396,\"pointId\":120847,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":46,\"equipmentId\":120396,\"pointId\":937649,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":41,\"equipmentId\":120396,\"pointId\":937635,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":42,\"equipmentId\":120396,\"pointId\":937636,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":47,\"equipmentId\":120396,\"pointId\":121163,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":40,\"equipmentId\":120396,\"pointId\":276505,\"type\":\"STANDARD\"}]},{\"reportTemplateEquipmentSpecId\":4,\"equipmentId\":120380,\"reportInstancePoints\":[{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":48,\"equipmentId\":120380,\"pointId\":937294,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":44,\"equipmentId\":120380,\"pointId\":937682,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":45,\"equipmentId\":120380,\"pointId\":120557,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":46,\"equipmentId\":120380,\"pointId\":937678,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":41,\"equipmentId\":120380,\"pointId\":937664,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":42,\"equipmentId\":120380,\"pointId\":937665,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":47,\"equipmentId\":120380,\"pointId\":120926,\"type\":\"STANDARD\"},{\"reportInstanceId\":5549,\"reportTemplateEquipmentSpecId\":4,\"reportTemplatePointSpecId\":40,\"equipmentId\":120380,\"pointId\":276506,\"type\":\"STANDARD\"}]}]",
+  "errorMessages" : [ ],
+  "stateHasChanged" : false,
+  "needsEnabling" : false,
+  "needsDisabling" : false,
+  "ignored" : false
+}, {
+  "id" : 18263,
+  "reportTemplateId" : 13,
+  "buildingId" : 120374,
+  "createdAt" : 1630671948783,
+  "updatedAt" : 1630671948783,
+  "candidateJson" : "[{\"reportTemplateEquipmentSpecId\":13,\"equipmentId\":120407,\"reportInstancePoints\":[{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":93,\"equipmentId\":120407,\"pointId\":937413,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":96,\"equipmentId\":120407,\"pointId\":937294,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":92,\"equipmentId\":120407,\"pointId\":937422,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":105,\"equipmentId\":120407,\"pointId\":120584,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":94,\"equipmentId\":120407,\"pointId\":120715,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":89,\"equipmentId\":120407,\"pointId\":937410,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":89,\"equipmentId\":120407,\"pointId\":937411,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":97,\"equipmentId\":120407,\"pointId\":937292,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":88,\"equipmentId\":120407,\"pointId\":276497,\"type\":\"STANDARD\"}]},{\"reportTemplateEquipmentSpecId\":13,\"equipmentId\":120392,\"reportInstancePoints\":[{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":93,\"equipmentId\":120392,\"pointId\":937441,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":96,\"equipmentId\":120392,\"pointId\":937294,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":92,\"equipmentId\":120392,\"pointId\":937449,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":105,\"equipmentId\":120392,\"pointId\":121410,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":94,\"equipmentId\":120392,\"pointId\":120520,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":89,\"equipmentId\":120392,\"pointId\":937439,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":97,\"equipmentId\":120392,\"pointId\":937292,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":88,\"equipmentId\":120392,\"pointId\":276498,\"type\":\"STANDARD\"}]},{\"reportTemplateEquipmentSpecId\":13,\"equipmentId\":120436,\"reportInstancePoints\":[{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":93,\"equipmentId\":120436,\"pointId\":937469,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":96,\"equipmentId\":120436,\"pointId\":937294,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":92,\"equipmentId\":120436,\"pointId\":937478,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":105,\"equipmentId\":120436,\"pointId\":121401,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":94,\"equipmentId\":120436,\"pointId\":120672,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":89,\"equipmentId\":120436,\"pointId\":937466,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":89,\"equipmentId\":120436,\"pointId\":937467,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":97,\"equipmentId\":120436,\"pointId\":937292,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":88,\"equipmentId\":120436,\"pointId\":276499,\"type\":\"STANDARD\"}]},{\"reportTemplateEquipmentSpecId\":13,\"equipmentId\":120399,\"reportInstancePoints\":[{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":93,\"equipmentId\":120399,\"pointId\":937498,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":96,\"equipmentId\":120399,\"pointId\":937294,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":92,\"equipmentId\":120399,\"pointId\":937507,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":105,\"equipmentId\":120399,\"pointId\":120400,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":94,\"equipmentId\":120399,\"pointId\":121283,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":89,\"equipmentId\":120399,\"pointId\":937495,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":89,\"equipmentId\":120399,\"pointId\":937496,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":97,\"equipmentId\":120399,\"pointId\":937292,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":88,\"equipmentId\":120399,\"pointId\":276500,\"type\":\"STANDARD\"}]},{\"reportTemplateEquipmentSpecId\":13,\"equipmentId\":120432,\"reportInstancePoints\":[{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":93,\"equipmentId\":120432,\"pointId\":937527,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":96,\"equipmentId\":120432,\"pointId\":937294,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":92,\"equipmentId\":120432,\"pointId\":937536,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":105,\"equipmentId\":120432,\"pointId\":121281,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":94,\"equipmentId\":120432,\"pointId\":120613,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":89,\"equipmentId\":120432,\"pointId\":937524,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":89,\"equipmentId\":120432,\"pointId\":937525,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":97,\"equipmentId\":120432,\"pointId\":937292,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":88,\"equipmentId\":120432,\"pointId\":276501,\"type\":\"STANDARD\"}]},{\"reportTemplateEquipmentSpecId\":13,\"equipmentId\":120376,\"reportInstancePoints\":[{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":93,\"equipmentId\":120376,\"pointId\":937557,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":96,\"equipmentId\":120376,\"pointId\":937294,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":92,\"equipmentId\":120376,\"pointId\":937566,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":105,\"equipmentId\":120376,\"pointId\":121107,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":94,\"equipmentId\":120376,\"pointId\":120466,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":89,\"equipmentId\":120376,\"pointId\":937554,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":89,\"equipmentId\":120376,\"pointId\":937555,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":97,\"equipmentId\":120376,\"pointId\":937292,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":88,\"equipmentId\":120376,\"pointId\":276502,\"type\":\"STANDARD\"}]},{\"reportTemplateEquipmentSpecId\":13,\"equipmentId\":120378,\"reportInstancePoints\":[{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":93,\"equipmentId\":120378,\"pointId\":937586,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":96,\"equipmentId\":120378,\"pointId\":937294,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":92,\"equipmentId\":120378,\"pointId\":937595,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":105,\"equipmentId\":120378,\"pointId\":121603,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":94,\"equipmentId\":120378,\"pointId\":120515,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":89,\"equipmentId\":120378,\"pointId\":937583,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":89,\"equipmentId\":120378,\"pointId\":937584,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":97,\"equipmentId\":120378,\"pointId\":937292,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":88,\"equipmentId\":120378,\"pointId\":276503,\"type\":\"STANDARD\"}]},{\"reportTemplateEquipmentSpecId\":13,\"equipmentId\":120382,\"reportInstancePoints\":[{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":93,\"equipmentId\":120382,\"pointId\":937615,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":96,\"equipmentId\":120382,\"pointId\":937294,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":92,\"equipmentId\":120382,\"pointId\":937624,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":105,\"equipmentId\":120382,\"pointId\":120383,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":94,\"equipmentId\":120382,\"pointId\":120579,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":89,\"equipmentId\":120382,\"pointId\":937612,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":89,\"equipmentId\":120382,\"pointId\":937613,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":97,\"equipmentId\":120382,\"pointId\":937292,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":88,\"equipmentId\":120382,\"pointId\":276504,\"type\":\"STANDARD\"}]},{\"reportTemplateEquipmentSpecId\":13,\"equipmentId\":120396,\"reportInstancePoints\":[{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":93,\"equipmentId\":120396,\"pointId\":937644,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":96,\"equipmentId\":120396,\"pointId\":937294,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":92,\"equipmentId\":120396,\"pointId\":937653,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":105,\"equipmentId\":120396,\"pointId\":120847,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":94,\"equipmentId\":120396,\"pointId\":120845,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":89,\"equipmentId\":120396,\"pointId\":937641,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":89,\"equipmentId\":120396,\"pointId\":937642,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":97,\"equipmentId\":120396,\"pointId\":937292,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":88,\"equipmentId\":120396,\"pointId\":276505,\"type\":\"STANDARD\"}]},{\"reportTemplateEquipmentSpecId\":13,\"equipmentId\":120380,\"reportInstancePoints\":[{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":93,\"equipmentId\":120380,\"pointId\":937673,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":96,\"equipmentId\":120380,\"pointId\":937294,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":92,\"equipmentId\":120380,\"pointId\":937682,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":105,\"equipmentId\":120380,\"pointId\":120557,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":94,\"equipmentId\":120380,\"pointId\":121517,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":89,\"equipmentId\":120380,\"pointId\":937670,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":89,\"equipmentId\":120380,\"pointId\":937671,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":97,\"equipmentId\":120380,\"pointId\":937292,\"type\":\"STANDARD\"},{\"reportInstanceId\":18263,\"reportTemplateEquipmentSpecId\":13,\"reportTemplatePointSpecId\":88,\"equipmentId\":120380,\"pointId\":276506,\"type\":\"STANDARD\"}]}]",
+  "errorMessages" : [ ],
+  "stateHasChanged" : false,
+  "needsEnabling" : false,
+  "needsDisabling" : false,
+  "ignored" : false
+}, {
+  "reportTemplateId" : 6,
+  "buildingId" : 120374,
+  "createdAt" : 1630671948783,
+  "updatedAt" : 1630671948783,
+  "candidateJson" : "[]",
+  "errorMessages" : [ {
+    "reportTemplateId" : 6,
+    "buildingId" : 120374,
+    "equipmentId" : 120407,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 61 ]
+  }, {
+    "reportTemplateId" : 6,
+    "buildingId" : 120374,
+    "equipmentId" : 120392,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 61 ]
+  }, {
+    "reportTemplateId" : 6,
+    "buildingId" : 120374,
+    "equipmentId" : 120436,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 61 ]
+  }, {
+    "reportTemplateId" : 6,
+    "buildingId" : 120374,
+    "equipmentId" : 120399,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 61 ]
+  }, {
+    "reportTemplateId" : 6,
+    "buildingId" : 120374,
+    "equipmentId" : 120432,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 61 ]
+  }, {
+    "reportTemplateId" : 6,
+    "buildingId" : 120374,
+    "equipmentId" : 120376,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 61 ]
+  }, {
+    "reportTemplateId" : 6,
+    "buildingId" : 120374,
+    "equipmentId" : 120378,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 61 ]
+  }, {
+    "reportTemplateId" : 6,
+    "buildingId" : 120374,
+    "equipmentId" : 120382,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 61 ]
+  }, {
+    "reportTemplateId" : 6,
+    "buildingId" : 120374,
+    "equipmentId" : 120396,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 61 ]
+  }, {
+    "reportTemplateId" : 6,
+    "buildingId" : 120374,
+    "equipmentId" : 120380,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 61 ]
+  } ],
+  "stateHasChanged" : false,
+  "needsEnabling" : false,
+  "needsDisabling" : false,
+  "ignored" : false
+}, {
+  "reportTemplateId" : 5,
+  "buildingId" : 120374,
+  "createdAt" : 1630671948783,
+  "updatedAt" : 1630671948783,
+  "candidateJson" : "[]",
+  "errorMessages" : [ {
+    "reportTemplateId" : 5,
+    "buildingId" : 120374,
+    "equipmentId" : 120407,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 59 ]
+  }, {
+    "reportTemplateId" : 5,
+    "buildingId" : 120374,
+    "equipmentId" : 120392,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 59 ]
+  }, {
+    "reportTemplateId" : 5,
+    "buildingId" : 120374,
+    "equipmentId" : 120436,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 59 ]
+  }, {
+    "reportTemplateId" : 5,
+    "buildingId" : 120374,
+    "equipmentId" : 120399,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 59 ]
+  }, {
+    "reportTemplateId" : 5,
+    "buildingId" : 120374,
+    "equipmentId" : 120432,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 59 ]
+  }, {
+    "reportTemplateId" : 5,
+    "buildingId" : 120374,
+    "equipmentId" : 120376,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 59 ]
+  }, {
+    "reportTemplateId" : 5,
+    "buildingId" : 120374,
+    "equipmentId" : 120378,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 59 ]
+  }, {
+    "reportTemplateId" : 5,
+    "buildingId" : 120374,
+    "equipmentId" : 120382,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 59 ]
+  }, {
+    "reportTemplateId" : 5,
+    "buildingId" : 120374,
+    "equipmentId" : 120396,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 59 ]
+  }, {
+    "reportTemplateId" : 5,
+    "buildingId" : 120374,
+    "equipmentId" : 120380,
+    "noMatchOnType" : false,
+    "noMatchOnTypeOrMetadata" : false,
+    "errorMessages" : [ 59 ]
+  } ],
+  "stateHasChanged" : false,
+  "needsEnabling" : false,
+  "needsDisabling" : false,
+  "ignored" : false
+}, {
+  "reportTemplateId" : 9,
+  "buildingId" : 120374,
+  "createdAt" : 1630671948783,
+  "updatedAt" : 1630671948783,
+  "candidateJson" : "[]",
+  "errorMessages" : [ ],
+  "stateHasChanged" : false,
+  "needsEnabling" : false,
+  "needsDisabling" : false,
+  "ignored" : false
+}, {
+  "id" : 18264,
+  "reportTemplateId" : 7,
+  "buildingId" : 120374,
+  "createdAt" : 1630671948783,
+  "updatedAt" : 1630671948783,
+  "candidateJson" : "[{\"reportTemplateEquipmentSpecId\":7,\"equipmentId\":120407,\"reportInstancePoints\":[{\"reportInstanceId\":18264,\"reportTemplateEquipmentSpecId\":7,\"reportTemplatePointSpecId\":65,\"equipmentId\":120407,\"pointId\":937294,\"type\":\"STANDARD\"},{\"reportInstanceId\":18264,\"reportTemplateEquipmentSpecId\":7,\"reportTemplatePointSpecId\":63,\"equipmentId\":120407,\"pointId\":937418,\"type\":\"STANDARD\"},{\"reportInstanceId\":18264,\"reportTemplateEquipmentSpecId\":7,\"reportTemplatePointSpecId\":64,\"equipmentId\":120407,\"pointId\":120997,\"type\":\"STANDARD\"}]},{\"reportTemplateEquipmentSpecId\":7,\"equipmentId\":120392,\"reportInstancePoints\":[{\"reportInstanceId\":18264,\"reportTemplateEquipmentSpecId\":7,\"reportTemplatePointSpecId\":65,\"equipmentId\":120392,\"pointId\":937294,\"type\":\"STANDARD\"},{\"reportInstanceId\":18264,\"reportTemplateEquipmentSpecId\":7,\"reportTemplatePointSpecId\":63,\"equipmentId\":120392,\"pointId\":937446,\"type\":\"STANDARD\"},{\"reportInstanceId\":18264,\"reportTemplateEquipmentSpecId\":7,\"reportTemplatePointSpecId\":64,\"equipmentId\":120392,\"pointId\":120915,\"type\":\"STANDARD\"}]},{\"reportTemplateEquipmentSpecId\":7,\"equipmentId\":120436,\"reportInstancePoints\":[{\"reportInstanceId\":18264,\"reportTemplateEquipmentSpecId\":7,\"reportTemplatePointSpecId\":65,\"equipmentId\":120436,\"pointId\":937294,\"type\":\"STANDARD\"},{\"reportInstanceId\":18264,\"reportTemplateEquipmentSpecId\":7,\"reportTemplatePointSpecId\":63,\"equipmentId\":120436,\"pointId\":937474,\"type\":\"STANDARD\"},{\"reportInstanceId\":18264,\"reportTemplateEquipmentSpecId\":7,\"reportTemplatePointSpecId\":64,\"equipmentId\":120436,\"pointId\":120858,\"type\":\"STANDARD\"}]},{\"reportTemplateEquipmentSpecId\":7,\"equipmentId\":120399,\"reportInstancePoints\":[{\"reportInstanceId\":18264,\"reportTemplateEquipmentSpecId\":7,\"reportTemplatePointSpecId\":65,\"equipmentId\":120399,\"pointId\":937294,\"type\":\"STANDARD\"},{\"reportInstanceId\":18264,\"reportTemplateEquipmentSpecId\":7,\"reportTemplatePointSpecId\":63,\"equipmentId\":120399,\"pointId\":937503,\"type\":\"STANDARD\"},{\"reportInstanceId\":18264,\"reportTemplateEquipmentSpecId\":7,\"reportTemplatePointSpecId\":64,\"equipmentId\":120399,\"pointId\":121411,\"type\":\"STANDARD\"}]},{\"reportTemplateEquipmentSpecId\":7,\"equipmentId\":120432,\"reportInstancePoints\":[{\"reportInstanceId\":18264,\"reportTemplateEquipmentSpecId\":7,\"reportTemplatePointSpecId\":65,\"equipmentId\":120432,\"pointId\":937294,\"type\":\"STANDARD\"},{\"reportInstanceId\":18264,\"reportTemplateEquipmentSpecId\":7,\"reportTemplatePointSpecId\":63,\"equipmentId\":120432,\"pointId\":937532,\"type\":\"STANDARD\"},{\"reportInstanceId\":18264,\"reportTemplateEquipmentSpecId\":7,\"reportTemplatePointSpecId\":64,\"equipmentId\":120432,\"pointId\":121562,\"type\":\"STANDARD\"}]},{\"reportTemplateEquipmentSpecId\":7,\"equipmentId\":120376,\"reportInstancePoints\":[{\"reportInstanceId\":18264,\"reportTemplateEquipmentSpecId\":7,\"reportTemplatePointSpecId\":65,\"equipmentId\":120376,\"pointId\":937294,\"type\":\"STANDARD\"},{\"reportInstanceId\":18264,\"reportTemplateEquipmentSpecId\":7,\"reportTemplatePointSpecId\":63,\"equipmentId\":120376,\"pointId\":937562,\"type\":\"STANDARD\"},{\"reportInstanceId\":18264,\"reportTemplateEquipmentSpecId\":7,\"reportTemplatePointSpecId\":64,\"equipmentId\":120376,\"pointId\":120619,\"type\":\"STANDARD\"}]},{\"reportTemplateEquipmentSpecId\":7,\"equipmentId\":120378,\"reportInstancePoints\":[{\"reportInstanceId\":18264,\"reportTemplateEquipmentSpecId\":7,\"reportTemplatePointSpecId\":65,\"equipmentId\":120378,\"pointId\":937294,\"type\":\"STANDARD\"},{\"reportInstanceId\":18264,\"reportTemplateEquipmentSpecId\":7,\"reportTemplatePointSpecId\":63,\"equipmentId\":120378,\"pointId\":937591,\"type\":\"STANDARD\"},{\"reportInstanceId\":18264,\"reportTemplateEquipmentSpecId\":7,\"reportTemplatePointSpecId\":64,\"equipmentId\":120378,\"pointId\":121127,\"type\":\"STANDARD\"}]},{\"reportTemplateEquipmentSpecId\":7,\"equipmentId\":120382,\"reportInstancePoints\":[{\"reportInstanceId\":18264,\"reportTemplateEquipmentSpecId\":7,\"reportTemplatePointSpecId\":65,\"equipmentId\":120382,\"pointId\":937294,\"type\":\"STANDARD\"},{\"reportInstanceId\":18264,\"reportTemplateEquipmentSpecId\":7,\"reportTemplatePointSpecId\":63,\"equipmentId\":120382,\"pointId\":937620,\"type\":\"STANDARD\"},{\"reportInstanceId\":18264,\"reportTemplateEquipmentSpecId\":7,\"reportTemplatePointSpecId\":64,\"equipmentId\":120382,\"pointId\":120889,\"type\":\"STANDARD\"}]},{\"reportTemplateEquipmentSpecId\":7,\"equipmentId\":120396,\"reportInstancePoints\":[{\"reportInstanceId\":18264,\"reportTemplateEquipmentSpecId\":7,\"reportTemplatePointSpecId\":65,\"equipmentId\":120396,\"pointId\":937294,\"type\":\"STANDARD\"},{\"reportInstanceId\":18264,\"reportTemplateEquipmentSpecId\":7,\"reportTemplatePointSpecId\":63,\"equipmentId\":120396,\"pointId\":937649,\"type\":\"STANDARD\"},{\"reportInstanceId\":18264,\"reportTemplateEquipmentSpecId\":7,\"reportTemplatePointSpecId\":64,\"equipmentId\":120396,\"pointId\":121163,\"type\":\"STANDARD\"}]},{\"reportTemplateEquipmentSpecId\":7,\"equipmentId\":120380,\"reportInstancePoints\":[{\"reportInstanceId\":18264,\"reportTemplateEquipmentSpecId\":7,\"reportTemplatePointSpecId\":65,\"equipmentId\":120380,\"pointId\":937294,\"type\":\"STANDARD\"},{\"reportInstanceId\":18264,\"reportTemplateEquipmentSpecId\":7,\"reportTemplatePointSpecId\":63,\"equipmentId\":120380,\"pointId\":937678,\"type\":\"STANDARD\"},{\"reportInstanceId\":18264,\"reportTemplateEquipmentSpecId\":7,\"reportTemplatePointSpecId\":64,\"equipmentId\":120380,\"pointId\":120926,\"type\":\"STANDARD\"}]}]",
+  "errorMessages" : [ ],
+  "stateHasChanged" : false,
+  "needsEnabling" : false,
+  "needsDisabling" : false,
+  "ignored" : false
+}, {
+  "reportTemplateId" : 11,
+  "buildingId" : 120374,
+  "createdAt" : 1630671948783,
+  "updatedAt" : 1630671948783,
+  "candidateJson" : "[{\"reportTemplateEquipmentSpecId\":11,\"equipmentId\":120407,\"reportInstancePoints\":[{\"reportTemplateEquipmentSpecId\":11,\"reportTemplatePointSpecId\":73,\"equipmentId\":120407,\"pointId\":937418,\"type\":\"STANDARD\"},{\"reportTemplateEquipmentSpecId\":11,\"reportTemplatePointSpecId\":74,\"equipmentId\":120407,\"pointId\":120997,\"type\":\"STANDARD\"}]},{\"reportTemplateEquipmentSpecId\":11,\"equipmentId\":120392,\"reportInstancePoints\":[{\"reportTemplateEquipmentSpecId\":11,\"reportTemplatePointSpecId\":73,\"equipmentId\":120392,\"pointId\":937446,\"type\":\"STANDARD\"},{\"reportTemplateEquipmentSpecId\":11,\"reportTemplatePointSpecId\":74,\"equipmentId\":120392,\"pointId\":120915,\"type\":\"STANDARD\"}]},{\"reportTemplateEquipmentSpecId\":11,\"equipmentId\":120436,\"reportInstancePoints\":[{\"reportTemplateEquipmentSpecId\":11,\"reportTemplatePointSpecId\":73,\"equipmentId\":120436,\"pointId\":937474,\"type\":\"STANDARD\"},{\"reportTemplateEquipmentSpecId\":11,\"reportTemplatePointSpecId\":74,\"equipmentId\":120436,\"pointId\":120858,\"type\":\"STANDARD\"}]},{\"reportTemplateEquipmentSpecId\":11,\"equipmentId\":120399,\"reportInstancePoints\":[{\"reportTemplateEquipmentSpecId\":11,\"reportTemplatePointSpecId\":73,\"equipmentId\":120399,\"pointId\":937503,\"type\":\"STANDARD\"},{\"reportTemplateEquipmentSpecId\":11,\"reportTemplatePointSpecId\":74,\"equipmentId\":120399,\"pointId\":121411,\"type\":\"STANDARD\"}]},{\"reportTemplateEquipmentSpecId\":11,\"equipmentId\":120432,\"reportInstancePoints\":[{\"reportTemplateEquipmentSpecId\":11,\"reportTemplatePointSpecId\":73,\"equipmentId\":120432,\"pointId\":937532,\"type\":\"STANDARD\"},{\"reportTemplateEquipmentSpecId\":11,\"reportTemplatePointSpecId\":74,\"equipmentId\":120432,\"pointId\":121562,\"type\":\"STANDARD\"}]},{\"reportTemplateEquipmentSpecId\":11,\"equipmentId\":120376,\"reportInstancePoints\":[{\"reportTemplateEquipmentSpecId\":11,\"reportTemplatePointSpecId\":73,\"equipmentId\":120376,\"pointId\":937562,\"type\":\"STANDARD\"},{\"reportTemplateEquipmentSpecId\":11,\"reportTemplatePointSpecId\":74,\"equipmentId\":120376,\"pointId\":120619,\"type\":\"STANDARD\"}]},{\"reportTemplateEquipmentSpecId\":11,\"equipmentId\":120378,\"reportInstancePoints\":[{\"reportTemplateEquipmentSpecId\":11,\"reportTemplatePointSpecId\":73,\"equipmentId\":120378,\"pointId\":937591,\"type\":\"STANDARD\"},{\"reportTemplateEquipmentSpecId\":11,\"reportTemplatePointSpecId\":74,\"equipmentId\":120378,\"pointId\":121127,\"type\":\"STANDARD\"}]},{\"reportTemplateEquipmentSpecId\":11,\"equipmentId\":120382,\"reportInstancePoints\":[{\"reportTemplateEquipmentSpecId\":11,\"reportTemplatePointSpecId\":73,\"equipmentId\":120382,\"pointId\":937620,\"type\":\"STANDARD\"},{\"reportTemplateEquipmentSpecId\":11,\"reportTemplatePointSpecId\":74,\"equipmentId\":120382,\"pointId\":120889,\"type\":\"STANDARD\"}]},{\"reportTemplateEquipmentSpecId\":11,\"equipmentId\":120396,\"reportInstancePoints\":[{\"reportTemplateEquipmentSpecId\":11,\"reportTemplatePointSpecId\":73,\"equipmentId\":120396,\"pointId\":937649,\"type\":\"STANDARD\"},{\"reportTemplateEquipmentSpecId\":11,\"reportTemplatePointSpecId\":74,\"equipmentId\":120396,\"pointId\":121163,\"type\":\"STANDARD\"}]},{\"reportTemplateEquipmentSpecId\":11,\"equipmentId\":120380,\"reportInstancePoints\":[{\"reportTemplateEquipmentSpecId\":11,\"reportTemplatePointSpecId\":73,\"equipmentId\":120380,\"pointId\":937678,\"type\":\"STANDARD\"},{\"reportTemplateEquipmentSpecId\":11,\"reportTemplatePointSpecId\":74,\"equipmentId\":120380,\"pointId\":120926,\"type\":\"STANDARD\"}]}]",
+  "errorMessages" : [ ],
+  "stateHasChanged" : false,
+  "needsEnabling" : false,
+  "needsDisabling" : false,
+  "ignored" : false
+}, {
+  "id" : 5550,
+  "reportTemplateId" : 1,
+  "buildingId" : 120374,
+  "createdAt" : 1630671948783,
+  "updatedAt" : 1630671948783,
+  "candidateJson" : "[{\"reportTemplateEquipmentSpecId\":1,\"equipmentId\":120407,\"reportInstancePoints\":[{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":8,\"equipmentId\":120407,\"pointId\":937294,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":4,\"equipmentId\":120407,\"pointId\":937422,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":5,\"equipmentId\":120407,\"pointId\":120584,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":6,\"equipmentId\":120407,\"pointId\":937418,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":2,\"equipmentId\":120407,\"pointId\":937404,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":3,\"equipmentId\":120407,\"pointId\":937405,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":7,\"equipmentId\":120407,\"pointId\":120997,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":1,\"equipmentId\":120407,\"pointId\":276497,\"type\":\"STANDARD\"}]},{\"reportTemplateEquipmentSpecId\":1,\"equipmentId\":120392,\"reportInstancePoints\":[{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":8,\"equipmentId\":120392,\"pointId\":937294,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":4,\"equipmentId\":120392,\"pointId\":937449,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":5,\"equipmentId\":120392,\"pointId\":121410,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":6,\"equipmentId\":120392,\"pointId\":937446,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":2,\"equipmentId\":120392,\"pointId\":937433,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":3,\"equipmentId\":120392,\"pointId\":937434,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":7,\"equipmentId\":120392,\"pointId\":120915,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":1,\"equipmentId\":120392,\"pointId\":276498,\"type\":\"STANDARD\"}]},{\"reportTemplateEquipmentSpecId\":1,\"equipmentId\":120436,\"reportInstancePoints\":[{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":8,\"equipmentId\":120436,\"pointId\":937294,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":4,\"equipmentId\":120436,\"pointId\":937478,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":5,\"equipmentId\":120436,\"pointId\":121401,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":6,\"equipmentId\":120436,\"pointId\":937474,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":2,\"equipmentId\":120436,\"pointId\":937460,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":3,\"equipmentId\":120436,\"pointId\":937461,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":7,\"equipmentId\":120436,\"pointId\":120858,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":1,\"equipmentId\":120436,\"pointId\":276499,\"type\":\"STANDARD\"}]},{\"reportTemplateEquipmentSpecId\":1,\"equipmentId\":120399,\"reportInstancePoints\":[{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":8,\"equipmentId\":120399,\"pointId\":937294,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":4,\"equipmentId\":120399,\"pointId\":937507,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":5,\"equipmentId\":120399,\"pointId\":120400,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":6,\"equipmentId\":120399,\"pointId\":937503,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":2,\"equipmentId\":120399,\"pointId\":937489,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":3,\"equipmentId\":120399,\"pointId\":937490,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":7,\"equipmentId\":120399,\"pointId\":121411,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":1,\"equipmentId\":120399,\"pointId\":276500,\"type\":\"STANDARD\"}]},{\"reportTemplateEquipmentSpecId\":1,\"equipmentId\":120432,\"reportInstancePoints\":[{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":8,\"equipmentId\":120432,\"pointId\":937294,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":4,\"equipmentId\":120432,\"pointId\":937536,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":5,\"equipmentId\":120432,\"pointId\":121281,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":6,\"equipmentId\":120432,\"pointId\":937532,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":2,\"equipmentId\":120432,\"pointId\":937518,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":3,\"equipmentId\":120432,\"pointId\":937519,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":7,\"equipmentId\":120432,\"pointId\":121562,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":1,\"equipmentId\":120432,\"pointId\":276501,\"type\":\"STANDARD\"}]},{\"reportTemplateEquipmentSpecId\":1,\"equipmentId\":120376,\"reportInstancePoints\":[{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":8,\"equipmentId\":120376,\"pointId\":937294,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":4,\"equipmentId\":120376,\"pointId\":937566,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":5,\"equipmentId\":120376,\"pointId\":121107,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":6,\"equipmentId\":120376,\"pointId\":937562,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":2,\"equipmentId\":120376,\"pointId\":937547,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":3,\"equipmentId\":120376,\"pointId\":937548,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":7,\"equipmentId\":120376,\"pointId\":120619,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":1,\"equipmentId\":120376,\"pointId\":276502,\"type\":\"STANDARD\"}]},{\"reportTemplateEquipmentSpecId\":1,\"equipmentId\":120378,\"reportInstancePoints\":[{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":8,\"equipmentId\":120378,\"pointId\":937294,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":4,\"equipmentId\":120378,\"pointId\":937595,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":5,\"equipmentId\":120378,\"pointId\":121603,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":6,\"equipmentId\":120378,\"pointId\":937591,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":2,\"equipmentId\":120378,\"pointId\":937577,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":3,\"equipmentId\":120378,\"pointId\":937578,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":7,\"equipmentId\":120378,\"pointId\":121127,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":1,\"equipmentId\":120378,\"pointId\":276503,\"type\":\"STANDARD\"}]},{\"reportTemplateEquipmentSpecId\":1,\"equipmentId\":120382,\"reportInstancePoints\":[{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":8,\"equipmentId\":120382,\"pointId\":937294,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":4,\"equipmentId\":120382,\"pointId\":937624,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":5,\"equipmentId\":120382,\"pointId\":120383,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":6,\"equipmentId\":120382,\"pointId\":937620,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":2,\"equipmentId\":120382,\"pointId\":937606,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":3,\"equipmentId\":120382,\"pointId\":937607,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":7,\"equipmentId\":120382,\"pointId\":120889,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":1,\"equipmentId\":120382,\"pointId\":276504,\"type\":\"STANDARD\"}]},{\"reportTemplateEquipmentSpecId\":1,\"equipmentId\":120396,\"reportInstancePoints\":[{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":8,\"equipmentId\":120396,\"pointId\":937294,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":4,\"equipmentId\":120396,\"pointId\":937653,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":5,\"equipmentId\":120396,\"pointId\":120847,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":6,\"equipmentId\":120396,\"pointId\":937649,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":2,\"equipmentId\":120396,\"pointId\":937635,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":3,\"equipmentId\":120396,\"pointId\":937636,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":7,\"equipmentId\":120396,\"pointId\":121163,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":1,\"equipmentId\":120396,\"pointId\":276505,\"type\":\"STANDARD\"}]},{\"reportTemplateEquipmentSpecId\":1,\"equipmentId\":120380,\"reportInstancePoints\":[{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":8,\"equipmentId\":120380,\"pointId\":937294,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":4,\"equipmentId\":120380,\"pointId\":937682,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":5,\"equipmentId\":120380,\"pointId\":120557,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":6,\"equipmentId\":120380,\"pointId\":937678,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":2,\"equipmentId\":120380,\"pointId\":937664,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":3,\"equipmentId\":120380,\"pointId\":937665,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":7,\"equipmentId\":120380,\"pointId\":120926,\"type\":\"STANDARD\"},{\"reportInstanceId\":5550,\"reportTemplateEquipmentSpecId\":1,\"reportTemplatePointSpecId\":1,\"equipmentId\":120380,\"pointId\":276506,\"type\":\"STANDARD\"}]}]",
+  "errorMessages" : [ ],
+  "stateHasChanged" : false,
+  "needsEnabling" : false,
+  "needsDisabling" : false,
+  "ignored" : false
+} ]

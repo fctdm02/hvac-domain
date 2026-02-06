@@ -1,0 +1,12 @@
+{
+	"eventType": "VPN_STATUS",
+	"customerId": 4,
+	"isDownStatus": false,
+	"expirationDate": "2022-12-31 00:00:00",
+	"substitutionTokenValues": {
+		"ABC": "DEF"
+	},
+	"details": "Additional details",
+	"publishImmediately": true,
+	"appType": "SYNERGY"
+}

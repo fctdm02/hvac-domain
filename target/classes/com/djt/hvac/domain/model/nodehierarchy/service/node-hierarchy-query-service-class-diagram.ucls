@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="false" router="FAN">  
+  <class id="1" language="java" 
+    name="com.resolute.services.domain.model.nodehierarchy.service.NodeHierarchyQueryServiceImpl" 
+    project="resolute-domain-model" 
+    file="/resolute-domain-model/src/main/java/com/resolute/services/domain/model/nodehierarchy/service/NodeHierarchyQueryServiceImpl.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="130" y="139"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="false" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <interface id="2" language="java" 
+    name="com.resolute.services.domain.model.nodehierarchy.service.NodeHierarchyQueryService" 
+    project="resolute-domain-model" 
+    file="/resolute-domain-model/src/main/java/com/resolute/services/domain/model/nodehierarchy/service/NodeHierarchyQueryService.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="131" y="43"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="false" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </interface>  
+  <interface id="3" language="java" name="com.resolute.services.domain.model.function.query.AdFunctionInstanceQueryDao" 
+    project="resolute-domain-model" 
+    file="/resolute-domain-model/src/main/java/com/resolute/services/domain/model/function/query/AdFunctionInstanceQueryDao.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="690" y="42"/>    
+    <background red="255" green="204" blue="102"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="false" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </interface>  
+  <class id="4" language="java" 
+    name="com.resolute.services.domain.model.function.query.model.AdFunctionInstanceQueryResponse" 
+    project="resolute-domain-model" 
+    file="/resolute-domain-model/src/main/java/com/resolute/services/domain/model/function/query/model/AdFunctionInstanceQueryResponse.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1725" y="37"/>    
+    <background reference="../../interface[2]/background"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="false" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" 
+    name="com.resolute.services.domain.model.function.query.model.AdFunctionInstanceSearchCriteria" 
+    project="resolute-domain-model" 
+    file="/resolute-domain-model/src/main/java/com/resolute/services/domain/model/function/query/model/AdFunctionInstanceSearchCriteria.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1261" y="41"/>    
+    <background reference="../../interface[2]/background"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="false" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <interface id="6" language="java" 
+    name="com.resolute.services.domain.model.nodehierarchy.energyexchange.query.EnergyExchangeQueryDao" 
+    project="resolute-domain-model" 
+    file="/resolute-domain-model/src/main/java/com/resolute/services/domain/model/nodehierarchy/energyexchange/query/EnergyExchangeQueryDao.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="660" y="153"/>    
+    <background red="102" green="255" blue="0"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="false" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </interface>  
+  <class id="7" language="java" 
+    name="com.resolute.services.domain.model.nodehierarchy.energyexchange.query.model.EquipmentChildrenCandidatesSearchCriteria" 
+    project="resolute-domain-model" 
+    file="/resolute-domain-model/src/main/java/com/resolute/services/domain/model/nodehierarchy/energyexchange/query/model/EquipmentChildrenCandidatesSearchCriteria.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1301" y="218"/>    
+    <background reference="../../interface[3]/background"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="false" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" 
+    name="com.resolute.services.domain.model.nodehierarchy.energyexchange.query.model.EnergyExchangeSearchCriteria" 
+    project="resolute-domain-model" 
+    file="/resolute-domain-model/src/main/java/com/resolute/services/domain/model/nodehierarchy/energyexchange/query/model/EnergyExchangeSearchCriteria.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1257" y="151"/>    
+    <background reference="../../interface[3]/background"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="false" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" 
+    name="com.resolute.services.domain.model.nodehierarchy.energyexchange.query.model.EnergyExchangeProgressResponseParent" 
+    project="resolute-domain-model" 
+    file="/resolute-domain-model/src/main/java/com/resolute/services/domain/model/nodehierarchy/energyexchange/query/model/EnergyExchangeProgressResponseParent.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="274" y="293"/>    
+    <background reference="../../interface[3]/background"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="false" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" 
+    name="com.resolute.services.domain.model.nodehierarchy.energyexchange.query.model.EnergyExchangeProgressResponseType" 
+    project="resolute-domain-model" 
+    file="/resolute-domain-model/src/main/java/com/resolute/services/domain/model/nodehierarchy/energyexchange/query/model/EnergyExchangeProgressResponseType.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="617" y="293"/>    
+    <background reference="../../interface[3]/background"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="false" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" 
+    name="com.resolute.services.domain.model.nodehierarchy.energyexchange.query.model.EnergyExchangeProgressResponseOverall" 
+    project="resolute-domain-model" 
+    file="/resolute-domain-model/src/main/java/com/resolute/services/domain/model/nodehierarchy/energyexchange/query/model/EnergyExchangeProgressResponseOverall.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="962" y="293"/>    
+    <background reference="../../interface[3]/background"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="false" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" 
+    name="com.resolute.services.domain.model.nodehierarchy.energyexchange.query.model.EquipmentChildrenSearchResponse" 
+    project="resolute-domain-model" 
+    file="/resolute-domain-model/src/main/java/com/resolute/services/domain/model/nodehierarchy/energyexchange/query/model/EquipmentChildrenSearchResponse.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1730" y="288"/>    
+    <background reference="../../interface[3]/background"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="false" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" 
+    name="com.resolute.services.domain.model.nodehierarchy.energyexchange.query.model.EnergyExchangeQueryResponse" 
+    project="resolute-domain-model" 
+    file="/resolute-domain-model/src/main/java/com/resolute/services/domain/model/nodehierarchy/energyexchange/query/model/EnergyExchangeQueryResponse.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1742" y="152"/>    
+    <background reference="../../interface[3]/background"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="false" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" 
+    name="com.resolute.services.domain.model.nodehierarchy.energyexchange.query.model.EquipmentChildrenCandidatesSearchResponse" 
+    project="resolute-domain-model" 
+    file="/resolute-domain-model/src/main/java/com/resolute/services/domain/model/nodehierarchy/energyexchange/query/model/EquipmentChildrenCandidatesSearchResponse.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1695" y="218"/>    
+    <background reference="../../interface[3]/background"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="false" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" 
+    name="com.resolute.services.domain.model.nodehierarchy.energyexchange.query.model.EquipmentChildrenSearchCriteria" 
+    project="resolute-domain-model" 
+    file="/resolute-domain-model/src/main/java/com/resolute/services/domain/model/nodehierarchy/energyexchange/query/model/EquipmentChildrenSearchCriteria.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1264" y="292"/>    
+    <background reference="../../interface[3]/background"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="false" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" 
+    name="com.resolute.services.domain.model.nodehierarchy.energyexchange.query.model.EnergyExchangeProgressResponse" 
+    project="resolute-domain-model" 
+    file="/resolute-domain-model/src/main/java/com/resolute/services/domain/model/nodehierarchy/energyexchange/query/model/EnergyExchangeProgressResponse.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="602" y="212"/>    
+    <background reference="../../interface[3]/background"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="false" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <interface id="17" language="java" name="com.resolute.services.domain.model.nodehierarchy.point.query.PointQueryDao" 
+    project="resolute-domain-model" 
+    file="/resolute-domain-model/src/main/java/com/resolute/services/domain/model/nodehierarchy/point/query/PointQueryDao.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="547" y="378"/>    
+    <background red="102" green="204" blue="255"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="false" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </interface>  
+  <class id="18" language="java" 
+    name="com.resolute.services.domain.model.nodehierarchy.point.query.model.PointPointTemplateResponse" 
+    project="resolute-domain-model" 
+    file="/resolute-domain-model/src/main/java/com/resolute/services/domain/model/nodehierarchy/point/query/model/PointPointTemplateResponse.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="945" y="464"/>    
+    <background reference="../../interface[4]/background"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="false" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" 
+    name="com.resolute.services.domain.model.nodehierarchy.point.query.model.PointPointTemplate" 
+    project="resolute-domain-model" 
+    file="/resolute-domain-model/src/main/java/com/resolute/services/domain/model/nodehierarchy/point/query/model/PointPointTemplate.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="944" y="375"/>    
+    <background reference="../../interface[4]/background"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="false" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" 
+    name="com.resolute.services.domain.model.nodehierarchy.point.query.model.PointQueryResponse" 
+    project="resolute-domain-model" 
+    file="/resolute-domain-model/src/main/java/com/resolute/services/domain/model/nodehierarchy/point/query/model/PointQueryResponse.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1778" y="372"/>    
+    <background reference="../../interface[4]/background"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="false" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" 
+    name="com.resolute.services.domain.model.nodehierarchy.point.query.model.PointSearchCriteria" 
+    project="resolute-domain-model" 
+    file="/resolute-domain-model/src/main/java/com/resolute/services/domain/model/nodehierarchy/point/query/model/PointSearchCriteria.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1223" y="377"/>    
+    <background reference="../../interface[4]/background"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="false" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <interface id="22" language="java" name="com.resolute.services.domain.model.rawpoint.query.RawPointQueryDao" 
+    project="resolute-domain-model" 
+    file="/resolute-domain-model/src/main/java/com/resolute/services/domain/model/rawpoint/query/RawPointQueryDao.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="589" y="528"/>    
+    <background red="255" green="102" blue="153"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="false" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </interface>  
+  <class id="23" language="java" name="com.resolute.services.domain.model.rawpoint.query.model.RawPointQueryResponse" 
+    project="resolute-domain-model" 
+    file="/resolute-domain-model/src/main/java/com/resolute/services/domain/model/rawpoint/query/model/RawPointQueryResponse.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1752" y="530"/>    
+    <background reference="../../interface[5]/background"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="false" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="com.resolute.services.domain.model.rawpoint.query.model.RawPointSearchCriteria" 
+    project="resolute-domain-model" 
+    file="/resolute-domain-model/src/main/java/com/resolute/services/domain/model/rawpoint/query/model/RawPointSearchCriteria.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1243" y="529"/>    
+    <background reference="../../interface[5]/background"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="false" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <association id="25">    
+    <end type="SOURCE" refId="23" navigable="false" variant="ASSOCIATION">      
+      <attribute id="26" name="query"/>      
+      <multiplicity id="27" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true" variant="ASSOCIATION"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="28">    
+    <end type="SOURCE" refId="4" navigable="false" variant="ASSOCIATION">      
+      <attribute id="29" name="query"/>      
+      <multiplicity id="30" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true" variant="ASSOCIATION"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="31">    
+    <end type="SOURCE" refId="18" navigable="false" variant="ASSOCIATION">      
+      <attribute id="32" name="templates"/>      
+      <multiplicity id="33" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true" variant="ASSOCIATION"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="34">    
+    <end type="SOURCE" refId="14" navigable="false" variant="ASSOCIATION">      
+      <attribute id="35" name="query"/>      
+      <multiplicity id="36" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true" variant="ASSOCIATION"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="37">    
+    <end type="SOURCE" refId="20" navigable="false" variant="ASSOCIATION">      
+      <attribute id="38" name="query"/>      
+      <multiplicity id="39" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true" variant="ASSOCIATION"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="40">    
+    <end type="SOURCE" refId="12" navigable="false" variant="ASSOCIATION">      
+      <attribute id="41" name="query"/>      
+      <multiplicity id="42" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true" variant="ASSOCIATION"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="43">    
+    <end type="SOURCE" refId="1" navigable="false" variant="ASSOCIATION">      
+      <attribute id="44" name="pointQueryDao"/>      
+      <multiplicity id="45" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true" variant="ASSOCIATION"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="46">    
+    <end type="SOURCE" refId="16" navigable="false" variant="ASSOCIATION">      
+      <attribute id="47" name="parent"/>      
+      <multiplicity id="48" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true" variant="ASSOCIATION"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="49">    
+    <end type="SOURCE" refId="1" navigable="false" variant="ASSOCIATION">      
+      <attribute id="50" name="rawPointQueryDao"/>      
+      <multiplicity id="51" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true" variant="ASSOCIATION"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="52">    
+    <end type="SOURCE" refId="16" navigable="false" variant="ASSOCIATION">      
+      <attribute id="53" name="type"/>      
+      <multiplicity id="54" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true" variant="ASSOCIATION"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="55">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="2"/>  
+  </realization>  
+  <association id="56">    
+    <end type="SOURCE" refId="1" navigable="false" variant="ASSOCIATION">      
+      <attribute id="57" name="adFunctionInstanceQueryDao"/>      
+      <multiplicity id="58" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true" variant="ASSOCIATION"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="59">    
+    <end type="SOURCE" refId="13" navigable="false" variant="ASSOCIATION">      
+      <attribute id="60" name="query"/>      
+      <multiplicity id="61" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true" variant="ASSOCIATION"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="62">    
+    <end type="SOURCE" refId="1" navigable="false" variant="ASSOCIATION">      
+      <attribute id="63" name="energyExchangeQueryDao">        
+        <position height="19" width="153" x="276" y="117"/>      
+      </attribute>      
+      <multiplicity id="64" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true" variant="ASSOCIATION"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="65">    
+    <end type="SOURCE" refId="16" navigable="false" variant="ASSOCIATION">      
+      <attribute id="66" name="overall"/>      
+      <multiplicity id="67" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true" variant="ASSOCIATION"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="false" initial-value="false" signature="false" 
+    sort-features="false" accessors="false" visibility="true">    
+    <attributes public="false" package="false" protected="false" private="false" static="false"/>    
+    <operations public="false" package="false" protected="false" private="false" static="false"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

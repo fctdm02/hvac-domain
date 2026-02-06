@@ -1,0 +1,4269 @@
+[ {
+  "adFunctionTemplateId" : 130,
+  "energyExchangeId" : 121208,
+  "errorMessages" : [ 328, 329, 330 ]
+}, {
+  "adFunctionTemplateId" : 131,
+  "energyExchangeId" : 121208,
+  "errorMessages" : [ 331, 332, 333 ]
+}, {
+  "adFunctionTemplateId" : 132,
+  "energyExchangeId" : 121208,
+  "errorMessages" : [ 334, 335, 336 ]
+}, {
+  "adFunctionTemplateId" : 5,
+  "energyExchangeId" : 121208,
+  "errorMessages" : [ 6 ]
+}, {
+  "adFunctionTemplateId" : 133,
+  "energyExchangeId" : 121208,
+  "errorMessages" : [ 337, 338, 339 ]
+}, {
+  "adFunctionTemplateId" : 6,
+  "energyExchangeId" : 121208,
+  "errorMessages" : [ 7 ]
+}, {
+  "adFunctionTemplateId" : 134,
+  "energyExchangeId" : 121208,
+  "errorMessages" : [ 340 ]
+}, {
+  "adFunctionTemplateId" : 7,
+  "energyExchangeId" : 121208,
+  "errorMessages" : [ 8 ]
+}, {
+  "adFunctionTemplateId" : 135,
+  "energyExchangeId" : 121208,
+  "errorMessages" : [ 341 ]
+}, {
+  "adFunctionTemplateId" : 136,
+  "energyExchangeId" : 121208,
+  "errorMessages" : [ 345, 346 ]
+}, {
+  "adFunctionTemplateId" : 9,
+  "energyExchangeId" : 121208,
+  "errorMessages" : [ 10 ]
+}, {
+  "adFunctionTemplateId" : 137,
+  "energyExchangeId" : 121208,
+  "errorMessages" : [ 348, 349, 350, 351 ]
+}, {
+  "adFunctionTemplateId" : 10,
+  "energyExchangeId" : 121208,
+  "errorMessages" : [ 11 ]
+}, {
+  "adFunctionTemplateId" : 138,
+  "energyExchangeId" : 121208,
+  "errorMessages" : [ 352, 353, 354, 355 ]
+}, {
+  "adFunctionTemplateId" : 139,
+  "energyExchangeId" : 121208,
+  "errorMessages" : [ 356, 357, 358 ]
+}, {
+  "adFunctionTemplateId" : 140,
+  "energyExchangeId" : 121208,
+  "errorMessages" : [ 375, 376, 377, 378, 379 ]
+}, {
+  "adFunctionTemplateId" : 141,
+  "energyExchangeId" : 121208,
+  "errorMessages" : [ 383, 384, 385, 386, 387 ]
+}, {
+  "adFunctionTemplateId" : 142,
+  "energyExchangeId" : 121208,
+  "errorMessages" : [ 400, 401, 402 ]
+}, {
+  "adFunctionTemplateId" : 15,
+  "energyExchangeId" : 121208,
+  "errorMessages" : [ 32, 33 ]
+}, {
+  "adFunctionTemplateId" : 143,
+  "energyExchangeId" : 121208,
+  "errorMessages" : [ 406, 407, 408 ]
+}, {
+  "adFunctionTemplateId" : 16,
+  "energyExchangeId" : 121208,
+  "errorMessages" : [ 34 ]
+}, {
+  "adFunctionTemplateId" : 144,
+  "energyExchangeId" : 121208,
+  "errorMessages" : [ 412, 413, 414, 415, 416 ]
+}, {
+  "adFunctionTemplateId" : 17,
+  "energyExchangeId" : 121208,
+  "errorMessages" : [ 35, 36 ]
+}, {
+  "adFunctionTemplateId" : 145,
+  "energyExchangeId" : 121208,
+  "errorMessages" : [ 420, 421, 422, 423, 424 ]
+}, {
+  "adFunctionTemplateId" : 18,
+  "energyExchangeId" : 121208,
+  "errorMessages" : [ 37 ]
+}, {
+  "adFunctionTemplateId" : 19,
+  "energyExchangeId" : 121208,
+  "errorMessages" : [ 38 ]
+}, {
+  "adFunctionTemplateId" : 20,
+  "energyExchangeId" : 121208,
+  "errorMessages" : [ 39, 40 ]
+}, {
+  "adFunctionTemplateId" : 21,
+  "energyExchangeId" : 121208,
+  "errorMessages" : [ 41, 42 ]
+}, {
+  "adFunctionTemplateId" : 22,
+  "energyExchangeId" : 121208,
+  "errorMessages" : [ 43, 44 ]
+}, {
+  "adFunctionTemplateId" : 23,
+  "energyExchangeId" : 121208,
+  "errorMessages" : [ 45, 47, 48 ]
+}, {
+  "adFunctionTemplateId" : 24,
+  "energyExchangeId" : 121208,
+  "errorMessages" : [ 49, 50 ]
+}, {
+  "adFunctionTemplateId" : 25,
+  "energyExchangeId" : 121208,
+  "errorMessages" : [ 51, 52 ]
+}, {
+  "adFunctionTemplateId" : 26,
+  "energyExchangeId" : 121208,
+  "errorMessages" : [ 53, 54, 55, 57 ]
+}, {
+  "adFunctionTemplateId" : 27,
+  "energyExchangeId" : 121208,
+  "errorMessages" : [ 58, 59, 60, 62 ]
+}, {
+  "adFunctionTemplateId" : 28,
+  "energyExchangeId" : 121208,
+  "errorMessages" : [ 63, 64 ]
+}, {
+  "adFunctionTemplateId" : 31,
+  "energyExchangeId" : 121208,
+  "errorMessages" : [ 69, 70 ]
+}, {
+  "adFunctionTemplateId" : 32,
+  "energyExchangeId" : 121208,
+  "errorMessages" : [ 71, 72 ]
+}, {
+  "adFunctionTemplateId" : 33,
+  "energyExchangeId" : 121208,
+  "errorMessages" : [ 73, 74 ]
+}, {
+  "adFunctionTemplateId" : 34,
+  "energyExchangeId" : 121208,
+  "errorMessages" : [ 75, 76 ]
+}, {
+  "adFunctionTemplateId" : 36,
+  "energyExchangeId" : 121208,
+  "errorMessages" : [ 79, 80, 391 ]
+}, {
+  "adFunctionTemplateId" : 37,
+  "energyExchangeId" : 121208,
+  "errorMessages" : [ 81, 83, 84, 85, 86 ]
+}, {
+  "adFunctionTemplateId" : 38,
+  "energyExchangeId" : 121208,
+  "errorMessages" : [ 88, 89, 91, 395 ]
+}, {
+  "adFunctionTemplateId" : 39,
+  "energyExchangeId" : 121208,
+  "errorMessages" : [ 92, 93, 94, 95 ]
+}, {
+  "adFunctionTemplateId" : 44,
+  "energyExchangeId" : 121208,
+  "errorMessages" : [ 107, 108 ]
+}, {
+  "adFunctionTemplateId" : 48,
+  "energyExchangeId" : 121208,
+  "errorMessages" : [ 116 ]
+}, {
+  "adFunctionTemplateId" : 49,
+  "energyExchangeId" : 121208,
+  "errorMessages" : [ 117, 118 ]
+}, {
+  "adFunctionTemplateId" : 62,
+  "energyExchangeId" : 121208,
+  "errorMessages" : [ 144 ]
+}, {
+  "adFunctionTemplateId" : 63,
+  "energyExchangeId" : 121208,
+  "errorMessages" : [ 146, 148 ]
+}, {
+  "adFunctionTemplateId" : 65,
+  "energyExchangeId" : 121208,
+  "errorMessages" : [ 152, 153 ]
+}, {
+  "adFunctionTemplateId" : 66,
+  "energyExchangeId" : 121208,
+  "errorMessages" : [ 154, 155 ]
+}, {
+  "adFunctionTemplateId" : 67,
+  "energyExchangeId" : 121208,
+  "errorMessages" : [ 158, 159 ]
+}, {
+  "adFunctionTemplateId" : 68,
+  "energyExchangeId" : 121208,
+  "errorMessages" : [ 162, 163 ]
+}, {
+  "adFunctionTemplateId" : 78,
+  "energyExchangeId" : 121208,
+  "errorMessages" : [ 180 ]
+}, {
+  "adFunctionTemplateId" : 79,
+  "energyExchangeId" : 121208,
+  "errorMessages" : [ 181, 182 ]
+}, {
+  "adFunctionTemplateId" : 80,
+  "energyExchangeId" : 121208,
+  "errorMessages" : [ 184, 185 ]
+}, {
+  "adFunctionTemplateId" : 85,
+  "energyExchangeId" : 121208,
+  "errorMessages" : [ 195, 196, 197, 198 ]
+}, {
+  "adFunctionTemplateId" : 86,
+  "energyExchangeId" : 121208,
+  "errorMessages" : [ 199, 200, 201, 202 ]
+}, {
+  "adFunctionTemplateId" : 91,
+  "energyExchangeId" : 121208,
+  "errorMessages" : [ 211, 212, 213, 214 ]
+}, {
+  "adFunctionTemplateId" : 93,
+  "energyExchangeId" : 121208,
+  "errorMessages" : [ 217, 218, 219, 220 ]
+}, {
+  "adFunctionTemplateId" : 99,
+  "energyExchangeId" : 121208,
+  "errorMessages" : [ 232 ]
+}, {
+  "adFunctionTemplateId" : 105,
+  "energyExchangeId" : 121208,
+  "errorMessages" : [ 275 ]
+}, {
+  "adFunctionTemplateId" : 109,
+  "energyExchangeId" : 121208,
+  "errorMessages" : [ 279 ]
+}, {
+  "adFunctionTemplateId" : 113,
+  "energyExchangeId" : 121208,
+  "errorMessages" : [ 291, 292, 295 ]
+}, {
+  "adFunctionTemplateId" : 71,
+  "energyExchangeId" : 121624,
+  "errorMessages" : [ 167 ]
+}, {
+  "adFunctionTemplateId" : 74,
+  "energyExchangeId" : 121624,
+  "errorMessages" : [ 170 ]
+}, {
+  "adFunctionTemplateId" : 69,
+  "energyExchangeId" : 121626,
+  "errorMessages" : [ 165 ]
+}, {
+  "adFunctionTemplateId" : 72,
+  "energyExchangeId" : 121626,
+  "errorMessages" : [ 168 ]
+}, {
+  "adFunctionTemplateId" : 71,
+  "energyExchangeId" : 121628,
+  "errorMessages" : [ 167 ]
+}, {
+  "adFunctionTemplateId" : 74,
+  "energyExchangeId" : 121628,
+  "errorMessages" : [ 170 ]
+}, {
+  "adFunctionTemplateId" : 70,
+  "energyExchangeId" : 121641,
+  "errorMessages" : [ 166 ]
+}, {
+  "adFunctionTemplateId" : 73,
+  "energyExchangeId" : 121641,
+  "errorMessages" : [ 169 ]
+}, {
+  "adFunctionTemplateId" : 112,
+  "energyExchangeId" : 120376,
+  "errorMessages" : [ -112 ]
+}, {
+  "adFunctionTemplateId" : 114,
+  "energyExchangeId" : 120376,
+  "errorMessages" : [ 296, 297 ]
+}, {
+  "adFunctionTemplateId" : 115,
+  "energyExchangeId" : 120376,
+  "errorMessages" : [ 298, 299 ]
+}, {
+  "adFunctionTemplateId" : 149,
+  "energyExchangeId" : 120376,
+  "errorMessages" : [ 441, 443 ]
+}, {
+  "adFunctionTemplateId" : 40,
+  "energyExchangeId" : 120376,
+  "errorMessages" : [ 98 ]
+}, {
+  "adFunctionTemplateId" : 8,
+  "energyExchangeId" : 120376,
+  "errorMessages" : [ 9 ]
+}, {
+  "adFunctionTemplateId" : 41,
+  "energyExchangeId" : 120376,
+  "errorMessages" : [ 100 ]
+}, {
+  "adFunctionTemplateId" : 11,
+  "energyExchangeId" : 120376,
+  "errorMessages" : [ 15 ]
+}, {
+  "adFunctionTemplateId" : 155,
+  "energyExchangeId" : 120376,
+  "errorMessages" : [ 466, 468, 470, 471 ]
+}, {
+  "adFunctionTemplateId" : 12,
+  "energyExchangeId" : 120376,
+  "errorMessages" : [ 22 ]
+}, {
+  "adFunctionTemplateId" : 45,
+  "energyExchangeId" : 120376,
+  "errorMessages" : [ 112 ]
+}, {
+  "adFunctionTemplateId" : 46,
+  "energyExchangeId" : 120376,
+  "errorMessages" : [ 113 ]
+}, {
+  "adFunctionTemplateId" : 112,
+  "energyExchangeId" : 120378,
+  "errorMessages" : [ -112 ]
+}, {
+  "adFunctionTemplateId" : 114,
+  "energyExchangeId" : 120378,
+  "errorMessages" : [ 296, 297 ]
+}, {
+  "adFunctionTemplateId" : 115,
+  "energyExchangeId" : 120378,
+  "errorMessages" : [ 298, 299 ]
+}, {
+  "adFunctionTemplateId" : 149,
+  "energyExchangeId" : 120378,
+  "errorMessages" : [ 441, 443 ]
+}, {
+  "adFunctionTemplateId" : 40,
+  "energyExchangeId" : 120378,
+  "errorMessages" : [ 98 ]
+}, {
+  "adFunctionTemplateId" : 8,
+  "energyExchangeId" : 120378,
+  "errorMessages" : [ 9 ]
+}, {
+  "adFunctionTemplateId" : 41,
+  "energyExchangeId" : 120378,
+  "errorMessages" : [ 100 ]
+}, {
+  "adFunctionTemplateId" : 11,
+  "energyExchangeId" : 120378,
+  "errorMessages" : [ 15 ]
+}, {
+  "adFunctionTemplateId" : 155,
+  "energyExchangeId" : 120378,
+  "errorMessages" : [ 466, 468, 470, 471 ]
+}, {
+  "adFunctionTemplateId" : 12,
+  "energyExchangeId" : 120378,
+  "errorMessages" : [ 22 ]
+}, {
+  "adFunctionTemplateId" : 45,
+  "energyExchangeId" : 120378,
+  "errorMessages" : [ 112 ]
+}, {
+  "adFunctionTemplateId" : 46,
+  "energyExchangeId" : 120378,
+  "errorMessages" : [ 113 ]
+}, {
+  "adFunctionTemplateId" : 112,
+  "energyExchangeId" : 120380,
+  "errorMessages" : [ -112 ]
+}, {
+  "adFunctionTemplateId" : 114,
+  "energyExchangeId" : 120380,
+  "errorMessages" : [ 296, 297 ]
+}, {
+  "adFunctionTemplateId" : 115,
+  "energyExchangeId" : 120380,
+  "errorMessages" : [ 298, 299 ]
+}, {
+  "adFunctionTemplateId" : 149,
+  "energyExchangeId" : 120380,
+  "errorMessages" : [ 441, 443 ]
+}, {
+  "adFunctionTemplateId" : 40,
+  "energyExchangeId" : 120380,
+  "errorMessages" : [ 98 ]
+}, {
+  "adFunctionTemplateId" : 8,
+  "energyExchangeId" : 120380,
+  "errorMessages" : [ 9 ]
+}, {
+  "adFunctionTemplateId" : 41,
+  "energyExchangeId" : 120380,
+  "errorMessages" : [ 100 ]
+}, {
+  "adFunctionTemplateId" : 11,
+  "energyExchangeId" : 120380,
+  "errorMessages" : [ 15 ]
+}, {
+  "adFunctionTemplateId" : 155,
+  "energyExchangeId" : 120380,
+  "errorMessages" : [ 466, 468, 470, 471 ]
+}, {
+  "adFunctionTemplateId" : 12,
+  "energyExchangeId" : 120380,
+  "errorMessages" : [ 22 ]
+}, {
+  "adFunctionTemplateId" : 45,
+  "energyExchangeId" : 120380,
+  "errorMessages" : [ 112 ]
+}, {
+  "adFunctionTemplateId" : 46,
+  "energyExchangeId" : 120380,
+  "errorMessages" : [ 113 ]
+}, {
+  "adFunctionTemplateId" : 112,
+  "energyExchangeId" : 120382,
+  "errorMessages" : [ -112 ]
+}, {
+  "adFunctionTemplateId" : 114,
+  "energyExchangeId" : 120382,
+  "errorMessages" : [ 296, 297 ]
+}, {
+  "adFunctionTemplateId" : 115,
+  "energyExchangeId" : 120382,
+  "errorMessages" : [ 298, 299 ]
+}, {
+  "adFunctionTemplateId" : 149,
+  "energyExchangeId" : 120382,
+  "errorMessages" : [ 441, 443 ]
+}, {
+  "adFunctionTemplateId" : 40,
+  "energyExchangeId" : 120382,
+  "errorMessages" : [ 98 ]
+}, {
+  "adFunctionTemplateId" : 8,
+  "energyExchangeId" : 120382,
+  "errorMessages" : [ 9 ]
+}, {
+  "adFunctionTemplateId" : 41,
+  "energyExchangeId" : 120382,
+  "errorMessages" : [ 100 ]
+}, {
+  "adFunctionTemplateId" : 11,
+  "energyExchangeId" : 120382,
+  "errorMessages" : [ 15 ]
+}, {
+  "adFunctionTemplateId" : 155,
+  "energyExchangeId" : 120382,
+  "errorMessages" : [ 466, 468, 470, 471 ]
+}, {
+  "adFunctionTemplateId" : 12,
+  "energyExchangeId" : 120382,
+  "errorMessages" : [ 22 ]
+}, {
+  "adFunctionTemplateId" : 45,
+  "energyExchangeId" : 120382,
+  "errorMessages" : [ 112 ]
+}, {
+  "adFunctionTemplateId" : 46,
+  "energyExchangeId" : 120382,
+  "errorMessages" : [ 113 ]
+}, {
+  "adFunctionTemplateId" : 130,
+  "energyExchangeId" : 120385,
+  "errorMessages" : [ 329, 330 ]
+}, {
+  "adFunctionTemplateId" : 131,
+  "energyExchangeId" : 120385,
+  "errorMessages" : [ 332, 333 ]
+}, {
+  "adFunctionTemplateId" : 132,
+  "energyExchangeId" : 120385,
+  "errorMessages" : [ 335, 336 ]
+}, {
+  "adFunctionTemplateId" : 5,
+  "energyExchangeId" : 120385,
+  "errorMessages" : [ 6 ]
+}, {
+  "adFunctionTemplateId" : 133,
+  "energyExchangeId" : 120385,
+  "errorMessages" : [ 338, 339 ]
+}, {
+  "adFunctionTemplateId" : 6,
+  "energyExchangeId" : 120385,
+  "errorMessages" : [ 7 ]
+}, {
+  "adFunctionTemplateId" : 134,
+  "energyExchangeId" : 120385,
+  "errorMessages" : [ 340 ]
+}, {
+  "adFunctionTemplateId" : 7,
+  "energyExchangeId" : 120385,
+  "errorMessages" : [ 8 ]
+}, {
+  "adFunctionTemplateId" : 135,
+  "energyExchangeId" : 120385,
+  "errorMessages" : [ -135 ]
+}, {
+  "adFunctionTemplateId" : 136,
+  "energyExchangeId" : 120385,
+  "errorMessages" : [ 345 ]
+}, {
+  "adFunctionTemplateId" : 9,
+  "energyExchangeId" : 120385,
+  "errorMessages" : [ 10 ]
+}, {
+  "adFunctionTemplateId" : 137,
+  "energyExchangeId" : 120385,
+  "errorMessages" : [ 349, 350, 351 ]
+}, {
+  "adFunctionTemplateId" : 10,
+  "energyExchangeId" : 120385,
+  "errorMessages" : [ 11 ]
+}, {
+  "adFunctionTemplateId" : 138,
+  "energyExchangeId" : 120385,
+  "errorMessages" : [ 353, 354 ]
+}, {
+  "adFunctionTemplateId" : 139,
+  "energyExchangeId" : 120385,
+  "errorMessages" : [ 357, 358 ]
+}, {
+  "adFunctionTemplateId" : 140,
+  "energyExchangeId" : 120385,
+  "errorMessages" : [ 376, 377, 378 ]
+}, {
+  "adFunctionTemplateId" : 141,
+  "energyExchangeId" : 120385,
+  "errorMessages" : [ 384, 385, 386 ]
+}, {
+  "adFunctionTemplateId" : 142,
+  "energyExchangeId" : 120385,
+  "errorMessages" : [ 400, 401 ]
+}, {
+  "adFunctionTemplateId" : 15,
+  "energyExchangeId" : 120385,
+  "errorMessages" : [ 33 ]
+}, {
+  "adFunctionTemplateId" : 143,
+  "energyExchangeId" : 120385,
+  "errorMessages" : [ 406, 407 ]
+}, {
+  "adFunctionTemplateId" : 16,
+  "energyExchangeId" : 120385,
+  "errorMessages" : [ 34 ]
+}, {
+  "adFunctionTemplateId" : 144,
+  "energyExchangeId" : 120385,
+  "errorMessages" : [ 412, 413, 416 ]
+}, {
+  "adFunctionTemplateId" : 17,
+  "energyExchangeId" : 120385,
+  "errorMessages" : [ 35 ]
+}, {
+  "adFunctionTemplateId" : 145,
+  "energyExchangeId" : 120385,
+  "errorMessages" : [ 420, 421, 424 ]
+}, {
+  "adFunctionTemplateId" : 18,
+  "energyExchangeId" : 120385,
+  "errorMessages" : [ 37 ]
+}, {
+  "adFunctionTemplateId" : 19,
+  "energyExchangeId" : 120385,
+  "errorMessages" : [ 38 ]
+}, {
+  "adFunctionTemplateId" : 20,
+  "energyExchangeId" : 120385,
+  "errorMessages" : [ 39 ]
+}, {
+  "adFunctionTemplateId" : 21,
+  "energyExchangeId" : 120385,
+  "errorMessages" : [ 41 ]
+}, {
+  "adFunctionTemplateId" : 22,
+  "energyExchangeId" : 120385,
+  "errorMessages" : [ 43 ]
+}, {
+  "adFunctionTemplateId" : 23,
+  "energyExchangeId" : 120385,
+  "errorMessages" : [ 47, 48 ]
+}, {
+  "adFunctionTemplateId" : 26,
+  "energyExchangeId" : 120385,
+  "errorMessages" : [ 54, 55, 57 ]
+}, {
+  "adFunctionTemplateId" : 27,
+  "energyExchangeId" : 120385,
+  "errorMessages" : [ 59, 60, 62 ]
+}, {
+  "adFunctionTemplateId" : 28,
+  "energyExchangeId" : 120385,
+  "errorMessages" : [ 64 ]
+}, {
+  "adFunctionTemplateId" : 31,
+  "energyExchangeId" : 120385,
+  "errorMessages" : [ 69 ]
+}, {
+  "adFunctionTemplateId" : 32,
+  "energyExchangeId" : 120385,
+  "errorMessages" : [ 71 ]
+}, {
+  "adFunctionTemplateId" : 33,
+  "energyExchangeId" : 120385,
+  "errorMessages" : [ 73 ]
+}, {
+  "adFunctionTemplateId" : 34,
+  "energyExchangeId" : 120385,
+  "errorMessages" : [ 76 ]
+}, {
+  "adFunctionTemplateId" : 36,
+  "energyExchangeId" : 120385,
+  "errorMessages" : [ 79 ]
+}, {
+  "adFunctionTemplateId" : 37,
+  "energyExchangeId" : 120385,
+  "errorMessages" : [ 81, 83, 85 ]
+}, {
+  "adFunctionTemplateId" : 38,
+  "energyExchangeId" : 120385,
+  "errorMessages" : [ 88, 89, 91 ]
+}, {
+  "adFunctionTemplateId" : 39,
+  "energyExchangeId" : 120385,
+  "errorMessages" : [ 93, 94, 95 ]
+}, {
+  "adFunctionTemplateId" : 44,
+  "energyExchangeId" : 120385,
+  "errorMessages" : [ 108 ]
+}, {
+  "adFunctionTemplateId" : 49,
+  "energyExchangeId" : 120385,
+  "errorMessages" : [ 118 ]
+}, {
+  "adFunctionTemplateId" : 65,
+  "energyExchangeId" : 120385,
+  "errorMessages" : [ 152 ]
+}, {
+  "adFunctionTemplateId" : 66,
+  "energyExchangeId" : 120385,
+  "errorMessages" : [ 155 ]
+}, {
+  "adFunctionTemplateId" : 67,
+  "energyExchangeId" : 120385,
+  "errorMessages" : [ 159 ]
+}, {
+  "adFunctionTemplateId" : 68,
+  "energyExchangeId" : 120385,
+  "errorMessages" : [ 163 ]
+}, {
+  "adFunctionTemplateId" : 78,
+  "energyExchangeId" : 120385,
+  "errorMessages" : [ 180 ]
+}, {
+  "adFunctionTemplateId" : 79,
+  "energyExchangeId" : 120385,
+  "errorMessages" : [ 182 ]
+}, {
+  "adFunctionTemplateId" : 80,
+  "energyExchangeId" : 120385,
+  "errorMessages" : [ 185 ]
+}, {
+  "adFunctionTemplateId" : 85,
+  "energyExchangeId" : 120385,
+  "errorMessages" : [ 196, 197 ]
+}, {
+  "adFunctionTemplateId" : 86,
+  "energyExchangeId" : 120385,
+  "errorMessages" : [ 200, 201, 202 ]
+}, {
+  "adFunctionTemplateId" : 91,
+  "energyExchangeId" : 120385,
+  "errorMessages" : [ 212, 213 ]
+}, {
+  "adFunctionTemplateId" : 93,
+  "energyExchangeId" : 120385,
+  "errorMessages" : [ 218, 219, 220 ]
+}, {
+  "adFunctionTemplateId" : 105,
+  "energyExchangeId" : 120385,
+  "errorMessages" : [ 275 ]
+}, {
+  "adFunctionTemplateId" : 109,
+  "energyExchangeId" : 120385,
+  "errorMessages" : [ 279 ]
+}, {
+  "adFunctionTemplateId" : 113,
+  "energyExchangeId" : 120385,
+  "errorMessages" : [ 295 ]
+}, {
+  "adFunctionTemplateId" : 112,
+  "energyExchangeId" : 120392,
+  "errorMessages" : [ -112 ]
+}, {
+  "adFunctionTemplateId" : 114,
+  "energyExchangeId" : 120392,
+  "errorMessages" : [ 296, 297 ]
+}, {
+  "adFunctionTemplateId" : 115,
+  "energyExchangeId" : 120392,
+  "errorMessages" : [ 298, 299 ]
+}, {
+  "adFunctionTemplateId" : 149,
+  "energyExchangeId" : 120392,
+  "errorMessages" : [ 441, 443 ]
+}, {
+  "adFunctionTemplateId" : 8,
+  "energyExchangeId" : 120392,
+  "errorMessages" : [ 9 ]
+}, {
+  "adFunctionTemplateId" : 40,
+  "energyExchangeId" : 120392,
+  "errorMessages" : [ 98 ]
+}, {
+  "adFunctionTemplateId" : 41,
+  "energyExchangeId" : 120392,
+  "errorMessages" : [ 100 ]
+}, {
+  "adFunctionTemplateId" : 11,
+  "energyExchangeId" : 120392,
+  "errorMessages" : [ 15 ]
+}, {
+  "adFunctionTemplateId" : 155,
+  "energyExchangeId" : 120392,
+  "errorMessages" : [ 466, 468, 470, 471 ]
+}, {
+  "adFunctionTemplateId" : 12,
+  "energyExchangeId" : 120392,
+  "errorMessages" : [ 22 ]
+}, {
+  "adFunctionTemplateId" : 45,
+  "energyExchangeId" : 120392,
+  "errorMessages" : [ 112 ]
+}, {
+  "adFunctionTemplateId" : 46,
+  "energyExchangeId" : 120392,
+  "errorMessages" : [ 113 ]
+}, {
+  "adFunctionTemplateId" : 130,
+  "energyExchangeId" : 120394,
+  "errorMessages" : [ 328, 329, 330 ]
+}, {
+  "adFunctionTemplateId" : 131,
+  "energyExchangeId" : 120394,
+  "errorMessages" : [ 331, 332, 333 ]
+}, {
+  "adFunctionTemplateId" : 132,
+  "energyExchangeId" : 120394,
+  "errorMessages" : [ 334, 335, 336 ]
+}, {
+  "adFunctionTemplateId" : 5,
+  "energyExchangeId" : 120394,
+  "errorMessages" : [ 6 ]
+}, {
+  "adFunctionTemplateId" : 133,
+  "energyExchangeId" : 120394,
+  "errorMessages" : [ 337, 338, 339 ]
+}, {
+  "adFunctionTemplateId" : 6,
+  "energyExchangeId" : 120394,
+  "errorMessages" : [ 7 ]
+}, {
+  "adFunctionTemplateId" : 134,
+  "energyExchangeId" : 120394,
+  "errorMessages" : [ 340 ]
+}, {
+  "adFunctionTemplateId" : 7,
+  "energyExchangeId" : 120394,
+  "errorMessages" : [ 8 ]
+}, {
+  "adFunctionTemplateId" : 135,
+  "energyExchangeId" : 120394,
+  "errorMessages" : [ 341 ]
+}, {
+  "adFunctionTemplateId" : 136,
+  "energyExchangeId" : 120394,
+  "errorMessages" : [ 345, 346 ]
+}, {
+  "adFunctionTemplateId" : 9,
+  "energyExchangeId" : 120394,
+  "errorMessages" : [ 10 ]
+}, {
+  "adFunctionTemplateId" : 137,
+  "energyExchangeId" : 120394,
+  "errorMessages" : [ 348, 349, 350, 351 ]
+}, {
+  "adFunctionTemplateId" : 10,
+  "energyExchangeId" : 120394,
+  "errorMessages" : [ 11 ]
+}, {
+  "adFunctionTemplateId" : 138,
+  "energyExchangeId" : 120394,
+  "errorMessages" : [ 352, 353, 354, 355 ]
+}, {
+  "adFunctionTemplateId" : 139,
+  "energyExchangeId" : 120394,
+  "errorMessages" : [ 356, 357, 358 ]
+}, {
+  "adFunctionTemplateId" : 140,
+  "energyExchangeId" : 120394,
+  "errorMessages" : [ 375, 376, 377, 378, 379 ]
+}, {
+  "adFunctionTemplateId" : 141,
+  "energyExchangeId" : 120394,
+  "errorMessages" : [ 383, 384, 385, 386, 387 ]
+}, {
+  "adFunctionTemplateId" : 142,
+  "energyExchangeId" : 120394,
+  "errorMessages" : [ 400, 401, 402 ]
+}, {
+  "adFunctionTemplateId" : 15,
+  "energyExchangeId" : 120394,
+  "errorMessages" : [ 32, 33 ]
+}, {
+  "adFunctionTemplateId" : 143,
+  "energyExchangeId" : 120394,
+  "errorMessages" : [ 406, 407, 408 ]
+}, {
+  "adFunctionTemplateId" : 16,
+  "energyExchangeId" : 120394,
+  "errorMessages" : [ 34 ]
+}, {
+  "adFunctionTemplateId" : 144,
+  "energyExchangeId" : 120394,
+  "errorMessages" : [ 412, 413, 414, 415, 416 ]
+}, {
+  "adFunctionTemplateId" : 17,
+  "energyExchangeId" : 120394,
+  "errorMessages" : [ 35, 36 ]
+}, {
+  "adFunctionTemplateId" : 145,
+  "energyExchangeId" : 120394,
+  "errorMessages" : [ 420, 421, 422, 423, 424 ]
+}, {
+  "adFunctionTemplateId" : 18,
+  "energyExchangeId" : 120394,
+  "errorMessages" : [ 37 ]
+}, {
+  "adFunctionTemplateId" : 19,
+  "energyExchangeId" : 120394,
+  "errorMessages" : [ 38 ]
+}, {
+  "adFunctionTemplateId" : 20,
+  "energyExchangeId" : 120394,
+  "errorMessages" : [ 39, 40 ]
+}, {
+  "adFunctionTemplateId" : 21,
+  "energyExchangeId" : 120394,
+  "errorMessages" : [ 41, 42 ]
+}, {
+  "adFunctionTemplateId" : 22,
+  "energyExchangeId" : 120394,
+  "errorMessages" : [ 43, 44 ]
+}, {
+  "adFunctionTemplateId" : 23,
+  "energyExchangeId" : 120394,
+  "errorMessages" : [ 45, 47, 48 ]
+}, {
+  "adFunctionTemplateId" : 24,
+  "energyExchangeId" : 120394,
+  "errorMessages" : [ 49, 50 ]
+}, {
+  "adFunctionTemplateId" : 25,
+  "energyExchangeId" : 120394,
+  "errorMessages" : [ 51, 52 ]
+}, {
+  "adFunctionTemplateId" : 26,
+  "energyExchangeId" : 120394,
+  "errorMessages" : [ 53, 54, 55, 57 ]
+}, {
+  "adFunctionTemplateId" : 27,
+  "energyExchangeId" : 120394,
+  "errorMessages" : [ 58, 59, 60, 62 ]
+}, {
+  "adFunctionTemplateId" : 28,
+  "energyExchangeId" : 120394,
+  "errorMessages" : [ 63, 64 ]
+}, {
+  "adFunctionTemplateId" : 31,
+  "energyExchangeId" : 120394,
+  "errorMessages" : [ 69, 70 ]
+}, {
+  "adFunctionTemplateId" : 32,
+  "energyExchangeId" : 120394,
+  "errorMessages" : [ 71, 72 ]
+}, {
+  "adFunctionTemplateId" : 33,
+  "energyExchangeId" : 120394,
+  "errorMessages" : [ 73, 74 ]
+}, {
+  "adFunctionTemplateId" : 34,
+  "energyExchangeId" : 120394,
+  "errorMessages" : [ 75, 76 ]
+}, {
+  "adFunctionTemplateId" : 36,
+  "energyExchangeId" : 120394,
+  "errorMessages" : [ 79, 80, 391 ]
+}, {
+  "adFunctionTemplateId" : 37,
+  "energyExchangeId" : 120394,
+  "errorMessages" : [ 81, 83, 84, 85, 86 ]
+}, {
+  "adFunctionTemplateId" : 38,
+  "energyExchangeId" : 120394,
+  "errorMessages" : [ 88, 89, 91, 395 ]
+}, {
+  "adFunctionTemplateId" : 39,
+  "energyExchangeId" : 120394,
+  "errorMessages" : [ 92, 93, 94, 95 ]
+}, {
+  "adFunctionTemplateId" : 44,
+  "energyExchangeId" : 120394,
+  "errorMessages" : [ 107, 108 ]
+}, {
+  "adFunctionTemplateId" : 48,
+  "energyExchangeId" : 120394,
+  "errorMessages" : [ 116 ]
+}, {
+  "adFunctionTemplateId" : 49,
+  "energyExchangeId" : 120394,
+  "errorMessages" : [ 117, 118 ]
+}, {
+  "adFunctionTemplateId" : 62,
+  "energyExchangeId" : 120394,
+  "errorMessages" : [ 144 ]
+}, {
+  "adFunctionTemplateId" : 63,
+  "energyExchangeId" : 120394,
+  "errorMessages" : [ 146, 148 ]
+}, {
+  "adFunctionTemplateId" : 65,
+  "energyExchangeId" : 120394,
+  "errorMessages" : [ 152, 153 ]
+}, {
+  "adFunctionTemplateId" : 66,
+  "energyExchangeId" : 120394,
+  "errorMessages" : [ 154, 155 ]
+}, {
+  "adFunctionTemplateId" : 67,
+  "energyExchangeId" : 120394,
+  "errorMessages" : [ 158, 159 ]
+}, {
+  "adFunctionTemplateId" : 68,
+  "energyExchangeId" : 120394,
+  "errorMessages" : [ 162, 163 ]
+}, {
+  "adFunctionTemplateId" : 78,
+  "energyExchangeId" : 120394,
+  "errorMessages" : [ 180 ]
+}, {
+  "adFunctionTemplateId" : 79,
+  "energyExchangeId" : 120394,
+  "errorMessages" : [ 181, 182 ]
+}, {
+  "adFunctionTemplateId" : 80,
+  "energyExchangeId" : 120394,
+  "errorMessages" : [ 184, 185 ]
+}, {
+  "adFunctionTemplateId" : 85,
+  "energyExchangeId" : 120394,
+  "errorMessages" : [ 195, 196, 197, 198 ]
+}, {
+  "adFunctionTemplateId" : 86,
+  "energyExchangeId" : 120394,
+  "errorMessages" : [ 199, 200, 201, 202 ]
+}, {
+  "adFunctionTemplateId" : 91,
+  "energyExchangeId" : 120394,
+  "errorMessages" : [ 211, 212, 213, 214 ]
+}, {
+  "adFunctionTemplateId" : 93,
+  "energyExchangeId" : 120394,
+  "errorMessages" : [ 217, 218, 219, 220 ]
+}, {
+  "adFunctionTemplateId" : 99,
+  "energyExchangeId" : 120394,
+  "errorMessages" : [ 232 ]
+}, {
+  "adFunctionTemplateId" : 105,
+  "energyExchangeId" : 120394,
+  "errorMessages" : [ 275 ]
+}, {
+  "adFunctionTemplateId" : 109,
+  "energyExchangeId" : 120394,
+  "errorMessages" : [ 279 ]
+}, {
+  "adFunctionTemplateId" : 113,
+  "energyExchangeId" : 120394,
+  "errorMessages" : [ 291, 292, 295 ]
+}, {
+  "adFunctionTemplateId" : 112,
+  "energyExchangeId" : 120396,
+  "errorMessages" : [ -112 ]
+}, {
+  "adFunctionTemplateId" : 114,
+  "energyExchangeId" : 120396,
+  "errorMessages" : [ 296, 297 ]
+}, {
+  "adFunctionTemplateId" : 115,
+  "energyExchangeId" : 120396,
+  "errorMessages" : [ 298, 299 ]
+}, {
+  "adFunctionTemplateId" : 149,
+  "energyExchangeId" : 120396,
+  "errorMessages" : [ 441, 443 ]
+}, {
+  "adFunctionTemplateId" : 40,
+  "energyExchangeId" : 120396,
+  "errorMessages" : [ 98 ]
+}, {
+  "adFunctionTemplateId" : 8,
+  "energyExchangeId" : 120396,
+  "errorMessages" : [ 9 ]
+}, {
+  "adFunctionTemplateId" : 41,
+  "energyExchangeId" : 120396,
+  "errorMessages" : [ 100 ]
+}, {
+  "adFunctionTemplateId" : 11,
+  "energyExchangeId" : 120396,
+  "errorMessages" : [ 15 ]
+}, {
+  "adFunctionTemplateId" : 155,
+  "energyExchangeId" : 120396,
+  "errorMessages" : [ 466, 468, 470, 471 ]
+}, {
+  "adFunctionTemplateId" : 12,
+  "energyExchangeId" : 120396,
+  "errorMessages" : [ 22 ]
+}, {
+  "adFunctionTemplateId" : 45,
+  "energyExchangeId" : 120396,
+  "errorMessages" : [ 112 ]
+}, {
+  "adFunctionTemplateId" : 46,
+  "energyExchangeId" : 120396,
+  "errorMessages" : [ 113 ]
+}, {
+  "adFunctionTemplateId" : 112,
+  "energyExchangeId" : 120399,
+  "errorMessages" : [ -112 ]
+}, {
+  "adFunctionTemplateId" : 114,
+  "energyExchangeId" : 120399,
+  "errorMessages" : [ 296, 297 ]
+}, {
+  "adFunctionTemplateId" : 115,
+  "energyExchangeId" : 120399,
+  "errorMessages" : [ 298, 299 ]
+}, {
+  "adFunctionTemplateId" : 149,
+  "energyExchangeId" : 120399,
+  "errorMessages" : [ 441, 443 ]
+}, {
+  "adFunctionTemplateId" : 40,
+  "energyExchangeId" : 120399,
+  "errorMessages" : [ 98 ]
+}, {
+  "adFunctionTemplateId" : 8,
+  "energyExchangeId" : 120399,
+  "errorMessages" : [ 9 ]
+}, {
+  "adFunctionTemplateId" : 41,
+  "energyExchangeId" : 120399,
+  "errorMessages" : [ 100 ]
+}, {
+  "adFunctionTemplateId" : 11,
+  "energyExchangeId" : 120399,
+  "errorMessages" : [ 15 ]
+}, {
+  "adFunctionTemplateId" : 155,
+  "energyExchangeId" : 120399,
+  "errorMessages" : [ 466, 468, 470, 471 ]
+}, {
+  "adFunctionTemplateId" : 12,
+  "energyExchangeId" : 120399,
+  "errorMessages" : [ 22 ]
+}, {
+  "adFunctionTemplateId" : 45,
+  "energyExchangeId" : 120399,
+  "errorMessages" : [ 112 ]
+}, {
+  "adFunctionTemplateId" : 46,
+  "energyExchangeId" : 120399,
+  "errorMessages" : [ 113 ]
+}, {
+  "adFunctionTemplateId" : 130,
+  "energyExchangeId" : 120401,
+  "errorMessages" : [ 329, 330 ]
+}, {
+  "adFunctionTemplateId" : 131,
+  "energyExchangeId" : 120401,
+  "errorMessages" : [ 332, 333 ]
+}, {
+  "adFunctionTemplateId" : 132,
+  "energyExchangeId" : 120401,
+  "errorMessages" : [ 335, 336 ]
+}, {
+  "adFunctionTemplateId" : 133,
+  "energyExchangeId" : 120401,
+  "errorMessages" : [ 338, 339 ]
+}, {
+  "adFunctionTemplateId" : 6,
+  "energyExchangeId" : 120401,
+  "errorMessages" : [ 7 ]
+}, {
+  "adFunctionTemplateId" : 134,
+  "energyExchangeId" : 120401,
+  "errorMessages" : [ 340 ]
+}, {
+  "adFunctionTemplateId" : 135,
+  "energyExchangeId" : 120401,
+  "errorMessages" : [ -135 ]
+}, {
+  "adFunctionTemplateId" : 136,
+  "energyExchangeId" : 120401,
+  "errorMessages" : [ 345 ]
+}, {
+  "adFunctionTemplateId" : 9,
+  "energyExchangeId" : 120401,
+  "errorMessages" : [ 10 ]
+}, {
+  "adFunctionTemplateId" : 137,
+  "energyExchangeId" : 120401,
+  "errorMessages" : [ 349, 350, 351 ]
+}, {
+  "adFunctionTemplateId" : 10,
+  "energyExchangeId" : 120401,
+  "errorMessages" : [ 11 ]
+}, {
+  "adFunctionTemplateId" : 138,
+  "energyExchangeId" : 120401,
+  "errorMessages" : [ 353, 354, 355 ]
+}, {
+  "adFunctionTemplateId" : 139,
+  "energyExchangeId" : 120401,
+  "errorMessages" : [ 357, 358 ]
+}, {
+  "adFunctionTemplateId" : 140,
+  "energyExchangeId" : 120401,
+  "errorMessages" : [ 376, 377, 378, 379 ]
+}, {
+  "adFunctionTemplateId" : 141,
+  "energyExchangeId" : 120401,
+  "errorMessages" : [ 384, 385, 386, 387 ]
+}, {
+  "adFunctionTemplateId" : 142,
+  "energyExchangeId" : 120401,
+  "errorMessages" : [ 400 ]
+}, {
+  "adFunctionTemplateId" : 15,
+  "energyExchangeId" : 120401,
+  "errorMessages" : [ 33 ]
+}, {
+  "adFunctionTemplateId" : 143,
+  "energyExchangeId" : 120401,
+  "errorMessages" : [ 406 ]
+}, {
+  "adFunctionTemplateId" : 16,
+  "energyExchangeId" : 120401,
+  "errorMessages" : [ 34 ]
+}, {
+  "adFunctionTemplateId" : 144,
+  "energyExchangeId" : 120401,
+  "errorMessages" : [ 412, 415, 416 ]
+}, {
+  "adFunctionTemplateId" : 17,
+  "energyExchangeId" : 120401,
+  "errorMessages" : [ 35 ]
+}, {
+  "adFunctionTemplateId" : 145,
+  "energyExchangeId" : 120401,
+  "errorMessages" : [ 420, 423, 424 ]
+}, {
+  "adFunctionTemplateId" : 18,
+  "energyExchangeId" : 120401,
+  "errorMessages" : [ 37 ]
+}, {
+  "adFunctionTemplateId" : 19,
+  "energyExchangeId" : 120401,
+  "errorMessages" : [ 38 ]
+}, {
+  "adFunctionTemplateId" : 20,
+  "energyExchangeId" : 120401,
+  "errorMessages" : [ 39 ]
+}, {
+  "adFunctionTemplateId" : 21,
+  "energyExchangeId" : 120401,
+  "errorMessages" : [ 41 ]
+}, {
+  "adFunctionTemplateId" : 22,
+  "energyExchangeId" : 120401,
+  "errorMessages" : [ 43 ]
+}, {
+  "adFunctionTemplateId" : 23,
+  "energyExchangeId" : 120401,
+  "errorMessages" : [ 47, 48 ]
+}, {
+  "adFunctionTemplateId" : 26,
+  "energyExchangeId" : 120401,
+  "errorMessages" : [ 55, 57 ]
+}, {
+  "adFunctionTemplateId" : 27,
+  "energyExchangeId" : 120401,
+  "errorMessages" : [ 60, 62 ]
+}, {
+  "adFunctionTemplateId" : 28,
+  "energyExchangeId" : 120401,
+  "errorMessages" : [ 64 ]
+}, {
+  "adFunctionTemplateId" : 31,
+  "energyExchangeId" : 120401,
+  "errorMessages" : [ 69 ]
+}, {
+  "adFunctionTemplateId" : 32,
+  "energyExchangeId" : 120401,
+  "errorMessages" : [ 71 ]
+}, {
+  "adFunctionTemplateId" : 33,
+  "energyExchangeId" : 120401,
+  "errorMessages" : [ 73 ]
+}, {
+  "adFunctionTemplateId" : 36,
+  "energyExchangeId" : 120401,
+  "errorMessages" : [ 79, 80 ]
+}, {
+  "adFunctionTemplateId" : 37,
+  "energyExchangeId" : 120401,
+  "errorMessages" : [ 81, 83, 85, 86 ]
+}, {
+  "adFunctionTemplateId" : 38,
+  "energyExchangeId" : 120401,
+  "errorMessages" : [ 88, 89, 91 ]
+}, {
+  "adFunctionTemplateId" : 39,
+  "energyExchangeId" : 120401,
+  "errorMessages" : [ 93, 94, 95 ]
+}, {
+  "adFunctionTemplateId" : 44,
+  "energyExchangeId" : 120401,
+  "errorMessages" : [ 108 ]
+}, {
+  "adFunctionTemplateId" : 48,
+  "energyExchangeId" : 120401,
+  "errorMessages" : [ 116 ]
+}, {
+  "adFunctionTemplateId" : 49,
+  "energyExchangeId" : 120401,
+  "errorMessages" : [ 118 ]
+}, {
+  "adFunctionTemplateId" : 66,
+  "energyExchangeId" : 120401,
+  "errorMessages" : [ 155 ]
+}, {
+  "adFunctionTemplateId" : 67,
+  "energyExchangeId" : 120401,
+  "errorMessages" : [ 159 ]
+}, {
+  "adFunctionTemplateId" : 68,
+  "energyExchangeId" : 120401,
+  "errorMessages" : [ 163 ]
+}, {
+  "adFunctionTemplateId" : 78,
+  "energyExchangeId" : 120401,
+  "errorMessages" : [ 180 ]
+}, {
+  "adFunctionTemplateId" : 85,
+  "energyExchangeId" : 120401,
+  "errorMessages" : [ 197, 198 ]
+}, {
+  "adFunctionTemplateId" : 86,
+  "energyExchangeId" : 120401,
+  "errorMessages" : [ 201, 202 ]
+}, {
+  "adFunctionTemplateId" : 91,
+  "energyExchangeId" : 120401,
+  "errorMessages" : [ 213, 214 ]
+}, {
+  "adFunctionTemplateId" : 93,
+  "energyExchangeId" : 120401,
+  "errorMessages" : [ 219, 220 ]
+}, {
+  "adFunctionTemplateId" : 99,
+  "energyExchangeId" : 120401,
+  "errorMessages" : [ 232 ]
+}, {
+  "adFunctionTemplateId" : 105,
+  "energyExchangeId" : 120401,
+  "errorMessages" : [ 275 ]
+}, {
+  "adFunctionTemplateId" : 109,
+  "energyExchangeId" : 120401,
+  "errorMessages" : [ 279 ]
+}, {
+  "adFunctionTemplateId" : 113,
+  "energyExchangeId" : 120401,
+  "errorMessages" : [ 291, 295 ]
+}, {
+  "adFunctionTemplateId" : 130,
+  "energyExchangeId" : 120404,
+  "errorMessages" : [ 328, 329, 330 ]
+}, {
+  "adFunctionTemplateId" : 131,
+  "energyExchangeId" : 120404,
+  "errorMessages" : [ 331, 332, 333 ]
+}, {
+  "adFunctionTemplateId" : 132,
+  "energyExchangeId" : 120404,
+  "errorMessages" : [ 334, 335, 336 ]
+}, {
+  "adFunctionTemplateId" : 133,
+  "energyExchangeId" : 120404,
+  "errorMessages" : [ 337, 338, 339 ]
+}, {
+  "adFunctionTemplateId" : 6,
+  "energyExchangeId" : 120404,
+  "errorMessages" : [ 7 ]
+}, {
+  "adFunctionTemplateId" : 134,
+  "energyExchangeId" : 120404,
+  "errorMessages" : [ 340 ]
+}, {
+  "adFunctionTemplateId" : 135,
+  "energyExchangeId" : 120404,
+  "errorMessages" : [ 341 ]
+}, {
+  "adFunctionTemplateId" : 136,
+  "energyExchangeId" : 120404,
+  "errorMessages" : [ 345, 346 ]
+}, {
+  "adFunctionTemplateId" : 9,
+  "energyExchangeId" : 120404,
+  "errorMessages" : [ 10 ]
+}, {
+  "adFunctionTemplateId" : 137,
+  "energyExchangeId" : 120404,
+  "errorMessages" : [ 348, 349, 350, 351 ]
+}, {
+  "adFunctionTemplateId" : 10,
+  "energyExchangeId" : 120404,
+  "errorMessages" : [ 11 ]
+}, {
+  "adFunctionTemplateId" : 138,
+  "energyExchangeId" : 120404,
+  "errorMessages" : [ 352, 353, 354, 355 ]
+}, {
+  "adFunctionTemplateId" : 139,
+  "energyExchangeId" : 120404,
+  "errorMessages" : [ 356, 357, 358 ]
+}, {
+  "adFunctionTemplateId" : 140,
+  "energyExchangeId" : 120404,
+  "errorMessages" : [ 375, 376, 377, 378, 379 ]
+}, {
+  "adFunctionTemplateId" : 141,
+  "energyExchangeId" : 120404,
+  "errorMessages" : [ 383, 384, 385, 386, 387 ]
+}, {
+  "adFunctionTemplateId" : 142,
+  "energyExchangeId" : 120404,
+  "errorMessages" : [ 400, 402 ]
+}, {
+  "adFunctionTemplateId" : 15,
+  "energyExchangeId" : 120404,
+  "errorMessages" : [ 32, 33 ]
+}, {
+  "adFunctionTemplateId" : 143,
+  "energyExchangeId" : 120404,
+  "errorMessages" : [ 406, 408 ]
+}, {
+  "adFunctionTemplateId" : 16,
+  "energyExchangeId" : 120404,
+  "errorMessages" : [ 34 ]
+}, {
+  "adFunctionTemplateId" : 144,
+  "energyExchangeId" : 120404,
+  "errorMessages" : [ 412, 414, 415, 416 ]
+}, {
+  "adFunctionTemplateId" : 17,
+  "energyExchangeId" : 120404,
+  "errorMessages" : [ 35, 36 ]
+}, {
+  "adFunctionTemplateId" : 145,
+  "energyExchangeId" : 120404,
+  "errorMessages" : [ 420, 422, 423, 424 ]
+}, {
+  "adFunctionTemplateId" : 18,
+  "energyExchangeId" : 120404,
+  "errorMessages" : [ 37 ]
+}, {
+  "adFunctionTemplateId" : 20,
+  "energyExchangeId" : 120404,
+  "errorMessages" : [ 39, 40 ]
+}, {
+  "adFunctionTemplateId" : 21,
+  "energyExchangeId" : 120404,
+  "errorMessages" : [ 41, 42 ]
+}, {
+  "adFunctionTemplateId" : 22,
+  "energyExchangeId" : 120404,
+  "errorMessages" : [ 43, 44 ]
+}, {
+  "adFunctionTemplateId" : 23,
+  "energyExchangeId" : 120404,
+  "errorMessages" : [ 45, 47, 48 ]
+}, {
+  "adFunctionTemplateId" : 24,
+  "energyExchangeId" : 120404,
+  "errorMessages" : [ 49, 50 ]
+}, {
+  "adFunctionTemplateId" : 25,
+  "energyExchangeId" : 120404,
+  "errorMessages" : [ 51, 52 ]
+}, {
+  "adFunctionTemplateId" : 26,
+  "energyExchangeId" : 120404,
+  "errorMessages" : [ 53, 55, 57 ]
+}, {
+  "adFunctionTemplateId" : 27,
+  "energyExchangeId" : 120404,
+  "errorMessages" : [ 58, 60, 62 ]
+}, {
+  "adFunctionTemplateId" : 28,
+  "energyExchangeId" : 120404,
+  "errorMessages" : [ 63, 64 ]
+}, {
+  "adFunctionTemplateId" : 31,
+  "energyExchangeId" : 120404,
+  "errorMessages" : [ 69, 70 ]
+}, {
+  "adFunctionTemplateId" : 32,
+  "energyExchangeId" : 120404,
+  "errorMessages" : [ 71, 72 ]
+}, {
+  "adFunctionTemplateId" : 33,
+  "energyExchangeId" : 120404,
+  "errorMessages" : [ 73, 74 ]
+}, {
+  "adFunctionTemplateId" : 34,
+  "energyExchangeId" : 120404,
+  "errorMessages" : [ 75, 76 ]
+}, {
+  "adFunctionTemplateId" : 36,
+  "energyExchangeId" : 120404,
+  "errorMessages" : [ 79, 80, 391 ]
+}, {
+  "adFunctionTemplateId" : 37,
+  "energyExchangeId" : 120404,
+  "errorMessages" : [ 81, 83, 84, 85, 86 ]
+}, {
+  "adFunctionTemplateId" : 38,
+  "energyExchangeId" : 120404,
+  "errorMessages" : [ 88, 89, 91, 395 ]
+}, {
+  "adFunctionTemplateId" : 39,
+  "energyExchangeId" : 120404,
+  "errorMessages" : [ 92, 93, 94, 95 ]
+}, {
+  "adFunctionTemplateId" : 44,
+  "energyExchangeId" : 120404,
+  "errorMessages" : [ 107, 108 ]
+}, {
+  "adFunctionTemplateId" : 49,
+  "energyExchangeId" : 120404,
+  "errorMessages" : [ 117, 118 ]
+}, {
+  "adFunctionTemplateId" : 62,
+  "energyExchangeId" : 120404,
+  "errorMessages" : [ 144 ]
+}, {
+  "adFunctionTemplateId" : 63,
+  "energyExchangeId" : 120404,
+  "errorMessages" : [ 148 ]
+}, {
+  "adFunctionTemplateId" : 65,
+  "energyExchangeId" : 120404,
+  "errorMessages" : [ 152, 153 ]
+}, {
+  "adFunctionTemplateId" : 66,
+  "energyExchangeId" : 120404,
+  "errorMessages" : [ 154, 155 ]
+}, {
+  "adFunctionTemplateId" : 67,
+  "energyExchangeId" : 120404,
+  "errorMessages" : [ 158, 159 ]
+}, {
+  "adFunctionTemplateId" : 68,
+  "energyExchangeId" : 120404,
+  "errorMessages" : [ 162, 163 ]
+}, {
+  "adFunctionTemplateId" : 79,
+  "energyExchangeId" : 120404,
+  "errorMessages" : [ 181 ]
+}, {
+  "adFunctionTemplateId" : 80,
+  "energyExchangeId" : 120404,
+  "errorMessages" : [ 184 ]
+}, {
+  "adFunctionTemplateId" : 85,
+  "energyExchangeId" : 120404,
+  "errorMessages" : [ 195, 197, 198 ]
+}, {
+  "adFunctionTemplateId" : 86,
+  "energyExchangeId" : 120404,
+  "errorMessages" : [ 199, 201, 202 ]
+}, {
+  "adFunctionTemplateId" : 91,
+  "energyExchangeId" : 120404,
+  "errorMessages" : [ 211, 213, 214 ]
+}, {
+  "adFunctionTemplateId" : 93,
+  "energyExchangeId" : 120404,
+  "errorMessages" : [ 217, 219, 220 ]
+}, {
+  "adFunctionTemplateId" : 99,
+  "energyExchangeId" : 120404,
+  "errorMessages" : [ -99 ]
+}, {
+  "adFunctionTemplateId" : 105,
+  "energyExchangeId" : 120404,
+  "errorMessages" : [ 275 ]
+}, {
+  "adFunctionTemplateId" : 109,
+  "energyExchangeId" : 120404,
+  "errorMessages" : [ 279 ]
+}, {
+  "adFunctionTemplateId" : 113,
+  "energyExchangeId" : 120404,
+  "errorMessages" : [ 292, 295 ]
+}, {
+  "adFunctionTemplateId" : 112,
+  "energyExchangeId" : 120407,
+  "errorMessages" : [ -112 ]
+}, {
+  "adFunctionTemplateId" : 114,
+  "energyExchangeId" : 120407,
+  "errorMessages" : [ 296, 297 ]
+}, {
+  "adFunctionTemplateId" : 115,
+  "energyExchangeId" : 120407,
+  "errorMessages" : [ 298, 299 ]
+}, {
+  "adFunctionTemplateId" : 149,
+  "energyExchangeId" : 120407,
+  "errorMessages" : [ 441, 443 ]
+}, {
+  "adFunctionTemplateId" : 8,
+  "energyExchangeId" : 120407,
+  "errorMessages" : [ 9 ]
+}, {
+  "adFunctionTemplateId" : 40,
+  "energyExchangeId" : 120407,
+  "errorMessages" : [ 98 ]
+}, {
+  "adFunctionTemplateId" : 41,
+  "energyExchangeId" : 120407,
+  "errorMessages" : [ 100 ]
+}, {
+  "adFunctionTemplateId" : 11,
+  "energyExchangeId" : 120407,
+  "errorMessages" : [ 15 ]
+}, {
+  "adFunctionTemplateId" : 155,
+  "energyExchangeId" : 120407,
+  "errorMessages" : [ 466, 468, 470, 471 ]
+}, {
+  "adFunctionTemplateId" : 12,
+  "energyExchangeId" : 120407,
+  "errorMessages" : [ 22 ]
+}, {
+  "adFunctionTemplateId" : 45,
+  "energyExchangeId" : 120407,
+  "errorMessages" : [ 112 ]
+}, {
+  "adFunctionTemplateId" : 46,
+  "energyExchangeId" : 120407,
+  "errorMessages" : [ 113 ]
+}, {
+  "adFunctionTemplateId" : 130,
+  "energyExchangeId" : 120417,
+  "errorMessages" : [ 328, 329, 330 ]
+}, {
+  "adFunctionTemplateId" : 131,
+  "energyExchangeId" : 120417,
+  "errorMessages" : [ 331, 332, 333 ]
+}, {
+  "adFunctionTemplateId" : 132,
+  "energyExchangeId" : 120417,
+  "errorMessages" : [ 334, 335, 336 ]
+}, {
+  "adFunctionTemplateId" : 133,
+  "energyExchangeId" : 120417,
+  "errorMessages" : [ 337, 338, 339 ]
+}, {
+  "adFunctionTemplateId" : 6,
+  "energyExchangeId" : 120417,
+  "errorMessages" : [ 7 ]
+}, {
+  "adFunctionTemplateId" : 134,
+  "energyExchangeId" : 120417,
+  "errorMessages" : [ 340 ]
+}, {
+  "adFunctionTemplateId" : 135,
+  "energyExchangeId" : 120417,
+  "errorMessages" : [ 341 ]
+}, {
+  "adFunctionTemplateId" : 136,
+  "energyExchangeId" : 120417,
+  "errorMessages" : [ 345, 346 ]
+}, {
+  "adFunctionTemplateId" : 9,
+  "energyExchangeId" : 120417,
+  "errorMessages" : [ 10 ]
+}, {
+  "adFunctionTemplateId" : 137,
+  "energyExchangeId" : 120417,
+  "errorMessages" : [ 348, 349, 350, 351 ]
+}, {
+  "adFunctionTemplateId" : 10,
+  "energyExchangeId" : 120417,
+  "errorMessages" : [ 11 ]
+}, {
+  "adFunctionTemplateId" : 138,
+  "energyExchangeId" : 120417,
+  "errorMessages" : [ 352, 353, 354, 355 ]
+}, {
+  "adFunctionTemplateId" : 139,
+  "energyExchangeId" : 120417,
+  "errorMessages" : [ 356, 357, 358 ]
+}, {
+  "adFunctionTemplateId" : 140,
+  "energyExchangeId" : 120417,
+  "errorMessages" : [ 375, 376, 377, 378, 379 ]
+}, {
+  "adFunctionTemplateId" : 141,
+  "energyExchangeId" : 120417,
+  "errorMessages" : [ 383, 384, 385, 386, 387 ]
+}, {
+  "adFunctionTemplateId" : 142,
+  "energyExchangeId" : 120417,
+  "errorMessages" : [ 400, 402 ]
+}, {
+  "adFunctionTemplateId" : 15,
+  "energyExchangeId" : 120417,
+  "errorMessages" : [ 32, 33 ]
+}, {
+  "adFunctionTemplateId" : 143,
+  "energyExchangeId" : 120417,
+  "errorMessages" : [ 406, 408 ]
+}, {
+  "adFunctionTemplateId" : 16,
+  "energyExchangeId" : 120417,
+  "errorMessages" : [ 34 ]
+}, {
+  "adFunctionTemplateId" : 144,
+  "energyExchangeId" : 120417,
+  "errorMessages" : [ 412, 414, 415, 416 ]
+}, {
+  "adFunctionTemplateId" : 17,
+  "energyExchangeId" : 120417,
+  "errorMessages" : [ 35, 36 ]
+}, {
+  "adFunctionTemplateId" : 145,
+  "energyExchangeId" : 120417,
+  "errorMessages" : [ 420, 422, 423, 424 ]
+}, {
+  "adFunctionTemplateId" : 18,
+  "energyExchangeId" : 120417,
+  "errorMessages" : [ 37 ]
+}, {
+  "adFunctionTemplateId" : 20,
+  "energyExchangeId" : 120417,
+  "errorMessages" : [ 39, 40 ]
+}, {
+  "adFunctionTemplateId" : 21,
+  "energyExchangeId" : 120417,
+  "errorMessages" : [ 41, 42 ]
+}, {
+  "adFunctionTemplateId" : 22,
+  "energyExchangeId" : 120417,
+  "errorMessages" : [ 43, 44 ]
+}, {
+  "adFunctionTemplateId" : 23,
+  "energyExchangeId" : 120417,
+  "errorMessages" : [ 45, 47, 48 ]
+}, {
+  "adFunctionTemplateId" : 24,
+  "energyExchangeId" : 120417,
+  "errorMessages" : [ 49, 50 ]
+}, {
+  "adFunctionTemplateId" : 25,
+  "energyExchangeId" : 120417,
+  "errorMessages" : [ 51, 52 ]
+}, {
+  "adFunctionTemplateId" : 26,
+  "energyExchangeId" : 120417,
+  "errorMessages" : [ 53, 55, 57 ]
+}, {
+  "adFunctionTemplateId" : 27,
+  "energyExchangeId" : 120417,
+  "errorMessages" : [ 58, 60, 62 ]
+}, {
+  "adFunctionTemplateId" : 28,
+  "energyExchangeId" : 120417,
+  "errorMessages" : [ 63, 64 ]
+}, {
+  "adFunctionTemplateId" : 31,
+  "energyExchangeId" : 120417,
+  "errorMessages" : [ 69, 70 ]
+}, {
+  "adFunctionTemplateId" : 32,
+  "energyExchangeId" : 120417,
+  "errorMessages" : [ 71, 72 ]
+}, {
+  "adFunctionTemplateId" : 33,
+  "energyExchangeId" : 120417,
+  "errorMessages" : [ 73, 74 ]
+}, {
+  "adFunctionTemplateId" : 34,
+  "energyExchangeId" : 120417,
+  "errorMessages" : [ 75, 76 ]
+}, {
+  "adFunctionTemplateId" : 36,
+  "energyExchangeId" : 120417,
+  "errorMessages" : [ 79, 80, 391 ]
+}, {
+  "adFunctionTemplateId" : 37,
+  "energyExchangeId" : 120417,
+  "errorMessages" : [ 81, 83, 84, 85, 86 ]
+}, {
+  "adFunctionTemplateId" : 38,
+  "energyExchangeId" : 120417,
+  "errorMessages" : [ 88, 89, 91, 395 ]
+}, {
+  "adFunctionTemplateId" : 39,
+  "energyExchangeId" : 120417,
+  "errorMessages" : [ 92, 93, 94, 95 ]
+}, {
+  "adFunctionTemplateId" : 42,
+  "energyExchangeId" : 120417,
+  "errorMessages" : [ -42 ]
+}, {
+  "adFunctionTemplateId" : 44,
+  "energyExchangeId" : 120417,
+  "errorMessages" : [ 107, 108 ]
+}, {
+  "adFunctionTemplateId" : 49,
+  "energyExchangeId" : 120417,
+  "errorMessages" : [ 117, 118 ]
+}, {
+  "adFunctionTemplateId" : 62,
+  "energyExchangeId" : 120417,
+  "errorMessages" : [ 144 ]
+}, {
+  "adFunctionTemplateId" : 63,
+  "energyExchangeId" : 120417,
+  "errorMessages" : [ 148 ]
+}, {
+  "adFunctionTemplateId" : 65,
+  "energyExchangeId" : 120417,
+  "errorMessages" : [ 152, 153 ]
+}, {
+  "adFunctionTemplateId" : 66,
+  "energyExchangeId" : 120417,
+  "errorMessages" : [ 154, 155 ]
+}, {
+  "adFunctionTemplateId" : 67,
+  "energyExchangeId" : 120417,
+  "errorMessages" : [ 158, 159 ]
+}, {
+  "adFunctionTemplateId" : 68,
+  "energyExchangeId" : 120417,
+  "errorMessages" : [ 162, 163 ]
+}, {
+  "adFunctionTemplateId" : 79,
+  "energyExchangeId" : 120417,
+  "errorMessages" : [ 181 ]
+}, {
+  "adFunctionTemplateId" : 80,
+  "energyExchangeId" : 120417,
+  "errorMessages" : [ 184 ]
+}, {
+  "adFunctionTemplateId" : 85,
+  "energyExchangeId" : 120417,
+  "errorMessages" : [ 195, 197, 198 ]
+}, {
+  "adFunctionTemplateId" : 86,
+  "energyExchangeId" : 120417,
+  "errorMessages" : [ 199, 201, 202 ]
+}, {
+  "adFunctionTemplateId" : 91,
+  "energyExchangeId" : 120417,
+  "errorMessages" : [ 211, 213, 214 ]
+}, {
+  "adFunctionTemplateId" : 93,
+  "energyExchangeId" : 120417,
+  "errorMessages" : [ 217, 219, 220 ]
+}, {
+  "adFunctionTemplateId" : 105,
+  "energyExchangeId" : 120417,
+  "errorMessages" : [ 275 ]
+}, {
+  "adFunctionTemplateId" : 109,
+  "energyExchangeId" : 120417,
+  "errorMessages" : [ 279 ]
+}, {
+  "adFunctionTemplateId" : 113,
+  "energyExchangeId" : 120417,
+  "errorMessages" : [ 292, 295 ]
+}, {
+  "adFunctionTemplateId" : 130,
+  "energyExchangeId" : 120421,
+  "errorMessages" : [ 329, 330 ]
+}, {
+  "adFunctionTemplateId" : 131,
+  "energyExchangeId" : 120421,
+  "errorMessages" : [ 332, 333 ]
+}, {
+  "adFunctionTemplateId" : 132,
+  "energyExchangeId" : 120421,
+  "errorMessages" : [ 335, 336 ]
+}, {
+  "adFunctionTemplateId" : 5,
+  "energyExchangeId" : 120421,
+  "errorMessages" : [ 6 ]
+}, {
+  "adFunctionTemplateId" : 133,
+  "energyExchangeId" : 120421,
+  "errorMessages" : [ 338, 339 ]
+}, {
+  "adFunctionTemplateId" : 6,
+  "energyExchangeId" : 120421,
+  "errorMessages" : [ 7 ]
+}, {
+  "adFunctionTemplateId" : 134,
+  "energyExchangeId" : 120421,
+  "errorMessages" : [ 340 ]
+}, {
+  "adFunctionTemplateId" : 135,
+  "energyExchangeId" : 120421,
+  "errorMessages" : [ -135 ]
+}, {
+  "adFunctionTemplateId" : 136,
+  "energyExchangeId" : 120421,
+  "errorMessages" : [ 345 ]
+}, {
+  "adFunctionTemplateId" : 9,
+  "energyExchangeId" : 120421,
+  "errorMessages" : [ 10 ]
+}, {
+  "adFunctionTemplateId" : 137,
+  "energyExchangeId" : 120421,
+  "errorMessages" : [ 349, 350, 351 ]
+}, {
+  "adFunctionTemplateId" : 10,
+  "energyExchangeId" : 120421,
+  "errorMessages" : [ 11 ]
+}, {
+  "adFunctionTemplateId" : 138,
+  "energyExchangeId" : 120421,
+  "errorMessages" : [ 353, 354, 355 ]
+}, {
+  "adFunctionTemplateId" : 139,
+  "energyExchangeId" : 120421,
+  "errorMessages" : [ 357, 358 ]
+}, {
+  "adFunctionTemplateId" : 140,
+  "energyExchangeId" : 120421,
+  "errorMessages" : [ 376, 377, 378, 379 ]
+}, {
+  "adFunctionTemplateId" : 141,
+  "energyExchangeId" : 120421,
+  "errorMessages" : [ 384, 385, 386, 387 ]
+}, {
+  "adFunctionTemplateId" : 142,
+  "energyExchangeId" : 120421,
+  "errorMessages" : [ 400 ]
+}, {
+  "adFunctionTemplateId" : 15,
+  "energyExchangeId" : 120421,
+  "errorMessages" : [ 33 ]
+}, {
+  "adFunctionTemplateId" : 143,
+  "energyExchangeId" : 120421,
+  "errorMessages" : [ 406 ]
+}, {
+  "adFunctionTemplateId" : 16,
+  "energyExchangeId" : 120421,
+  "errorMessages" : [ 34 ]
+}, {
+  "adFunctionTemplateId" : 144,
+  "energyExchangeId" : 120421,
+  "errorMessages" : [ 412, 415, 416 ]
+}, {
+  "adFunctionTemplateId" : 17,
+  "energyExchangeId" : 120421,
+  "errorMessages" : [ 35 ]
+}, {
+  "adFunctionTemplateId" : 145,
+  "energyExchangeId" : 120421,
+  "errorMessages" : [ 420, 423, 424 ]
+}, {
+  "adFunctionTemplateId" : 18,
+  "energyExchangeId" : 120421,
+  "errorMessages" : [ 37 ]
+}, {
+  "adFunctionTemplateId" : 19,
+  "energyExchangeId" : 120421,
+  "errorMessages" : [ 38 ]
+}, {
+  "adFunctionTemplateId" : 20,
+  "energyExchangeId" : 120421,
+  "errorMessages" : [ 39 ]
+}, {
+  "adFunctionTemplateId" : 21,
+  "energyExchangeId" : 120421,
+  "errorMessages" : [ 41 ]
+}, {
+  "adFunctionTemplateId" : 22,
+  "energyExchangeId" : 120421,
+  "errorMessages" : [ 43 ]
+}, {
+  "adFunctionTemplateId" : 23,
+  "energyExchangeId" : 120421,
+  "errorMessages" : [ 47, 48 ]
+}, {
+  "adFunctionTemplateId" : 26,
+  "energyExchangeId" : 120421,
+  "errorMessages" : [ 55, 57 ]
+}, {
+  "adFunctionTemplateId" : 27,
+  "energyExchangeId" : 120421,
+  "errorMessages" : [ 60, 62 ]
+}, {
+  "adFunctionTemplateId" : 28,
+  "energyExchangeId" : 120421,
+  "errorMessages" : [ 64 ]
+}, {
+  "adFunctionTemplateId" : 31,
+  "energyExchangeId" : 120421,
+  "errorMessages" : [ 69 ]
+}, {
+  "adFunctionTemplateId" : 32,
+  "energyExchangeId" : 120421,
+  "errorMessages" : [ 71 ]
+}, {
+  "adFunctionTemplateId" : 33,
+  "energyExchangeId" : 120421,
+  "errorMessages" : [ 73 ]
+}, {
+  "adFunctionTemplateId" : 34,
+  "energyExchangeId" : 120421,
+  "errorMessages" : [ 76 ]
+}, {
+  "adFunctionTemplateId" : 36,
+  "energyExchangeId" : 120421,
+  "errorMessages" : [ 79, 80 ]
+}, {
+  "adFunctionTemplateId" : 37,
+  "energyExchangeId" : 120421,
+  "errorMessages" : [ 81, 83, 85, 86 ]
+}, {
+  "adFunctionTemplateId" : 38,
+  "energyExchangeId" : 120421,
+  "errorMessages" : [ 88, 89, 91 ]
+}, {
+  "adFunctionTemplateId" : 39,
+  "energyExchangeId" : 120421,
+  "errorMessages" : [ 93, 94, 95 ]
+}, {
+  "adFunctionTemplateId" : 44,
+  "energyExchangeId" : 120421,
+  "errorMessages" : [ 108 ]
+}, {
+  "adFunctionTemplateId" : 48,
+  "energyExchangeId" : 120421,
+  "errorMessages" : [ 116 ]
+}, {
+  "adFunctionTemplateId" : 49,
+  "energyExchangeId" : 120421,
+  "errorMessages" : [ 118 ]
+}, {
+  "adFunctionTemplateId" : 63,
+  "energyExchangeId" : 120421,
+  "errorMessages" : [ 146 ]
+}, {
+  "adFunctionTemplateId" : 65,
+  "energyExchangeId" : 120421,
+  "errorMessages" : [ 152 ]
+}, {
+  "adFunctionTemplateId" : 66,
+  "energyExchangeId" : 120421,
+  "errorMessages" : [ 155 ]
+}, {
+  "adFunctionTemplateId" : 67,
+  "energyExchangeId" : 120421,
+  "errorMessages" : [ 159 ]
+}, {
+  "adFunctionTemplateId" : 68,
+  "energyExchangeId" : 120421,
+  "errorMessages" : [ 163 ]
+}, {
+  "adFunctionTemplateId" : 78,
+  "energyExchangeId" : 120421,
+  "errorMessages" : [ 180 ]
+}, {
+  "adFunctionTemplateId" : 79,
+  "energyExchangeId" : 120421,
+  "errorMessages" : [ 182 ]
+}, {
+  "adFunctionTemplateId" : 80,
+  "energyExchangeId" : 120421,
+  "errorMessages" : [ 185 ]
+}, {
+  "adFunctionTemplateId" : 85,
+  "energyExchangeId" : 120421,
+  "errorMessages" : [ 196, 197, 198 ]
+}, {
+  "adFunctionTemplateId" : 86,
+  "energyExchangeId" : 120421,
+  "errorMessages" : [ 200, 201, 202 ]
+}, {
+  "adFunctionTemplateId" : 91,
+  "energyExchangeId" : 120421,
+  "errorMessages" : [ 212, 213, 214 ]
+}, {
+  "adFunctionTemplateId" : 93,
+  "energyExchangeId" : 120421,
+  "errorMessages" : [ 218, 219, 220 ]
+}, {
+  "adFunctionTemplateId" : 99,
+  "energyExchangeId" : 120421,
+  "errorMessages" : [ 232 ]
+}, {
+  "adFunctionTemplateId" : 105,
+  "energyExchangeId" : 120421,
+  "errorMessages" : [ 275 ]
+}, {
+  "adFunctionTemplateId" : 109,
+  "energyExchangeId" : 120421,
+  "errorMessages" : [ 279 ]
+}, {
+  "adFunctionTemplateId" : 113,
+  "energyExchangeId" : 120421,
+  "errorMessages" : [ 291, 295 ]
+}, {
+  "adFunctionTemplateId" : 112,
+  "energyExchangeId" : 120432,
+  "errorMessages" : [ -112 ]
+}, {
+  "adFunctionTemplateId" : 114,
+  "energyExchangeId" : 120432,
+  "errorMessages" : [ 296, 297 ]
+}, {
+  "adFunctionTemplateId" : 115,
+  "energyExchangeId" : 120432,
+  "errorMessages" : [ 298, 299 ]
+}, {
+  "adFunctionTemplateId" : 149,
+  "energyExchangeId" : 120432,
+  "errorMessages" : [ 441, 443 ]
+}, {
+  "adFunctionTemplateId" : 40,
+  "energyExchangeId" : 120432,
+  "errorMessages" : [ 98 ]
+}, {
+  "adFunctionTemplateId" : 8,
+  "energyExchangeId" : 120432,
+  "errorMessages" : [ 9 ]
+}, {
+  "adFunctionTemplateId" : 41,
+  "energyExchangeId" : 120432,
+  "errorMessages" : [ 100 ]
+}, {
+  "adFunctionTemplateId" : 11,
+  "energyExchangeId" : 120432,
+  "errorMessages" : [ 15 ]
+}, {
+  "adFunctionTemplateId" : 155,
+  "energyExchangeId" : 120432,
+  "errorMessages" : [ 466, 468, 470, 471 ]
+}, {
+  "adFunctionTemplateId" : 12,
+  "energyExchangeId" : 120432,
+  "errorMessages" : [ 22 ]
+}, {
+  "adFunctionTemplateId" : 45,
+  "energyExchangeId" : 120432,
+  "errorMessages" : [ 112 ]
+}, {
+  "adFunctionTemplateId" : 46,
+  "energyExchangeId" : 120432,
+  "errorMessages" : [ 113 ]
+}, {
+  "adFunctionTemplateId" : 112,
+  "energyExchangeId" : 120436,
+  "errorMessages" : [ -112 ]
+}, {
+  "adFunctionTemplateId" : 114,
+  "energyExchangeId" : 120436,
+  "errorMessages" : [ 296, 297 ]
+}, {
+  "adFunctionTemplateId" : 115,
+  "energyExchangeId" : 120436,
+  "errorMessages" : [ 298, 299 ]
+}, {
+  "adFunctionTemplateId" : 149,
+  "energyExchangeId" : 120436,
+  "errorMessages" : [ 441, 443 ]
+}, {
+  "adFunctionTemplateId" : 40,
+  "energyExchangeId" : 120436,
+  "errorMessages" : [ 98 ]
+}, {
+  "adFunctionTemplateId" : 8,
+  "energyExchangeId" : 120436,
+  "errorMessages" : [ 9 ]
+}, {
+  "adFunctionTemplateId" : 41,
+  "energyExchangeId" : 120436,
+  "errorMessages" : [ 100 ]
+}, {
+  "adFunctionTemplateId" : 11,
+  "energyExchangeId" : 120436,
+  "errorMessages" : [ 15 ]
+}, {
+  "adFunctionTemplateId" : 155,
+  "energyExchangeId" : 120436,
+  "errorMessages" : [ 466, 468, 470, 471 ]
+}, {
+  "adFunctionTemplateId" : 12,
+  "energyExchangeId" : 120436,
+  "errorMessages" : [ 22 ]
+}, {
+  "adFunctionTemplateId" : 45,
+  "energyExchangeId" : 120436,
+  "errorMessages" : [ 112 ]
+}, {
+  "adFunctionTemplateId" : 46,
+  "energyExchangeId" : 120436,
+  "errorMessages" : [ 113 ]
+}, {
+  "adFunctionTemplateId" : 130,
+  "energyExchangeId" : 120438,
+  "errorMessages" : [ 328, 329, 330 ]
+}, {
+  "adFunctionTemplateId" : 131,
+  "energyExchangeId" : 120438,
+  "errorMessages" : [ 331, 332, 333 ]
+}, {
+  "adFunctionTemplateId" : 132,
+  "energyExchangeId" : 120438,
+  "errorMessages" : [ 334, 335, 336 ]
+}, {
+  "adFunctionTemplateId" : 5,
+  "energyExchangeId" : 120438,
+  "errorMessages" : [ 6 ]
+}, {
+  "adFunctionTemplateId" : 133,
+  "energyExchangeId" : 120438,
+  "errorMessages" : [ 337, 338, 339 ]
+}, {
+  "adFunctionTemplateId" : 6,
+  "energyExchangeId" : 120438,
+  "errorMessages" : [ 7 ]
+}, {
+  "adFunctionTemplateId" : 134,
+  "energyExchangeId" : 120438,
+  "errorMessages" : [ 340 ]
+}, {
+  "adFunctionTemplateId" : 7,
+  "energyExchangeId" : 120438,
+  "errorMessages" : [ 8 ]
+}, {
+  "adFunctionTemplateId" : 135,
+  "energyExchangeId" : 120438,
+  "errorMessages" : [ 341 ]
+}, {
+  "adFunctionTemplateId" : 136,
+  "energyExchangeId" : 120438,
+  "errorMessages" : [ 345, 346 ]
+}, {
+  "adFunctionTemplateId" : 9,
+  "energyExchangeId" : 120438,
+  "errorMessages" : [ 10 ]
+}, {
+  "adFunctionTemplateId" : 137,
+  "energyExchangeId" : 120438,
+  "errorMessages" : [ 348, 349, 350, 351 ]
+}, {
+  "adFunctionTemplateId" : 10,
+  "energyExchangeId" : 120438,
+  "errorMessages" : [ 11 ]
+}, {
+  "adFunctionTemplateId" : 138,
+  "energyExchangeId" : 120438,
+  "errorMessages" : [ 352, 353, 354, 355 ]
+}, {
+  "adFunctionTemplateId" : 139,
+  "energyExchangeId" : 120438,
+  "errorMessages" : [ 356, 357, 358 ]
+}, {
+  "adFunctionTemplateId" : 140,
+  "energyExchangeId" : 120438,
+  "errorMessages" : [ 375, 376, 377, 378, 379 ]
+}, {
+  "adFunctionTemplateId" : 141,
+  "energyExchangeId" : 120438,
+  "errorMessages" : [ 383, 384, 385, 386, 387 ]
+}, {
+  "adFunctionTemplateId" : 142,
+  "energyExchangeId" : 120438,
+  "errorMessages" : [ 400, 401, 402 ]
+}, {
+  "adFunctionTemplateId" : 15,
+  "energyExchangeId" : 120438,
+  "errorMessages" : [ 32, 33 ]
+}, {
+  "adFunctionTemplateId" : 143,
+  "energyExchangeId" : 120438,
+  "errorMessages" : [ 406, 407, 408 ]
+}, {
+  "adFunctionTemplateId" : 16,
+  "energyExchangeId" : 120438,
+  "errorMessages" : [ 34 ]
+}, {
+  "adFunctionTemplateId" : 144,
+  "energyExchangeId" : 120438,
+  "errorMessages" : [ 412, 413, 414, 415, 416 ]
+}, {
+  "adFunctionTemplateId" : 17,
+  "energyExchangeId" : 120438,
+  "errorMessages" : [ 35, 36 ]
+}, {
+  "adFunctionTemplateId" : 145,
+  "energyExchangeId" : 120438,
+  "errorMessages" : [ 420, 421, 422, 423, 424 ]
+}, {
+  "adFunctionTemplateId" : 18,
+  "energyExchangeId" : 120438,
+  "errorMessages" : [ 37 ]
+}, {
+  "adFunctionTemplateId" : 19,
+  "energyExchangeId" : 120438,
+  "errorMessages" : [ 38 ]
+}, {
+  "adFunctionTemplateId" : 20,
+  "energyExchangeId" : 120438,
+  "errorMessages" : [ 39, 40 ]
+}, {
+  "adFunctionTemplateId" : 21,
+  "energyExchangeId" : 120438,
+  "errorMessages" : [ 41, 42 ]
+}, {
+  "adFunctionTemplateId" : 22,
+  "energyExchangeId" : 120438,
+  "errorMessages" : [ 43, 44 ]
+}, {
+  "adFunctionTemplateId" : 23,
+  "energyExchangeId" : 120438,
+  "errorMessages" : [ 45, 47, 48 ]
+}, {
+  "adFunctionTemplateId" : 24,
+  "energyExchangeId" : 120438,
+  "errorMessages" : [ 49, 50 ]
+}, {
+  "adFunctionTemplateId" : 25,
+  "energyExchangeId" : 120438,
+  "errorMessages" : [ 51, 52 ]
+}, {
+  "adFunctionTemplateId" : 26,
+  "energyExchangeId" : 120438,
+  "errorMessages" : [ 53, 54, 55, 57 ]
+}, {
+  "adFunctionTemplateId" : 27,
+  "energyExchangeId" : 120438,
+  "errorMessages" : [ 58, 59, 60, 62 ]
+}, {
+  "adFunctionTemplateId" : 28,
+  "energyExchangeId" : 120438,
+  "errorMessages" : [ 63, 64 ]
+}, {
+  "adFunctionTemplateId" : 31,
+  "energyExchangeId" : 120438,
+  "errorMessages" : [ 69, 70 ]
+}, {
+  "adFunctionTemplateId" : 32,
+  "energyExchangeId" : 120438,
+  "errorMessages" : [ 71, 72 ]
+}, {
+  "adFunctionTemplateId" : 33,
+  "energyExchangeId" : 120438,
+  "errorMessages" : [ 73, 74 ]
+}, {
+  "adFunctionTemplateId" : 34,
+  "energyExchangeId" : 120438,
+  "errorMessages" : [ 75, 76 ]
+}, {
+  "adFunctionTemplateId" : 36,
+  "energyExchangeId" : 120438,
+  "errorMessages" : [ 79, 80, 391 ]
+}, {
+  "adFunctionTemplateId" : 37,
+  "energyExchangeId" : 120438,
+  "errorMessages" : [ 81, 83, 84, 85, 86 ]
+}, {
+  "adFunctionTemplateId" : 38,
+  "energyExchangeId" : 120438,
+  "errorMessages" : [ 88, 89, 91, 395 ]
+}, {
+  "adFunctionTemplateId" : 39,
+  "energyExchangeId" : 120438,
+  "errorMessages" : [ 92, 93, 94, 95 ]
+}, {
+  "adFunctionTemplateId" : 44,
+  "energyExchangeId" : 120438,
+  "errorMessages" : [ 107, 108 ]
+}, {
+  "adFunctionTemplateId" : 48,
+  "energyExchangeId" : 120438,
+  "errorMessages" : [ 116 ]
+}, {
+  "adFunctionTemplateId" : 49,
+  "energyExchangeId" : 120438,
+  "errorMessages" : [ 117, 118 ]
+}, {
+  "adFunctionTemplateId" : 62,
+  "energyExchangeId" : 120438,
+  "errorMessages" : [ 144 ]
+}, {
+  "adFunctionTemplateId" : 63,
+  "energyExchangeId" : 120438,
+  "errorMessages" : [ 148 ]
+}, {
+  "adFunctionTemplateId" : 65,
+  "energyExchangeId" : 120438,
+  "errorMessages" : [ 152, 153 ]
+}, {
+  "adFunctionTemplateId" : 66,
+  "energyExchangeId" : 120438,
+  "errorMessages" : [ 154, 155 ]
+}, {
+  "adFunctionTemplateId" : 67,
+  "energyExchangeId" : 120438,
+  "errorMessages" : [ 158, 159 ]
+}, {
+  "adFunctionTemplateId" : 68,
+  "energyExchangeId" : 120438,
+  "errorMessages" : [ 162, 163 ]
+}, {
+  "adFunctionTemplateId" : 78,
+  "energyExchangeId" : 120438,
+  "errorMessages" : [ 180 ]
+}, {
+  "adFunctionTemplateId" : 79,
+  "energyExchangeId" : 120438,
+  "errorMessages" : [ 181, 182 ]
+}, {
+  "adFunctionTemplateId" : 80,
+  "energyExchangeId" : 120438,
+  "errorMessages" : [ 184, 185 ]
+}, {
+  "adFunctionTemplateId" : 85,
+  "energyExchangeId" : 120438,
+  "errorMessages" : [ 195, 196, 197, 198 ]
+}, {
+  "adFunctionTemplateId" : 86,
+  "energyExchangeId" : 120438,
+  "errorMessages" : [ 199, 200, 201, 202 ]
+}, {
+  "adFunctionTemplateId" : 91,
+  "energyExchangeId" : 120438,
+  "errorMessages" : [ 211, 212, 213, 214 ]
+}, {
+  "adFunctionTemplateId" : 93,
+  "energyExchangeId" : 120438,
+  "errorMessages" : [ 217, 218, 219, 220 ]
+}, {
+  "adFunctionTemplateId" : 99,
+  "energyExchangeId" : 120438,
+  "errorMessages" : [ 232 ]
+}, {
+  "adFunctionTemplateId" : 105,
+  "energyExchangeId" : 120438,
+  "errorMessages" : [ 275 ]
+}, {
+  "adFunctionTemplateId" : 109,
+  "energyExchangeId" : 120438,
+  "errorMessages" : [ 279 ]
+}, {
+  "adFunctionTemplateId" : 113,
+  "energyExchangeId" : 120438,
+  "errorMessages" : [ 291, 292, 295 ]
+}, {
+  "adFunctionTemplateId" : 130,
+  "energyExchangeId" : 120440,
+  "errorMessages" : [ 329, 330 ]
+}, {
+  "adFunctionTemplateId" : 131,
+  "energyExchangeId" : 120440,
+  "errorMessages" : [ 332, 333 ]
+}, {
+  "adFunctionTemplateId" : 132,
+  "energyExchangeId" : 120440,
+  "errorMessages" : [ 335, 336 ]
+}, {
+  "adFunctionTemplateId" : 133,
+  "energyExchangeId" : 120440,
+  "errorMessages" : [ 338, 339 ]
+}, {
+  "adFunctionTemplateId" : 6,
+  "energyExchangeId" : 120440,
+  "errorMessages" : [ 7 ]
+}, {
+  "adFunctionTemplateId" : 134,
+  "energyExchangeId" : 120440,
+  "errorMessages" : [ 340 ]
+}, {
+  "adFunctionTemplateId" : 135,
+  "energyExchangeId" : 120440,
+  "errorMessages" : [ -135 ]
+}, {
+  "adFunctionTemplateId" : 136,
+  "energyExchangeId" : 120440,
+  "errorMessages" : [ 345 ]
+}, {
+  "adFunctionTemplateId" : 9,
+  "energyExchangeId" : 120440,
+  "errorMessages" : [ 10 ]
+}, {
+  "adFunctionTemplateId" : 137,
+  "energyExchangeId" : 120440,
+  "errorMessages" : [ 349, 350, 351 ]
+}, {
+  "adFunctionTemplateId" : 10,
+  "energyExchangeId" : 120440,
+  "errorMessages" : [ 11 ]
+}, {
+  "adFunctionTemplateId" : 138,
+  "energyExchangeId" : 120440,
+  "errorMessages" : [ 353, 354, 355 ]
+}, {
+  "adFunctionTemplateId" : 139,
+  "energyExchangeId" : 120440,
+  "errorMessages" : [ 357, 358 ]
+}, {
+  "adFunctionTemplateId" : 140,
+  "energyExchangeId" : 120440,
+  "errorMessages" : [ 376, 377, 378, 379 ]
+}, {
+  "adFunctionTemplateId" : 141,
+  "energyExchangeId" : 120440,
+  "errorMessages" : [ 384, 385, 386, 387 ]
+}, {
+  "adFunctionTemplateId" : 142,
+  "energyExchangeId" : 120440,
+  "errorMessages" : [ 400 ]
+}, {
+  "adFunctionTemplateId" : 15,
+  "energyExchangeId" : 120440,
+  "errorMessages" : [ 33 ]
+}, {
+  "adFunctionTemplateId" : 143,
+  "energyExchangeId" : 120440,
+  "errorMessages" : [ 406 ]
+}, {
+  "adFunctionTemplateId" : 16,
+  "energyExchangeId" : 120440,
+  "errorMessages" : [ 34 ]
+}, {
+  "adFunctionTemplateId" : 144,
+  "energyExchangeId" : 120440,
+  "errorMessages" : [ 412, 415, 416 ]
+}, {
+  "adFunctionTemplateId" : 17,
+  "energyExchangeId" : 120440,
+  "errorMessages" : [ 35 ]
+}, {
+  "adFunctionTemplateId" : 145,
+  "energyExchangeId" : 120440,
+  "errorMessages" : [ 420, 423, 424 ]
+}, {
+  "adFunctionTemplateId" : 18,
+  "energyExchangeId" : 120440,
+  "errorMessages" : [ 37 ]
+}, {
+  "adFunctionTemplateId" : 19,
+  "energyExchangeId" : 120440,
+  "errorMessages" : [ 38 ]
+}, {
+  "adFunctionTemplateId" : 20,
+  "energyExchangeId" : 120440,
+  "errorMessages" : [ 39 ]
+}, {
+  "adFunctionTemplateId" : 21,
+  "energyExchangeId" : 120440,
+  "errorMessages" : [ 41 ]
+}, {
+  "adFunctionTemplateId" : 22,
+  "energyExchangeId" : 120440,
+  "errorMessages" : [ 43 ]
+}, {
+  "adFunctionTemplateId" : 23,
+  "energyExchangeId" : 120440,
+  "errorMessages" : [ 47, 48 ]
+}, {
+  "adFunctionTemplateId" : 26,
+  "energyExchangeId" : 120440,
+  "errorMessages" : [ 55, 57 ]
+}, {
+  "adFunctionTemplateId" : 27,
+  "energyExchangeId" : 120440,
+  "errorMessages" : [ 60, 62 ]
+}, {
+  "adFunctionTemplateId" : 28,
+  "energyExchangeId" : 120440,
+  "errorMessages" : [ 64 ]
+}, {
+  "adFunctionTemplateId" : 31,
+  "energyExchangeId" : 120440,
+  "errorMessages" : [ 69 ]
+}, {
+  "adFunctionTemplateId" : 32,
+  "energyExchangeId" : 120440,
+  "errorMessages" : [ 71 ]
+}, {
+  "adFunctionTemplateId" : 33,
+  "energyExchangeId" : 120440,
+  "errorMessages" : [ 73 ]
+}, {
+  "adFunctionTemplateId" : 34,
+  "energyExchangeId" : 120440,
+  "errorMessages" : [ 76 ]
+}, {
+  "adFunctionTemplateId" : 36,
+  "energyExchangeId" : 120440,
+  "errorMessages" : [ 79, 80 ]
+}, {
+  "adFunctionTemplateId" : 37,
+  "energyExchangeId" : 120440,
+  "errorMessages" : [ 81, 83, 85, 86 ]
+}, {
+  "adFunctionTemplateId" : 38,
+  "energyExchangeId" : 120440,
+  "errorMessages" : [ 88, 89, 91 ]
+}, {
+  "adFunctionTemplateId" : 39,
+  "energyExchangeId" : 120440,
+  "errorMessages" : [ 93, 94, 95 ]
+}, {
+  "adFunctionTemplateId" : 44,
+  "energyExchangeId" : 120440,
+  "errorMessages" : [ 108 ]
+}, {
+  "adFunctionTemplateId" : 48,
+  "energyExchangeId" : 120440,
+  "errorMessages" : [ 116 ]
+}, {
+  "adFunctionTemplateId" : 49,
+  "energyExchangeId" : 120440,
+  "errorMessages" : [ 118 ]
+}, {
+  "adFunctionTemplateId" : 63,
+  "energyExchangeId" : 120440,
+  "errorMessages" : [ 146 ]
+}, {
+  "adFunctionTemplateId" : 65,
+  "energyExchangeId" : 120440,
+  "errorMessages" : [ 152 ]
+}, {
+  "adFunctionTemplateId" : 66,
+  "energyExchangeId" : 120440,
+  "errorMessages" : [ 155 ]
+}, {
+  "adFunctionTemplateId" : 67,
+  "energyExchangeId" : 120440,
+  "errorMessages" : [ 159 ]
+}, {
+  "adFunctionTemplateId" : 68,
+  "energyExchangeId" : 120440,
+  "errorMessages" : [ 163 ]
+}, {
+  "adFunctionTemplateId" : 85,
+  "energyExchangeId" : 120440,
+  "errorMessages" : [ 197, 198 ]
+}, {
+  "adFunctionTemplateId" : 86,
+  "energyExchangeId" : 120440,
+  "errorMessages" : [ 201, 202 ]
+}, {
+  "adFunctionTemplateId" : 91,
+  "energyExchangeId" : 120440,
+  "errorMessages" : [ 213, 214 ]
+}, {
+  "adFunctionTemplateId" : 93,
+  "energyExchangeId" : 120440,
+  "errorMessages" : [ 219, 220 ]
+}, {
+  "adFunctionTemplateId" : 99,
+  "energyExchangeId" : 120440,
+  "errorMessages" : [ 232 ]
+}, {
+  "adFunctionTemplateId" : 105,
+  "energyExchangeId" : 120440,
+  "errorMessages" : [ 275 ]
+}, {
+  "adFunctionTemplateId" : 109,
+  "energyExchangeId" : 120440,
+  "errorMessages" : [ 279 ]
+}, {
+  "adFunctionTemplateId" : 113,
+  "energyExchangeId" : 120440,
+  "errorMessages" : [ 291, 295 ]
+}, {
+  "adFunctionTemplateId" : 130,
+  "energyExchangeId" : 120445,
+  "errorMessages" : [ 328, 329, 330 ]
+}, {
+  "adFunctionTemplateId" : 131,
+  "energyExchangeId" : 120445,
+  "errorMessages" : [ 331, 332, 333 ]
+}, {
+  "adFunctionTemplateId" : 132,
+  "energyExchangeId" : 120445,
+  "errorMessages" : [ 334, 335, 336 ]
+}, {
+  "adFunctionTemplateId" : 133,
+  "energyExchangeId" : 120445,
+  "errorMessages" : [ 337, 338, 339 ]
+}, {
+  "adFunctionTemplateId" : 6,
+  "energyExchangeId" : 120445,
+  "errorMessages" : [ 7 ]
+}, {
+  "adFunctionTemplateId" : 134,
+  "energyExchangeId" : 120445,
+  "errorMessages" : [ 340 ]
+}, {
+  "adFunctionTemplateId" : 135,
+  "energyExchangeId" : 120445,
+  "errorMessages" : [ 341 ]
+}, {
+  "adFunctionTemplateId" : 136,
+  "energyExchangeId" : 120445,
+  "errorMessages" : [ 345, 346 ]
+}, {
+  "adFunctionTemplateId" : 9,
+  "energyExchangeId" : 120445,
+  "errorMessages" : [ 10 ]
+}, {
+  "adFunctionTemplateId" : 137,
+  "energyExchangeId" : 120445,
+  "errorMessages" : [ 348, 349, 350, 351 ]
+}, {
+  "adFunctionTemplateId" : 10,
+  "energyExchangeId" : 120445,
+  "errorMessages" : [ 11 ]
+}, {
+  "adFunctionTemplateId" : 138,
+  "energyExchangeId" : 120445,
+  "errorMessages" : [ 352, 353, 354, 355 ]
+}, {
+  "adFunctionTemplateId" : 139,
+  "energyExchangeId" : 120445,
+  "errorMessages" : [ 356, 357, 358 ]
+}, {
+  "adFunctionTemplateId" : 140,
+  "energyExchangeId" : 120445,
+  "errorMessages" : [ 375, 377, 378, 379 ]
+}, {
+  "adFunctionTemplateId" : 141,
+  "energyExchangeId" : 120445,
+  "errorMessages" : [ 383, 384, 385, 386, 387 ]
+}, {
+  "adFunctionTemplateId" : 142,
+  "energyExchangeId" : 120445,
+  "errorMessages" : [ 400, 402 ]
+}, {
+  "adFunctionTemplateId" : 15,
+  "energyExchangeId" : 120445,
+  "errorMessages" : [ 32 ]
+}, {
+  "adFunctionTemplateId" : 143,
+  "energyExchangeId" : 120445,
+  "errorMessages" : [ 406, 408 ]
+}, {
+  "adFunctionTemplateId" : 16,
+  "energyExchangeId" : 120445,
+  "errorMessages" : [ 34 ]
+}, {
+  "adFunctionTemplateId" : 144,
+  "energyExchangeId" : 120445,
+  "errorMessages" : [ 412, 414, 415, 416 ]
+}, {
+  "adFunctionTemplateId" : 17,
+  "energyExchangeId" : 120445,
+  "errorMessages" : [ 35, 36 ]
+}, {
+  "adFunctionTemplateId" : 145,
+  "energyExchangeId" : 120445,
+  "errorMessages" : [ 420, 422, 423, 424 ]
+}, {
+  "adFunctionTemplateId" : 18,
+  "energyExchangeId" : 120445,
+  "errorMessages" : [ 37 ]
+}, {
+  "adFunctionTemplateId" : 20,
+  "energyExchangeId" : 120445,
+  "errorMessages" : [ 39, 40 ]
+}, {
+  "adFunctionTemplateId" : 21,
+  "energyExchangeId" : 120445,
+  "errorMessages" : [ 41, 42 ]
+}, {
+  "adFunctionTemplateId" : 22,
+  "energyExchangeId" : 120445,
+  "errorMessages" : [ 43, 44 ]
+}, {
+  "adFunctionTemplateId" : 23,
+  "energyExchangeId" : 120445,
+  "errorMessages" : [ 45, 48 ]
+}, {
+  "adFunctionTemplateId" : 24,
+  "energyExchangeId" : 120445,
+  "errorMessages" : [ 49, 50 ]
+}, {
+  "adFunctionTemplateId" : 25,
+  "energyExchangeId" : 120445,
+  "errorMessages" : [ 51, 52 ]
+}, {
+  "adFunctionTemplateId" : 26,
+  "energyExchangeId" : 120445,
+  "errorMessages" : [ 53, 55 ]
+}, {
+  "adFunctionTemplateId" : 27,
+  "energyExchangeId" : 120445,
+  "errorMessages" : [ 58, 60 ]
+}, {
+  "adFunctionTemplateId" : 28,
+  "energyExchangeId" : 120445,
+  "errorMessages" : [ 63, 64 ]
+}, {
+  "adFunctionTemplateId" : 31,
+  "energyExchangeId" : 120445,
+  "errorMessages" : [ 69, 70 ]
+}, {
+  "adFunctionTemplateId" : 32,
+  "energyExchangeId" : 120445,
+  "errorMessages" : [ 71, 72 ]
+}, {
+  "adFunctionTemplateId" : 33,
+  "energyExchangeId" : 120445,
+  "errorMessages" : [ 73, 74 ]
+}, {
+  "adFunctionTemplateId" : 34,
+  "energyExchangeId" : 120445,
+  "errorMessages" : [ 75, 76 ]
+}, {
+  "adFunctionTemplateId" : 36,
+  "energyExchangeId" : 120445,
+  "errorMessages" : [ 79, 80, 391 ]
+}, {
+  "adFunctionTemplateId" : 37,
+  "energyExchangeId" : 120445,
+  "errorMessages" : [ 81, 84, 85, 86 ]
+}, {
+  "adFunctionTemplateId" : 38,
+  "energyExchangeId" : 120445,
+  "errorMessages" : [ 88, 89, 91, 395 ]
+}, {
+  "adFunctionTemplateId" : 39,
+  "energyExchangeId" : 120445,
+  "errorMessages" : [ 92, 94, 95 ]
+}, {
+  "adFunctionTemplateId" : 42,
+  "energyExchangeId" : 120445,
+  "errorMessages" : [ -42 ]
+}, {
+  "adFunctionTemplateId" : 44,
+  "energyExchangeId" : 120445,
+  "errorMessages" : [ 107, 108 ]
+}, {
+  "adFunctionTemplateId" : 49,
+  "energyExchangeId" : 120445,
+  "errorMessages" : [ 117, 118 ]
+}, {
+  "adFunctionTemplateId" : 62,
+  "energyExchangeId" : 120445,
+  "errorMessages" : [ 144 ]
+}, {
+  "adFunctionTemplateId" : 63,
+  "energyExchangeId" : 120445,
+  "errorMessages" : [ 148 ]
+}, {
+  "adFunctionTemplateId" : 65,
+  "energyExchangeId" : 120445,
+  "errorMessages" : [ 152, 153 ]
+}, {
+  "adFunctionTemplateId" : 66,
+  "energyExchangeId" : 120445,
+  "errorMessages" : [ 154, 155 ]
+}, {
+  "adFunctionTemplateId" : 67,
+  "energyExchangeId" : 120445,
+  "errorMessages" : [ 158, 159 ]
+}, {
+  "adFunctionTemplateId" : 68,
+  "energyExchangeId" : 120445,
+  "errorMessages" : [ 162, 163 ]
+}, {
+  "adFunctionTemplateId" : 79,
+  "energyExchangeId" : 120445,
+  "errorMessages" : [ 181 ]
+}, {
+  "adFunctionTemplateId" : 80,
+  "energyExchangeId" : 120445,
+  "errorMessages" : [ 184 ]
+}, {
+  "adFunctionTemplateId" : 85,
+  "energyExchangeId" : 120445,
+  "errorMessages" : [ 195, 197, 198 ]
+}, {
+  "adFunctionTemplateId" : 86,
+  "energyExchangeId" : 120445,
+  "errorMessages" : [ 199, 201, 202 ]
+}, {
+  "adFunctionTemplateId" : 91,
+  "energyExchangeId" : 120445,
+  "errorMessages" : [ 211, 213, 214 ]
+}, {
+  "adFunctionTemplateId" : 93,
+  "energyExchangeId" : 120445,
+  "errorMessages" : [ 217, 219, 220 ]
+}, {
+  "adFunctionTemplateId" : 105,
+  "energyExchangeId" : 120445,
+  "errorMessages" : [ 275 ]
+}, {
+  "adFunctionTemplateId" : 109,
+  "energyExchangeId" : 120445,
+  "errorMessages" : [ 279 ]
+}, {
+  "adFunctionTemplateId" : 113,
+  "energyExchangeId" : 120445,
+  "errorMessages" : [ 292, 295 ]
+}, {
+  "adFunctionTemplateId" : 130,
+  "energyExchangeId" : 120457,
+  "errorMessages" : [ 328, 329, 330 ]
+}, {
+  "adFunctionTemplateId" : 131,
+  "energyExchangeId" : 120457,
+  "errorMessages" : [ 331, 332, 333 ]
+}, {
+  "adFunctionTemplateId" : 132,
+  "energyExchangeId" : 120457,
+  "errorMessages" : [ 334, 335, 336 ]
+}, {
+  "adFunctionTemplateId" : 133,
+  "energyExchangeId" : 120457,
+  "errorMessages" : [ 337, 338, 339 ]
+}, {
+  "adFunctionTemplateId" : 6,
+  "energyExchangeId" : 120457,
+  "errorMessages" : [ 7 ]
+}, {
+  "adFunctionTemplateId" : 134,
+  "energyExchangeId" : 120457,
+  "errorMessages" : [ 340 ]
+}, {
+  "adFunctionTemplateId" : 135,
+  "energyExchangeId" : 120457,
+  "errorMessages" : [ 341 ]
+}, {
+  "adFunctionTemplateId" : 136,
+  "energyExchangeId" : 120457,
+  "errorMessages" : [ 345, 346 ]
+}, {
+  "adFunctionTemplateId" : 9,
+  "energyExchangeId" : 120457,
+  "errorMessages" : [ 10 ]
+}, {
+  "adFunctionTemplateId" : 137,
+  "energyExchangeId" : 120457,
+  "errorMessages" : [ 348, 349, 350, 351 ]
+}, {
+  "adFunctionTemplateId" : 10,
+  "energyExchangeId" : 120457,
+  "errorMessages" : [ 11 ]
+}, {
+  "adFunctionTemplateId" : 138,
+  "energyExchangeId" : 120457,
+  "errorMessages" : [ 352, 353, 354, 355 ]
+}, {
+  "adFunctionTemplateId" : 139,
+  "energyExchangeId" : 120457,
+  "errorMessages" : [ 356, 357, 358 ]
+}, {
+  "adFunctionTemplateId" : 140,
+  "energyExchangeId" : 120457,
+  "errorMessages" : [ 375, 377, 378, 379 ]
+}, {
+  "adFunctionTemplateId" : 141,
+  "energyExchangeId" : 120457,
+  "errorMessages" : [ 383, 384, 385, 386, 387 ]
+}, {
+  "adFunctionTemplateId" : 142,
+  "energyExchangeId" : 120457,
+  "errorMessages" : [ 400, 402 ]
+}, {
+  "adFunctionTemplateId" : 15,
+  "energyExchangeId" : 120457,
+  "errorMessages" : [ 32 ]
+}, {
+  "adFunctionTemplateId" : 143,
+  "energyExchangeId" : 120457,
+  "errorMessages" : [ 406, 408 ]
+}, {
+  "adFunctionTemplateId" : 16,
+  "energyExchangeId" : 120457,
+  "errorMessages" : [ 34 ]
+}, {
+  "adFunctionTemplateId" : 144,
+  "energyExchangeId" : 120457,
+  "errorMessages" : [ 412, 414, 415, 416 ]
+}, {
+  "adFunctionTemplateId" : 17,
+  "energyExchangeId" : 120457,
+  "errorMessages" : [ 35, 36 ]
+}, {
+  "adFunctionTemplateId" : 145,
+  "energyExchangeId" : 120457,
+  "errorMessages" : [ 420, 422, 423, 424 ]
+}, {
+  "adFunctionTemplateId" : 18,
+  "energyExchangeId" : 120457,
+  "errorMessages" : [ 37 ]
+}, {
+  "adFunctionTemplateId" : 20,
+  "energyExchangeId" : 120457,
+  "errorMessages" : [ 39, 40 ]
+}, {
+  "adFunctionTemplateId" : 21,
+  "energyExchangeId" : 120457,
+  "errorMessages" : [ 41, 42 ]
+}, {
+  "adFunctionTemplateId" : 22,
+  "energyExchangeId" : 120457,
+  "errorMessages" : [ 43, 44 ]
+}, {
+  "adFunctionTemplateId" : 23,
+  "energyExchangeId" : 120457,
+  "errorMessages" : [ 45, 48 ]
+}, {
+  "adFunctionTemplateId" : 24,
+  "energyExchangeId" : 120457,
+  "errorMessages" : [ 49, 50 ]
+}, {
+  "adFunctionTemplateId" : 25,
+  "energyExchangeId" : 120457,
+  "errorMessages" : [ 51, 52 ]
+}, {
+  "adFunctionTemplateId" : 26,
+  "energyExchangeId" : 120457,
+  "errorMessages" : [ 53, 55 ]
+}, {
+  "adFunctionTemplateId" : 27,
+  "energyExchangeId" : 120457,
+  "errorMessages" : [ 58, 60 ]
+}, {
+  "adFunctionTemplateId" : 28,
+  "energyExchangeId" : 120457,
+  "errorMessages" : [ 63, 64 ]
+}, {
+  "adFunctionTemplateId" : 31,
+  "energyExchangeId" : 120457,
+  "errorMessages" : [ 69, 70 ]
+}, {
+  "adFunctionTemplateId" : 32,
+  "energyExchangeId" : 120457,
+  "errorMessages" : [ 71, 72 ]
+}, {
+  "adFunctionTemplateId" : 33,
+  "energyExchangeId" : 120457,
+  "errorMessages" : [ 73, 74 ]
+}, {
+  "adFunctionTemplateId" : 34,
+  "energyExchangeId" : 120457,
+  "errorMessages" : [ 75, 76 ]
+}, {
+  "adFunctionTemplateId" : 36,
+  "energyExchangeId" : 120457,
+  "errorMessages" : [ 79, 80, 391 ]
+}, {
+  "adFunctionTemplateId" : 37,
+  "energyExchangeId" : 120457,
+  "errorMessages" : [ 81, 84, 85, 86 ]
+}, {
+  "adFunctionTemplateId" : 38,
+  "energyExchangeId" : 120457,
+  "errorMessages" : [ 88, 89, 91, 395 ]
+}, {
+  "adFunctionTemplateId" : 39,
+  "energyExchangeId" : 120457,
+  "errorMessages" : [ 92, 94, 95 ]
+}, {
+  "adFunctionTemplateId" : 42,
+  "energyExchangeId" : 120457,
+  "errorMessages" : [ -42 ]
+}, {
+  "adFunctionTemplateId" : 44,
+  "energyExchangeId" : 120457,
+  "errorMessages" : [ 107, 108 ]
+}, {
+  "adFunctionTemplateId" : 49,
+  "energyExchangeId" : 120457,
+  "errorMessages" : [ 117, 118 ]
+}, {
+  "adFunctionTemplateId" : 62,
+  "energyExchangeId" : 120457,
+  "errorMessages" : [ 144 ]
+}, {
+  "adFunctionTemplateId" : 63,
+  "energyExchangeId" : 120457,
+  "errorMessages" : [ 148 ]
+}, {
+  "adFunctionTemplateId" : 65,
+  "energyExchangeId" : 120457,
+  "errorMessages" : [ 152, 153 ]
+}, {
+  "adFunctionTemplateId" : 66,
+  "energyExchangeId" : 120457,
+  "errorMessages" : [ 154, 155 ]
+}, {
+  "adFunctionTemplateId" : 67,
+  "energyExchangeId" : 120457,
+  "errorMessages" : [ 158, 159 ]
+}, {
+  "adFunctionTemplateId" : 68,
+  "energyExchangeId" : 120457,
+  "errorMessages" : [ 162, 163 ]
+}, {
+  "adFunctionTemplateId" : 79,
+  "energyExchangeId" : 120457,
+  "errorMessages" : [ 181 ]
+}, {
+  "adFunctionTemplateId" : 80,
+  "energyExchangeId" : 120457,
+  "errorMessages" : [ 184 ]
+}, {
+  "adFunctionTemplateId" : 85,
+  "energyExchangeId" : 120457,
+  "errorMessages" : [ 195, 197, 198 ]
+}, {
+  "adFunctionTemplateId" : 86,
+  "energyExchangeId" : 120457,
+  "errorMessages" : [ 199, 201, 202 ]
+}, {
+  "adFunctionTemplateId" : 91,
+  "energyExchangeId" : 120457,
+  "errorMessages" : [ 211, 213, 214 ]
+}, {
+  "adFunctionTemplateId" : 93,
+  "energyExchangeId" : 120457,
+  "errorMessages" : [ 217, 219, 220 ]
+}, {
+  "adFunctionTemplateId" : 105,
+  "energyExchangeId" : 120457,
+  "errorMessages" : [ 275 ]
+}, {
+  "adFunctionTemplateId" : 109,
+  "energyExchangeId" : 120457,
+  "errorMessages" : [ 279 ]
+}, {
+  "adFunctionTemplateId" : 113,
+  "energyExchangeId" : 120457,
+  "errorMessages" : [ 292, 295 ]
+}, {
+  "adFunctionTemplateId" : 130,
+  "energyExchangeId" : 120461,
+  "errorMessages" : [ 329, 330 ]
+}, {
+  "adFunctionTemplateId" : 131,
+  "energyExchangeId" : 120461,
+  "errorMessages" : [ 332, 333 ]
+}, {
+  "adFunctionTemplateId" : 132,
+  "energyExchangeId" : 120461,
+  "errorMessages" : [ 335, 336 ]
+}, {
+  "adFunctionTemplateId" : 133,
+  "energyExchangeId" : 120461,
+  "errorMessages" : [ 338, 339 ]
+}, {
+  "adFunctionTemplateId" : 6,
+  "energyExchangeId" : 120461,
+  "errorMessages" : [ 7 ]
+}, {
+  "adFunctionTemplateId" : 134,
+  "energyExchangeId" : 120461,
+  "errorMessages" : [ 340 ]
+}, {
+  "adFunctionTemplateId" : 135,
+  "energyExchangeId" : 120461,
+  "errorMessages" : [ -135 ]
+}, {
+  "adFunctionTemplateId" : 136,
+  "energyExchangeId" : 120461,
+  "errorMessages" : [ 345 ]
+}, {
+  "adFunctionTemplateId" : 9,
+  "energyExchangeId" : 120461,
+  "errorMessages" : [ 10 ]
+}, {
+  "adFunctionTemplateId" : 137,
+  "energyExchangeId" : 120461,
+  "errorMessages" : [ 349, 350 ]
+}, {
+  "adFunctionTemplateId" : 10,
+  "energyExchangeId" : 120461,
+  "errorMessages" : [ 11 ]
+}, {
+  "adFunctionTemplateId" : 138,
+  "energyExchangeId" : 120461,
+  "errorMessages" : [ 353, 354, 355 ]
+}, {
+  "adFunctionTemplateId" : 139,
+  "energyExchangeId" : 120461,
+  "errorMessages" : [ 357, 358 ]
+}, {
+  "adFunctionTemplateId" : 140,
+  "energyExchangeId" : 120461,
+  "errorMessages" : [ 377, 379 ]
+}, {
+  "adFunctionTemplateId" : 141,
+  "energyExchangeId" : 120461,
+  "errorMessages" : [ 384, 385, 387 ]
+}, {
+  "adFunctionTemplateId" : 142,
+  "energyExchangeId" : 120461,
+  "errorMessages" : [ 400 ]
+}, {
+  "adFunctionTemplateId" : 143,
+  "energyExchangeId" : 120461,
+  "errorMessages" : [ 406 ]
+}, {
+  "adFunctionTemplateId" : 16,
+  "energyExchangeId" : 120461,
+  "errorMessages" : [ 34 ]
+}, {
+  "adFunctionTemplateId" : 144,
+  "energyExchangeId" : 120461,
+  "errorMessages" : [ 412, 415 ]
+}, {
+  "adFunctionTemplateId" : 145,
+  "energyExchangeId" : 120461,
+  "errorMessages" : [ 420, 423 ]
+}, {
+  "adFunctionTemplateId" : 18,
+  "energyExchangeId" : 120461,
+  "errorMessages" : [ 37 ]
+}, {
+  "adFunctionTemplateId" : 20,
+  "energyExchangeId" : 120461,
+  "errorMessages" : [ 39 ]
+}, {
+  "adFunctionTemplateId" : 21,
+  "energyExchangeId" : 120461,
+  "errorMessages" : [ 41 ]
+}, {
+  "adFunctionTemplateId" : 22,
+  "energyExchangeId" : 120461,
+  "errorMessages" : [ 43 ]
+}, {
+  "adFunctionTemplateId" : 24,
+  "energyExchangeId" : 120461,
+  "errorMessages" : [ 50 ]
+}, {
+  "adFunctionTemplateId" : 25,
+  "energyExchangeId" : 120461,
+  "errorMessages" : [ 52 ]
+}, {
+  "adFunctionTemplateId" : 26,
+  "energyExchangeId" : 120461,
+  "errorMessages" : [ 55 ]
+}, {
+  "adFunctionTemplateId" : 27,
+  "energyExchangeId" : 120461,
+  "errorMessages" : [ 60 ]
+}, {
+  "adFunctionTemplateId" : 28,
+  "energyExchangeId" : 120461,
+  "errorMessages" : [ 64 ]
+}, {
+  "adFunctionTemplateId" : 31,
+  "energyExchangeId" : 120461,
+  "errorMessages" : [ 69 ]
+}, {
+  "adFunctionTemplateId" : 32,
+  "energyExchangeId" : 120461,
+  "errorMessages" : [ 71 ]
+}, {
+  "adFunctionTemplateId" : 33,
+  "energyExchangeId" : 120461,
+  "errorMessages" : [ 73 ]
+}, {
+  "adFunctionTemplateId" : 34,
+  "energyExchangeId" : 120461,
+  "errorMessages" : [ 76 ]
+}, {
+  "adFunctionTemplateId" : 36,
+  "energyExchangeId" : 120461,
+  "errorMessages" : [ 80 ]
+}, {
+  "adFunctionTemplateId" : 37,
+  "energyExchangeId" : 120461,
+  "errorMessages" : [ 81, 86 ]
+}, {
+  "adFunctionTemplateId" : 38,
+  "energyExchangeId" : 120461,
+  "errorMessages" : [ 89, 91 ]
+}, {
+  "adFunctionTemplateId" : 39,
+  "energyExchangeId" : 120461,
+  "errorMessages" : [ 94, 95 ]
+}, {
+  "adFunctionTemplateId" : 48,
+  "energyExchangeId" : 120461,
+  "errorMessages" : [ 116 ]
+}, {
+  "adFunctionTemplateId" : 49,
+  "energyExchangeId" : 120461,
+  "errorMessages" : [ 118 ]
+}, {
+  "adFunctionTemplateId" : 62,
+  "energyExchangeId" : 120461,
+  "errorMessages" : [ 144 ]
+}, {
+  "adFunctionTemplateId" : 63,
+  "energyExchangeId" : 120461,
+  "errorMessages" : [ 148 ]
+}, {
+  "adFunctionTemplateId" : 65,
+  "energyExchangeId" : 120461,
+  "errorMessages" : [ 152 ]
+}, {
+  "adFunctionTemplateId" : 67,
+  "energyExchangeId" : 120461,
+  "errorMessages" : [ 159 ]
+}, {
+  "adFunctionTemplateId" : 85,
+  "energyExchangeId" : 120461,
+  "errorMessages" : [ 197, 198 ]
+}, {
+  "adFunctionTemplateId" : 86,
+  "energyExchangeId" : 120461,
+  "errorMessages" : [ 201 ]
+}, {
+  "adFunctionTemplateId" : 91,
+  "energyExchangeId" : 120461,
+  "errorMessages" : [ 213, 214 ]
+}, {
+  "adFunctionTemplateId" : 93,
+  "energyExchangeId" : 120461,
+  "errorMessages" : [ 219 ]
+}, {
+  "adFunctionTemplateId" : 99,
+  "energyExchangeId" : 120461,
+  "errorMessages" : [ 232 ]
+}, {
+  "adFunctionTemplateId" : 105,
+  "energyExchangeId" : 120461,
+  "errorMessages" : [ 275 ]
+}, {
+  "adFunctionTemplateId" : 109,
+  "energyExchangeId" : 120461,
+  "errorMessages" : [ 279 ]
+}, {
+  "adFunctionTemplateId" : 113,
+  "energyExchangeId" : 120461,
+  "errorMessages" : [ 291, 295 ]
+}, {
+  "adFunctionTemplateId" : 130,
+  "energyExchangeId" : 120476,
+  "errorMessages" : [ 328, 329, 330 ]
+}, {
+  "adFunctionTemplateId" : 131,
+  "energyExchangeId" : 120476,
+  "errorMessages" : [ 331, 332, 333 ]
+}, {
+  "adFunctionTemplateId" : 132,
+  "energyExchangeId" : 120476,
+  "errorMessages" : [ 334, 335, 336 ]
+}, {
+  "adFunctionTemplateId" : 5,
+  "energyExchangeId" : 120476,
+  "errorMessages" : [ 6 ]
+}, {
+  "adFunctionTemplateId" : 133,
+  "energyExchangeId" : 120476,
+  "errorMessages" : [ 337, 338, 339 ]
+}, {
+  "adFunctionTemplateId" : 6,
+  "energyExchangeId" : 120476,
+  "errorMessages" : [ 7 ]
+}, {
+  "adFunctionTemplateId" : 134,
+  "energyExchangeId" : 120476,
+  "errorMessages" : [ 340 ]
+}, {
+  "adFunctionTemplateId" : 7,
+  "energyExchangeId" : 120476,
+  "errorMessages" : [ 8 ]
+}, {
+  "adFunctionTemplateId" : 135,
+  "energyExchangeId" : 120476,
+  "errorMessages" : [ 341 ]
+}, {
+  "adFunctionTemplateId" : 136,
+  "energyExchangeId" : 120476,
+  "errorMessages" : [ 345, 346 ]
+}, {
+  "adFunctionTemplateId" : 9,
+  "energyExchangeId" : 120476,
+  "errorMessages" : [ 10 ]
+}, {
+  "adFunctionTemplateId" : 137,
+  "energyExchangeId" : 120476,
+  "errorMessages" : [ 348, 349, 350, 351 ]
+}, {
+  "adFunctionTemplateId" : 10,
+  "energyExchangeId" : 120476,
+  "errorMessages" : [ 11 ]
+}, {
+  "adFunctionTemplateId" : 138,
+  "energyExchangeId" : 120476,
+  "errorMessages" : [ 352, 353, 354, 355 ]
+}, {
+  "adFunctionTemplateId" : 139,
+  "energyExchangeId" : 120476,
+  "errorMessages" : [ 356, 357, 358 ]
+}, {
+  "adFunctionTemplateId" : 140,
+  "energyExchangeId" : 120476,
+  "errorMessages" : [ 375, 376, 377, 378, 379 ]
+}, {
+  "adFunctionTemplateId" : 141,
+  "energyExchangeId" : 120476,
+  "errorMessages" : [ 383, 384, 385, 386, 387 ]
+}, {
+  "adFunctionTemplateId" : 142,
+  "energyExchangeId" : 120476,
+  "errorMessages" : [ 400, 401, 402 ]
+}, {
+  "adFunctionTemplateId" : 15,
+  "energyExchangeId" : 120476,
+  "errorMessages" : [ 32, 33 ]
+}, {
+  "adFunctionTemplateId" : 143,
+  "energyExchangeId" : 120476,
+  "errorMessages" : [ 406, 407, 408 ]
+}, {
+  "adFunctionTemplateId" : 16,
+  "energyExchangeId" : 120476,
+  "errorMessages" : [ 34 ]
+}, {
+  "adFunctionTemplateId" : 144,
+  "energyExchangeId" : 120476,
+  "errorMessages" : [ 412, 413, 414, 415, 416 ]
+}, {
+  "adFunctionTemplateId" : 17,
+  "energyExchangeId" : 120476,
+  "errorMessages" : [ 35, 36 ]
+}, {
+  "adFunctionTemplateId" : 145,
+  "energyExchangeId" : 120476,
+  "errorMessages" : [ 420, 421, 422, 423, 424 ]
+}, {
+  "adFunctionTemplateId" : 18,
+  "energyExchangeId" : 120476,
+  "errorMessages" : [ 37 ]
+}, {
+  "adFunctionTemplateId" : 19,
+  "energyExchangeId" : 120476,
+  "errorMessages" : [ 38 ]
+}, {
+  "adFunctionTemplateId" : 20,
+  "energyExchangeId" : 120476,
+  "errorMessages" : [ 39, 40 ]
+}, {
+  "adFunctionTemplateId" : 21,
+  "energyExchangeId" : 120476,
+  "errorMessages" : [ 41, 42 ]
+}, {
+  "adFunctionTemplateId" : 22,
+  "energyExchangeId" : 120476,
+  "errorMessages" : [ 43, 44 ]
+}, {
+  "adFunctionTemplateId" : 23,
+  "energyExchangeId" : 120476,
+  "errorMessages" : [ 45, 47, 48 ]
+}, {
+  "adFunctionTemplateId" : 24,
+  "energyExchangeId" : 120476,
+  "errorMessages" : [ 49, 50 ]
+}, {
+  "adFunctionTemplateId" : 25,
+  "energyExchangeId" : 120476,
+  "errorMessages" : [ 51, 52 ]
+}, {
+  "adFunctionTemplateId" : 26,
+  "energyExchangeId" : 120476,
+  "errorMessages" : [ 53, 54, 55, 57 ]
+}, {
+  "adFunctionTemplateId" : 27,
+  "energyExchangeId" : 120476,
+  "errorMessages" : [ 58, 59, 60, 62 ]
+}, {
+  "adFunctionTemplateId" : 28,
+  "energyExchangeId" : 120476,
+  "errorMessages" : [ 63, 64 ]
+}, {
+  "adFunctionTemplateId" : 31,
+  "energyExchangeId" : 120476,
+  "errorMessages" : [ 69, 70 ]
+}, {
+  "adFunctionTemplateId" : 32,
+  "energyExchangeId" : 120476,
+  "errorMessages" : [ 71, 72 ]
+}, {
+  "adFunctionTemplateId" : 33,
+  "energyExchangeId" : 120476,
+  "errorMessages" : [ 73, 74 ]
+}, {
+  "adFunctionTemplateId" : 34,
+  "energyExchangeId" : 120476,
+  "errorMessages" : [ 75, 76 ]
+}, {
+  "adFunctionTemplateId" : 36,
+  "energyExchangeId" : 120476,
+  "errorMessages" : [ 79, 80, 391 ]
+}, {
+  "adFunctionTemplateId" : 37,
+  "energyExchangeId" : 120476,
+  "errorMessages" : [ 81, 83, 84, 85, 86 ]
+}, {
+  "adFunctionTemplateId" : 38,
+  "energyExchangeId" : 120476,
+  "errorMessages" : [ 88, 89, 91, 395 ]
+}, {
+  "adFunctionTemplateId" : 39,
+  "energyExchangeId" : 120476,
+  "errorMessages" : [ 92, 93, 94, 95 ]
+}, {
+  "adFunctionTemplateId" : 44,
+  "energyExchangeId" : 120476,
+  "errorMessages" : [ 107, 108 ]
+}, {
+  "adFunctionTemplateId" : 48,
+  "energyExchangeId" : 120476,
+  "errorMessages" : [ 116 ]
+}, {
+  "adFunctionTemplateId" : 49,
+  "energyExchangeId" : 120476,
+  "errorMessages" : [ 117, 118 ]
+}, {
+  "adFunctionTemplateId" : 62,
+  "energyExchangeId" : 120476,
+  "errorMessages" : [ 144 ]
+}, {
+  "adFunctionTemplateId" : 63,
+  "energyExchangeId" : 120476,
+  "errorMessages" : [ 146, 148 ]
+}, {
+  "adFunctionTemplateId" : 65,
+  "energyExchangeId" : 120476,
+  "errorMessages" : [ 152, 153 ]
+}, {
+  "adFunctionTemplateId" : 66,
+  "energyExchangeId" : 120476,
+  "errorMessages" : [ 154, 155 ]
+}, {
+  "adFunctionTemplateId" : 67,
+  "energyExchangeId" : 120476,
+  "errorMessages" : [ 158, 159 ]
+}, {
+  "adFunctionTemplateId" : 68,
+  "energyExchangeId" : 120476,
+  "errorMessages" : [ 162, 163 ]
+}, {
+  "adFunctionTemplateId" : 78,
+  "energyExchangeId" : 120476,
+  "errorMessages" : [ 180 ]
+}, {
+  "adFunctionTemplateId" : 79,
+  "energyExchangeId" : 120476,
+  "errorMessages" : [ 181, 182 ]
+}, {
+  "adFunctionTemplateId" : 80,
+  "energyExchangeId" : 120476,
+  "errorMessages" : [ 184, 185 ]
+}, {
+  "adFunctionTemplateId" : 85,
+  "energyExchangeId" : 120476,
+  "errorMessages" : [ 195, 196, 197, 198 ]
+}, {
+  "adFunctionTemplateId" : 86,
+  "energyExchangeId" : 120476,
+  "errorMessages" : [ 199, 200, 201, 202 ]
+}, {
+  "adFunctionTemplateId" : 91,
+  "energyExchangeId" : 120476,
+  "errorMessages" : [ 211, 212, 213, 214 ]
+}, {
+  "adFunctionTemplateId" : 93,
+  "energyExchangeId" : 120476,
+  "errorMessages" : [ 217, 218, 219, 220 ]
+}, {
+  "adFunctionTemplateId" : 99,
+  "energyExchangeId" : 120476,
+  "errorMessages" : [ 232 ]
+}, {
+  "adFunctionTemplateId" : 105,
+  "energyExchangeId" : 120476,
+  "errorMessages" : [ 275 ]
+}, {
+  "adFunctionTemplateId" : 109,
+  "energyExchangeId" : 120476,
+  "errorMessages" : [ 279 ]
+}, {
+  "adFunctionTemplateId" : 113,
+  "energyExchangeId" : 120476,
+  "errorMessages" : [ 291, 292, 295 ]
+}, {
+  "adFunctionTemplateId" : 130,
+  "energyExchangeId" : 120506,
+  "errorMessages" : [ 328, 329, 330 ]
+}, {
+  "adFunctionTemplateId" : 131,
+  "energyExchangeId" : 120506,
+  "errorMessages" : [ 331, 332, 333 ]
+}, {
+  "adFunctionTemplateId" : 132,
+  "energyExchangeId" : 120506,
+  "errorMessages" : [ 334, 335, 336 ]
+}, {
+  "adFunctionTemplateId" : 5,
+  "energyExchangeId" : 120506,
+  "errorMessages" : [ 6 ]
+}, {
+  "adFunctionTemplateId" : 133,
+  "energyExchangeId" : 120506,
+  "errorMessages" : [ 337, 338, 339 ]
+}, {
+  "adFunctionTemplateId" : 6,
+  "energyExchangeId" : 120506,
+  "errorMessages" : [ 7 ]
+}, {
+  "adFunctionTemplateId" : 134,
+  "energyExchangeId" : 120506,
+  "errorMessages" : [ 340 ]
+}, {
+  "adFunctionTemplateId" : 7,
+  "energyExchangeId" : 120506,
+  "errorMessages" : [ 8 ]
+}, {
+  "adFunctionTemplateId" : 135,
+  "energyExchangeId" : 120506,
+  "errorMessages" : [ 341 ]
+}, {
+  "adFunctionTemplateId" : 136,
+  "energyExchangeId" : 120506,
+  "errorMessages" : [ 345, 346 ]
+}, {
+  "adFunctionTemplateId" : 9,
+  "energyExchangeId" : 120506,
+  "errorMessages" : [ 10 ]
+}, {
+  "adFunctionTemplateId" : 137,
+  "energyExchangeId" : 120506,
+  "errorMessages" : [ 348, 349, 350, 351 ]
+}, {
+  "adFunctionTemplateId" : 10,
+  "energyExchangeId" : 120506,
+  "errorMessages" : [ 11 ]
+}, {
+  "adFunctionTemplateId" : 138,
+  "energyExchangeId" : 120506,
+  "errorMessages" : [ 352, 353, 354, 355 ]
+}, {
+  "adFunctionTemplateId" : 139,
+  "energyExchangeId" : 120506,
+  "errorMessages" : [ 356, 357, 358 ]
+}, {
+  "adFunctionTemplateId" : 140,
+  "energyExchangeId" : 120506,
+  "errorMessages" : [ 375, 376, 377, 378, 379 ]
+}, {
+  "adFunctionTemplateId" : 141,
+  "energyExchangeId" : 120506,
+  "errorMessages" : [ 383, 384, 385, 386, 387 ]
+}, {
+  "adFunctionTemplateId" : 142,
+  "energyExchangeId" : 120506,
+  "errorMessages" : [ 400, 401, 402 ]
+}, {
+  "adFunctionTemplateId" : 15,
+  "energyExchangeId" : 120506,
+  "errorMessages" : [ 32, 33 ]
+}, {
+  "adFunctionTemplateId" : 143,
+  "energyExchangeId" : 120506,
+  "errorMessages" : [ 406, 407, 408 ]
+}, {
+  "adFunctionTemplateId" : 16,
+  "energyExchangeId" : 120506,
+  "errorMessages" : [ 34 ]
+}, {
+  "adFunctionTemplateId" : 144,
+  "energyExchangeId" : 120506,
+  "errorMessages" : [ 412, 413, 414, 415, 416 ]
+}, {
+  "adFunctionTemplateId" : 17,
+  "energyExchangeId" : 120506,
+  "errorMessages" : [ 35, 36 ]
+}, {
+  "adFunctionTemplateId" : 145,
+  "energyExchangeId" : 120506,
+  "errorMessages" : [ 420, 421, 422, 423, 424 ]
+}, {
+  "adFunctionTemplateId" : 18,
+  "energyExchangeId" : 120506,
+  "errorMessages" : [ 37 ]
+}, {
+  "adFunctionTemplateId" : 19,
+  "energyExchangeId" : 120506,
+  "errorMessages" : [ 38 ]
+}, {
+  "adFunctionTemplateId" : 20,
+  "energyExchangeId" : 120506,
+  "errorMessages" : [ 39, 40 ]
+}, {
+  "adFunctionTemplateId" : 21,
+  "energyExchangeId" : 120506,
+  "errorMessages" : [ 41, 42 ]
+}, {
+  "adFunctionTemplateId" : 22,
+  "energyExchangeId" : 120506,
+  "errorMessages" : [ 43, 44 ]
+}, {
+  "adFunctionTemplateId" : 23,
+  "energyExchangeId" : 120506,
+  "errorMessages" : [ 45, 47, 48 ]
+}, {
+  "adFunctionTemplateId" : 24,
+  "energyExchangeId" : 120506,
+  "errorMessages" : [ 49, 50 ]
+}, {
+  "adFunctionTemplateId" : 25,
+  "energyExchangeId" : 120506,
+  "errorMessages" : [ 51, 52 ]
+}, {
+  "adFunctionTemplateId" : 26,
+  "energyExchangeId" : 120506,
+  "errorMessages" : [ 53, 54, 55, 57 ]
+}, {
+  "adFunctionTemplateId" : 27,
+  "energyExchangeId" : 120506,
+  "errorMessages" : [ 58, 59, 60, 62 ]
+}, {
+  "adFunctionTemplateId" : 28,
+  "energyExchangeId" : 120506,
+  "errorMessages" : [ 63, 64 ]
+}, {
+  "adFunctionTemplateId" : 31,
+  "energyExchangeId" : 120506,
+  "errorMessages" : [ 69, 70 ]
+}, {
+  "adFunctionTemplateId" : 32,
+  "energyExchangeId" : 120506,
+  "errorMessages" : [ 71, 72 ]
+}, {
+  "adFunctionTemplateId" : 33,
+  "energyExchangeId" : 120506,
+  "errorMessages" : [ 73, 74 ]
+}, {
+  "adFunctionTemplateId" : 34,
+  "energyExchangeId" : 120506,
+  "errorMessages" : [ 75, 76 ]
+}, {
+  "adFunctionTemplateId" : 36,
+  "energyExchangeId" : 120506,
+  "errorMessages" : [ 79, 80, 391 ]
+}, {
+  "adFunctionTemplateId" : 37,
+  "energyExchangeId" : 120506,
+  "errorMessages" : [ 81, 83, 84, 85, 86 ]
+}, {
+  "adFunctionTemplateId" : 38,
+  "energyExchangeId" : 120506,
+  "errorMessages" : [ 88, 89, 91, 395 ]
+}, {
+  "adFunctionTemplateId" : 39,
+  "energyExchangeId" : 120506,
+  "errorMessages" : [ 92, 93, 94, 95 ]
+}, {
+  "adFunctionTemplateId" : 44,
+  "energyExchangeId" : 120506,
+  "errorMessages" : [ 107, 108 ]
+}, {
+  "adFunctionTemplateId" : 48,
+  "energyExchangeId" : 120506,
+  "errorMessages" : [ 116 ]
+}, {
+  "adFunctionTemplateId" : 49,
+  "energyExchangeId" : 120506,
+  "errorMessages" : [ 117, 118 ]
+}, {
+  "adFunctionTemplateId" : 62,
+  "energyExchangeId" : 120506,
+  "errorMessages" : [ 144 ]
+}, {
+  "adFunctionTemplateId" : 63,
+  "energyExchangeId" : 120506,
+  "errorMessages" : [ 146, 148 ]
+}, {
+  "adFunctionTemplateId" : 65,
+  "energyExchangeId" : 120506,
+  "errorMessages" : [ 152, 153 ]
+}, {
+  "adFunctionTemplateId" : 66,
+  "energyExchangeId" : 120506,
+  "errorMessages" : [ 154, 155 ]
+}, {
+  "adFunctionTemplateId" : 67,
+  "energyExchangeId" : 120506,
+  "errorMessages" : [ 158, 159 ]
+}, {
+  "adFunctionTemplateId" : 68,
+  "energyExchangeId" : 120506,
+  "errorMessages" : [ 162, 163 ]
+}, {
+  "adFunctionTemplateId" : 78,
+  "energyExchangeId" : 120506,
+  "errorMessages" : [ 180 ]
+}, {
+  "adFunctionTemplateId" : 79,
+  "energyExchangeId" : 120506,
+  "errorMessages" : [ 181, 182 ]
+}, {
+  "adFunctionTemplateId" : 80,
+  "energyExchangeId" : 120506,
+  "errorMessages" : [ 184, 185 ]
+}, {
+  "adFunctionTemplateId" : 85,
+  "energyExchangeId" : 120506,
+  "errorMessages" : [ 195, 196, 197, 198 ]
+}, {
+  "adFunctionTemplateId" : 86,
+  "energyExchangeId" : 120506,
+  "errorMessages" : [ 199, 200, 201, 202 ]
+}, {
+  "adFunctionTemplateId" : 91,
+  "energyExchangeId" : 120506,
+  "errorMessages" : [ 211, 212, 213, 214 ]
+}, {
+  "adFunctionTemplateId" : 93,
+  "energyExchangeId" : 120506,
+  "errorMessages" : [ 217, 218, 219, 220 ]
+}, {
+  "adFunctionTemplateId" : 99,
+  "energyExchangeId" : 120506,
+  "errorMessages" : [ 232 ]
+}, {
+  "adFunctionTemplateId" : 105,
+  "energyExchangeId" : 120506,
+  "errorMessages" : [ 275 ]
+}, {
+  "adFunctionTemplateId" : 109,
+  "energyExchangeId" : 120506,
+  "errorMessages" : [ 279 ]
+}, {
+  "adFunctionTemplateId" : 113,
+  "energyExchangeId" : 120506,
+  "errorMessages" : [ 291, 292, 295 ]
+}, {
+  "adFunctionTemplateId" : 130,
+  "energyExchangeId" : 120533,
+  "errorMessages" : [ 329, 330 ]
+}, {
+  "adFunctionTemplateId" : 131,
+  "energyExchangeId" : 120533,
+  "errorMessages" : [ 332, 333 ]
+}, {
+  "adFunctionTemplateId" : 132,
+  "energyExchangeId" : 120533,
+  "errorMessages" : [ 335, 336 ]
+}, {
+  "adFunctionTemplateId" : 133,
+  "energyExchangeId" : 120533,
+  "errorMessages" : [ 338, 339 ]
+}, {
+  "adFunctionTemplateId" : 6,
+  "energyExchangeId" : 120533,
+  "errorMessages" : [ 7 ]
+}, {
+  "adFunctionTemplateId" : 134,
+  "energyExchangeId" : 120533,
+  "errorMessages" : [ 340 ]
+}, {
+  "adFunctionTemplateId" : 135,
+  "energyExchangeId" : 120533,
+  "errorMessages" : [ -135 ]
+}, {
+  "adFunctionTemplateId" : 136,
+  "energyExchangeId" : 120533,
+  "errorMessages" : [ 345 ]
+}, {
+  "adFunctionTemplateId" : 9,
+  "energyExchangeId" : 120533,
+  "errorMessages" : [ 10 ]
+}, {
+  "adFunctionTemplateId" : 137,
+  "energyExchangeId" : 120533,
+  "errorMessages" : [ 349, 350, 351 ]
+}, {
+  "adFunctionTemplateId" : 138,
+  "energyExchangeId" : 120533,
+  "errorMessages" : [ 353, 354, 355 ]
+}, {
+  "adFunctionTemplateId" : 139,
+  "energyExchangeId" : 120533,
+  "errorMessages" : [ 357, 358 ]
+}, {
+  "adFunctionTemplateId" : 140,
+  "energyExchangeId" : 120533,
+  "errorMessages" : [ 376, 377, 378, 379 ]
+}, {
+  "adFunctionTemplateId" : 141,
+  "energyExchangeId" : 120533,
+  "errorMessages" : [ 384, 385, 386, 387 ]
+}, {
+  "adFunctionTemplateId" : 142,
+  "energyExchangeId" : 120533,
+  "errorMessages" : [ 400 ]
+}, {
+  "adFunctionTemplateId" : 15,
+  "energyExchangeId" : 120533,
+  "errorMessages" : [ 33 ]
+}, {
+  "adFunctionTemplateId" : 143,
+  "energyExchangeId" : 120533,
+  "errorMessages" : [ 406 ]
+}, {
+  "adFunctionTemplateId" : 16,
+  "energyExchangeId" : 120533,
+  "errorMessages" : [ 34 ]
+}, {
+  "adFunctionTemplateId" : 144,
+  "energyExchangeId" : 120533,
+  "errorMessages" : [ 412, 415, 416 ]
+}, {
+  "adFunctionTemplateId" : 17,
+  "energyExchangeId" : 120533,
+  "errorMessages" : [ 35 ]
+}, {
+  "adFunctionTemplateId" : 145,
+  "energyExchangeId" : 120533,
+  "errorMessages" : [ 420, 423, 424 ]
+}, {
+  "adFunctionTemplateId" : 18,
+  "energyExchangeId" : 120533,
+  "errorMessages" : [ 37 ]
+}, {
+  "adFunctionTemplateId" : 19,
+  "energyExchangeId" : 120533,
+  "errorMessages" : [ 38 ]
+}, {
+  "adFunctionTemplateId" : 20,
+  "energyExchangeId" : 120533,
+  "errorMessages" : [ 39 ]
+}, {
+  "adFunctionTemplateId" : 21,
+  "energyExchangeId" : 120533,
+  "errorMessages" : [ 41 ]
+}, {
+  "adFunctionTemplateId" : 22,
+  "energyExchangeId" : 120533,
+  "errorMessages" : [ 43 ]
+}, {
+  "adFunctionTemplateId" : 23,
+  "energyExchangeId" : 120533,
+  "errorMessages" : [ 47, 48 ]
+}, {
+  "adFunctionTemplateId" : 26,
+  "energyExchangeId" : 120533,
+  "errorMessages" : [ 55, 57 ]
+}, {
+  "adFunctionTemplateId" : 27,
+  "energyExchangeId" : 120533,
+  "errorMessages" : [ 60, 62 ]
+}, {
+  "adFunctionTemplateId" : 28,
+  "energyExchangeId" : 120533,
+  "errorMessages" : [ 64 ]
+}, {
+  "adFunctionTemplateId" : 31,
+  "energyExchangeId" : 120533,
+  "errorMessages" : [ 69 ]
+}, {
+  "adFunctionTemplateId" : 32,
+  "energyExchangeId" : 120533,
+  "errorMessages" : [ 71 ]
+}, {
+  "adFunctionTemplateId" : 33,
+  "energyExchangeId" : 120533,
+  "errorMessages" : [ 73 ]
+}, {
+  "adFunctionTemplateId" : 34,
+  "energyExchangeId" : 120533,
+  "errorMessages" : [ 76 ]
+}, {
+  "adFunctionTemplateId" : 36,
+  "energyExchangeId" : 120533,
+  "errorMessages" : [ 79, 80 ]
+}, {
+  "adFunctionTemplateId" : 37,
+  "energyExchangeId" : 120533,
+  "errorMessages" : [ 81, 83, 85, 86 ]
+}, {
+  "adFunctionTemplateId" : 38,
+  "energyExchangeId" : 120533,
+  "errorMessages" : [ 88, 89, 91 ]
+}, {
+  "adFunctionTemplateId" : 39,
+  "energyExchangeId" : 120533,
+  "errorMessages" : [ 93, 94, 95 ]
+}, {
+  "adFunctionTemplateId" : 44,
+  "energyExchangeId" : 120533,
+  "errorMessages" : [ 108 ]
+}, {
+  "adFunctionTemplateId" : 48,
+  "energyExchangeId" : 120533,
+  "errorMessages" : [ 116 ]
+}, {
+  "adFunctionTemplateId" : 49,
+  "energyExchangeId" : 120533,
+  "errorMessages" : [ 118 ]
+}, {
+  "adFunctionTemplateId" : 65,
+  "energyExchangeId" : 120533,
+  "errorMessages" : [ 152 ]
+}, {
+  "adFunctionTemplateId" : 66,
+  "energyExchangeId" : 120533,
+  "errorMessages" : [ 155 ]
+}, {
+  "adFunctionTemplateId" : 67,
+  "energyExchangeId" : 120533,
+  "errorMessages" : [ 159 ]
+}, {
+  "adFunctionTemplateId" : 68,
+  "energyExchangeId" : 120533,
+  "errorMessages" : [ 163 ]
+}, {
+  "adFunctionTemplateId" : 78,
+  "energyExchangeId" : 120533,
+  "errorMessages" : [ 180 ]
+}, {
+  "adFunctionTemplateId" : 85,
+  "energyExchangeId" : 120533,
+  "errorMessages" : [ 197, 198 ]
+}, {
+  "adFunctionTemplateId" : 86,
+  "energyExchangeId" : 120533,
+  "errorMessages" : [ 201, 202 ]
+}, {
+  "adFunctionTemplateId" : 91,
+  "energyExchangeId" : 120533,
+  "errorMessages" : [ 213, 214 ]
+}, {
+  "adFunctionTemplateId" : 93,
+  "energyExchangeId" : 120533,
+  "errorMessages" : [ 219, 220 ]
+}, {
+  "adFunctionTemplateId" : 99,
+  "energyExchangeId" : 120533,
+  "errorMessages" : [ 232 ]
+}, {
+  "adFunctionTemplateId" : 105,
+  "energyExchangeId" : 120533,
+  "errorMessages" : [ 275 ]
+}, {
+  "adFunctionTemplateId" : 109,
+  "energyExchangeId" : 120533,
+  "errorMessages" : [ 279 ]
+}, {
+  "adFunctionTemplateId" : 113,
+  "energyExchangeId" : 120533,
+  "errorMessages" : [ 291, 295 ]
+}, {
+  "adFunctionTemplateId" : 130,
+  "energyExchangeId" : 120550,
+  "errorMessages" : [ 328, 329, 330 ]
+}, {
+  "adFunctionTemplateId" : 131,
+  "energyExchangeId" : 120550,
+  "errorMessages" : [ 331, 332, 333 ]
+}, {
+  "adFunctionTemplateId" : 132,
+  "energyExchangeId" : 120550,
+  "errorMessages" : [ 334, 335, 336 ]
+}, {
+  "adFunctionTemplateId" : 5,
+  "energyExchangeId" : 120550,
+  "errorMessages" : [ 6 ]
+}, {
+  "adFunctionTemplateId" : 133,
+  "energyExchangeId" : 120550,
+  "errorMessages" : [ 337, 338, 339 ]
+}, {
+  "adFunctionTemplateId" : 6,
+  "energyExchangeId" : 120550,
+  "errorMessages" : [ 7 ]
+}, {
+  "adFunctionTemplateId" : 134,
+  "energyExchangeId" : 120550,
+  "errorMessages" : [ 340 ]
+}, {
+  "adFunctionTemplateId" : 7,
+  "energyExchangeId" : 120550,
+  "errorMessages" : [ 8 ]
+}, {
+  "adFunctionTemplateId" : 135,
+  "energyExchangeId" : 120550,
+  "errorMessages" : [ 341 ]
+}, {
+  "adFunctionTemplateId" : 136,
+  "energyExchangeId" : 120550,
+  "errorMessages" : [ 345, 346 ]
+}, {
+  "adFunctionTemplateId" : 9,
+  "energyExchangeId" : 120550,
+  "errorMessages" : [ 10 ]
+}, {
+  "adFunctionTemplateId" : 137,
+  "energyExchangeId" : 120550,
+  "errorMessages" : [ 348, 349, 350, 351 ]
+}, {
+  "adFunctionTemplateId" : 10,
+  "energyExchangeId" : 120550,
+  "errorMessages" : [ 11 ]
+}, {
+  "adFunctionTemplateId" : 138,
+  "energyExchangeId" : 120550,
+  "errorMessages" : [ 352, 353, 354, 355 ]
+}, {
+  "adFunctionTemplateId" : 139,
+  "energyExchangeId" : 120550,
+  "errorMessages" : [ 356, 357, 358 ]
+}, {
+  "adFunctionTemplateId" : 140,
+  "energyExchangeId" : 120550,
+  "errorMessages" : [ 375, 376, 377, 378, 379 ]
+}, {
+  "adFunctionTemplateId" : 141,
+  "energyExchangeId" : 120550,
+  "errorMessages" : [ 383, 384, 385, 386, 387 ]
+}, {
+  "adFunctionTemplateId" : 142,
+  "energyExchangeId" : 120550,
+  "errorMessages" : [ 400, 401, 402 ]
+}, {
+  "adFunctionTemplateId" : 15,
+  "energyExchangeId" : 120550,
+  "errorMessages" : [ 32, 33 ]
+}, {
+  "adFunctionTemplateId" : 143,
+  "energyExchangeId" : 120550,
+  "errorMessages" : [ 406, 407, 408 ]
+}, {
+  "adFunctionTemplateId" : 16,
+  "energyExchangeId" : 120550,
+  "errorMessages" : [ 34 ]
+}, {
+  "adFunctionTemplateId" : 144,
+  "energyExchangeId" : 120550,
+  "errorMessages" : [ 412, 413, 414, 415, 416 ]
+}, {
+  "adFunctionTemplateId" : 17,
+  "energyExchangeId" : 120550,
+  "errorMessages" : [ 35, 36 ]
+}, {
+  "adFunctionTemplateId" : 145,
+  "energyExchangeId" : 120550,
+  "errorMessages" : [ 420, 421, 422, 423, 424 ]
+}, {
+  "adFunctionTemplateId" : 18,
+  "energyExchangeId" : 120550,
+  "errorMessages" : [ 37 ]
+}, {
+  "adFunctionTemplateId" : 19,
+  "energyExchangeId" : 120550,
+  "errorMessages" : [ 38 ]
+}, {
+  "adFunctionTemplateId" : 20,
+  "energyExchangeId" : 120550,
+  "errorMessages" : [ 39, 40 ]
+}, {
+  "adFunctionTemplateId" : 21,
+  "energyExchangeId" : 120550,
+  "errorMessages" : [ 41, 42 ]
+}, {
+  "adFunctionTemplateId" : 22,
+  "energyExchangeId" : 120550,
+  "errorMessages" : [ 43, 44 ]
+}, {
+  "adFunctionTemplateId" : 23,
+  "energyExchangeId" : 120550,
+  "errorMessages" : [ 45, 47, 48 ]
+}, {
+  "adFunctionTemplateId" : 24,
+  "energyExchangeId" : 120550,
+  "errorMessages" : [ 49, 50 ]
+}, {
+  "adFunctionTemplateId" : 25,
+  "energyExchangeId" : 120550,
+  "errorMessages" : [ 51, 52 ]
+}, {
+  "adFunctionTemplateId" : 26,
+  "energyExchangeId" : 120550,
+  "errorMessages" : [ 53, 54, 55, 57 ]
+}, {
+  "adFunctionTemplateId" : 27,
+  "energyExchangeId" : 120550,
+  "errorMessages" : [ 58, 59, 60, 62 ]
+}, {
+  "adFunctionTemplateId" : 28,
+  "energyExchangeId" : 120550,
+  "errorMessages" : [ 63, 64 ]
+}, {
+  "adFunctionTemplateId" : 31,
+  "energyExchangeId" : 120550,
+  "errorMessages" : [ 69, 70 ]
+}, {
+  "adFunctionTemplateId" : 32,
+  "energyExchangeId" : 120550,
+  "errorMessages" : [ 71, 72 ]
+}, {
+  "adFunctionTemplateId" : 33,
+  "energyExchangeId" : 120550,
+  "errorMessages" : [ 73, 74 ]
+}, {
+  "adFunctionTemplateId" : 34,
+  "energyExchangeId" : 120550,
+  "errorMessages" : [ 75, 76 ]
+}, {
+  "adFunctionTemplateId" : 36,
+  "energyExchangeId" : 120550,
+  "errorMessages" : [ 79, 80, 391 ]
+}, {
+  "adFunctionTemplateId" : 37,
+  "energyExchangeId" : 120550,
+  "errorMessages" : [ 81, 83, 84, 85, 86 ]
+}, {
+  "adFunctionTemplateId" : 38,
+  "energyExchangeId" : 120550,
+  "errorMessages" : [ 88, 89, 91, 395 ]
+}, {
+  "adFunctionTemplateId" : 39,
+  "energyExchangeId" : 120550,
+  "errorMessages" : [ 92, 93, 94, 95 ]
+}, {
+  "adFunctionTemplateId" : 44,
+  "energyExchangeId" : 120550,
+  "errorMessages" : [ 107, 108 ]
+}, {
+  "adFunctionTemplateId" : 48,
+  "energyExchangeId" : 120550,
+  "errorMessages" : [ 116 ]
+}, {
+  "adFunctionTemplateId" : 49,
+  "energyExchangeId" : 120550,
+  "errorMessages" : [ 117, 118 ]
+}, {
+  "adFunctionTemplateId" : 62,
+  "energyExchangeId" : 120550,
+  "errorMessages" : [ 144 ]
+}, {
+  "adFunctionTemplateId" : 63,
+  "energyExchangeId" : 120550,
+  "errorMessages" : [ 146, 148 ]
+}, {
+  "adFunctionTemplateId" : 65,
+  "energyExchangeId" : 120550,
+  "errorMessages" : [ 152, 153 ]
+}, {
+  "adFunctionTemplateId" : 66,
+  "energyExchangeId" : 120550,
+  "errorMessages" : [ 154, 155 ]
+}, {
+  "adFunctionTemplateId" : 67,
+  "energyExchangeId" : 120550,
+  "errorMessages" : [ 158, 159 ]
+}, {
+  "adFunctionTemplateId" : 68,
+  "energyExchangeId" : 120550,
+  "errorMessages" : [ 162, 163 ]
+}, {
+  "adFunctionTemplateId" : 78,
+  "energyExchangeId" : 120550,
+  "errorMessages" : [ 180 ]
+}, {
+  "adFunctionTemplateId" : 79,
+  "energyExchangeId" : 120550,
+  "errorMessages" : [ 181, 182 ]
+}, {
+  "adFunctionTemplateId" : 80,
+  "energyExchangeId" : 120550,
+  "errorMessages" : [ 184, 185 ]
+}, {
+  "adFunctionTemplateId" : 85,
+  "energyExchangeId" : 120550,
+  "errorMessages" : [ 195, 196, 197, 198 ]
+}, {
+  "adFunctionTemplateId" : 86,
+  "energyExchangeId" : 120550,
+  "errorMessages" : [ 199, 200, 201, 202 ]
+}, {
+  "adFunctionTemplateId" : 91,
+  "energyExchangeId" : 120550,
+  "errorMessages" : [ 211, 212, 213, 214 ]
+}, {
+  "adFunctionTemplateId" : 93,
+  "energyExchangeId" : 120550,
+  "errorMessages" : [ 217, 218, 219, 220 ]
+}, {
+  "adFunctionTemplateId" : 99,
+  "energyExchangeId" : 120550,
+  "errorMessages" : [ 232 ]
+}, {
+  "adFunctionTemplateId" : 105,
+  "energyExchangeId" : 120550,
+  "errorMessages" : [ 275 ]
+}, {
+  "adFunctionTemplateId" : 109,
+  "energyExchangeId" : 120550,
+  "errorMessages" : [ 279 ]
+}, {
+  "adFunctionTemplateId" : 113,
+  "energyExchangeId" : 120550,
+  "errorMessages" : [ 291, 292, 295 ]
+} ]

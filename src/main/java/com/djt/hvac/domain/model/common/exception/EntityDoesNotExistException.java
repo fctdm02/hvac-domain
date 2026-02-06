@@ -1,0 +1,10 @@
+package com.djt.hvac.domain.model.common.exception;
+
+public final class EntityDoesNotExistException extends Exception {
+
+  private static final long serialVersionUID = 1L;
+
+  public EntityDoesNotExistException(String message) {
+    super(message);
+  }
+}

@@ -1,0 +1,127 @@
+{
+	"buildingReportStatuses": [{
+		"buildingId": 11,
+		"buildingName": "Daytek Building",
+		"numGreen": 7,
+		"numYellow": 0,
+		"numRed": 1,
+		"reports": []
+	}, {
+		"buildingId": 12,
+		"buildingName": "First National",
+		"numGreen": 8,
+		"numYellow": 0,
+		"numRed": 0,
+		"reports": []
+	}, {
+		"buildingId": 13,
+		"buildingName": "Palmer Park Building",
+		"numGreen": 2,
+		"numYellow": 3,
+		"numRed": 3,
+		"reports": [{
+			"reportTemplateId": 1,
+			"reportTemplateName": "Operating Room HVAC Performance",
+			"reportTemplateDescription": "Operating Room HVAC Performance Description",
+			"numGreenEquipment": 272,
+			"numEquipmentTotal": 272,
+			"status": "GREEN",
+			"isEnabled": true,
+			"isValid": true,
+			"isIgnored": false,
+			"lastUpdated": "5/3/2019, 9:45:00 AM",
+			"priority": "LOW"
+		}, {
+			"reportTemplateId": 2,
+			"reportTemplateName": "Operating Room Compliance",
+			"reportTemplateDescription": "Operating Room Compliance Description",
+			"numGreenEquipment": 301,
+			"numEquipmentTotal": 301,
+			"status": "GREEN",
+			"isEnabled": true,
+			"isValid": true,
+			"isIgnored": false,
+			"lastUpdated": "5/3/2019, 9:45:00 AM",
+			"priority": "LOW"
+		}, {
+			"reportTemplateId": 3,
+			"reportTemplateName": "AHU | RTU Operations Score",
+			"reportTemplateDescription": "AHU | RTU Operations Score Description",
+			"numGreenEquipment": 150,
+			"numEquipmentTotal": 175,
+			"status": "YELLOW",
+			"isEnabled": false,
+			"isValid": true,
+			"isIgnored": false,
+			"lastUpdated": "5/3/2019, 9:45:00 AM",
+			"priority": "LOW"
+		}, {
+			"reportTemplateId": 4,
+			"reportTemplateName": "AHU | RTU Energy Performance Score",
+			"reportTemplateDescription": "AHU | RTU Energy Performance Score",
+			"numGreenEquipment": 195,
+			"numEquipmentTotal": 200,
+			"status": "YELLOW",
+			"isEnabled": false,
+			"isValid": true,
+			"isIgnored": false,
+			"lastUpdated": "5/3/2019, 9:45:00 AM",
+			"priority": "LOW"
+		}, {
+			"reportTemplateId": 5,
+			"reportTemplateName": "Chilled Water Plant Score",
+			"reportTemplateDescription": "Chilled Water Plant Score",
+			"numGreenEquipment": 75,
+			"numEquipmentTotal": 100,
+			"status": "YELLOW",
+			"isEnabled": false,
+			"isValid": true,
+			"isIgnored": false,
+			"lastUpdated": "5/3/2019, 9:45:00 AM",
+			"priority": "LOW"
+		}, {
+			"reportTemplateId": 6,
+			"reportTemplateName": "VAV Score",
+			"reportTemplateDescription": "VAV Score",
+			"numGreenEquipment": 0,
+			"numEquipmentTotal": 175,
+			"status": "RED",
+			"isEnabled": false,
+			"isValid": false,
+			"isIgnored": false,
+			"lastUpdated": "5/3/2019, 9:45:00 AM",
+			"priority": "LOW"
+		}, {
+			"reportTemplateId": 7,
+			"reportTemplateName": "Heating Hot Water Plant Score",
+			"reportTemplateDescription": "Heating Hot Water Plant Score",
+			"numGreenEquipment": 0,
+			"numEquipmentTotal": 175,
+			"status": "RED",
+			"isEnabled": false,
+			"isValid": false,
+			"isIgnored": false,
+			"lastUpdated": "5/3/2019, 9:45:00 AM",
+			"priority": "LOW"
+		}, {
+			"reportTemplateId": 8,
+			"reportTemplateName": "Equipment Score",
+			"reportTemplateDescription": "Equipment Score",
+			"numGreenEquipment": 0,
+			"numEquipmentTotal": 175,
+			"status": "RED",
+			"isEnabled": false,
+			"isValid": false,
+			"isIgnored": false,
+			"lastUpdated": "5/3/2019, 9:45:00 AM",
+			"priority": "LOW"
+		}]
+	}, {
+		"buildingId": 14,
+		"buildingName": "Gresham Estates",
+		"numGreen": 6,
+		"numYellow": 1,
+		"numRed": 1,
+		"reports": []
+	}]
+}

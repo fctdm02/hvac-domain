@@ -1,0 +1,8 @@
+{
+	"parentEventId": 1,
+	"isDownStatus": false,
+	"expirationDate": "2022-12-31 00:00:00",
+	"substitutionTokenValues": {},
+	"details": "Additional details",
+	"publishImmediately": true
+}

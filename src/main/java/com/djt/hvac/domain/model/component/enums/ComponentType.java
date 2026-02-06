@@ -1,0 +1,18 @@
+package com.djt.hvac.domain.model.component.enums;
+
+public enum ComponentType {
+
+  RESOLUTE_AGENT_1, 
+  RESOLUTE_SECURITY_GATEWAY_2, 
+  RESOLUTE_NIAGARA_MODULES_3, 
+  RESOLUTE_PROVISIONING_SERVICE_4, 
+  RESOLUTE_SSO_PROXY_5, 
+  CLOUDFILL_AGENT_6_Verdigris_1, 
+  CLOUDFILL_AGENT_6_KMC_2,
+  CLOUDFILL_AGENT_6_NHaystack_3,
+  CLOUDFILL_AGENT_6_Demo_4,
+  CLOUDFILL_AGENT_6_Fin_5,
+  CLOUDFILL_AGENT_6_Desigo_6,
+  CLOUDFILL_AGENT_6_Hawken_AQ_7
+
+}

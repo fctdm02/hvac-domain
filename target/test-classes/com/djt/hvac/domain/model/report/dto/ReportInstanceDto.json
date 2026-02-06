@@ -1,0 +1,29 @@
+{
+	"id": 11111,
+	"reportTemplateId": 1,
+	"buildingId": 115149,
+	"createdAt": 1556891100000,
+	"updatedAt": 1556891100000,
+	"reportInstanceEquipment": [{
+		"reportTemplateEquipmentSpecId": 1,
+		"equipmentId": 115320,
+		"reportInstancePoints": [{
+			"reportInstanceId": 11111,
+			"reportTemplateEquipmentSpecId": 1,
+			"reportTemplatePointSpecId": 1,
+			"equipmentId": 115320,
+			"pointId": 115151,
+			"type": "STANDARD"
+		}, {
+			"reportInstanceId": 11111,
+			"reportTemplateEquipmentSpecId": 1,
+			"reportTemplatePointSpecId": 10,
+			"equipmentId": 115320,
+			"pointId": 129405,
+			"type": "RULE"
+		}]
+	}],
+	"stateHasChanged": false,
+	"needsEnabling": false,
+	"needsDisabling": false
+}

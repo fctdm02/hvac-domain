@@ -1,0 +1,17 @@
+[ {
+  "id" : 136154,
+  "equipment_id" : 1526316,
+  "template_id" : 18,
+  "candidate_json" : "{\"boundCandidatePoints\":{\"37\":[1542903]}}",
+  "ignored" : false,
+  "templateVersion" : 1,
+  "instanceVersion" : 1
+}, {
+  "id" : 136155,
+  "equipment_id" : 1526316,
+  "template_id" : 78,
+  "candidate_json" : "{\"boundCandidatePoints\":{\"180\":[1542859]}}",
+  "ignored" : false,
+  "templateVersion" : 1,
+  "instanceVersion" : 1
+} ]

@@ -1,0 +1,61 @@
+[ {
+  "id" : 1,
+  "point_cap" : 3000,
+  "interval" : "MONTHLY",
+  "cost_per_interval" : 300.0,
+  "stripe_product_id" : "stripe_product_id_1",
+  "stripe_plan_id" : "stripe_plan_id_1",
+  "stripe_test_product_id" : "stripe_test_product_id_1",
+  "stripe_test_plan_id" : "stripe_test_plan_id_1",
+  "deprecated" : false
+}, {
+  "id" : 2,
+  "point_cap" : 3000,
+  "interval" : "YEARLY",
+  "cost_per_interval" : 3000.0,
+  "stripe_product_id" : "stripe_product_id_2",
+  "stripe_plan_id" : "stripe_plan_id_2",
+  "stripe_test_product_id" : "stripe_test_product_id_2",
+  "stripe_test_plan_id" : "stripe_test_plan_id_2",
+  "deprecated" : false
+}, {
+  "id" : 3,
+  "point_cap" : 5000,
+  "interval" : "MONTHLY",
+  "cost_per_interval" : 500.0,
+  "stripe_product_id" : "stripe_product_id_3",
+  "stripe_plan_id" : "stripe_plan_id_3",
+  "stripe_test_product_id" : "stripe_test_product_id_3",
+  "stripe_test_plan_id" : "stripe_test_plan_id_3",
+  "deprecated" : false
+}, {
+  "id" : 4,
+  "point_cap" : 5000,
+  "interval" : "YEARLY",
+  "cost_per_interval" : 5000.0,
+  "stripe_product_id" : "stripe_product_id_4",
+  "stripe_plan_id" : "stripe_plan_id_4",
+  "stripe_test_product_id" : "stripe_test_product_id_4",
+  "stripe_test_plan_id" : "stripe_test_plan_id_4",
+  "deprecated" : false
+}, {
+  "id" : 5,
+  "point_cap" : 10000,
+  "interval" : "MONTHLY",
+  "cost_per_interval" : 700.0,
+  "stripe_product_id" : "stripe_product_id_5",
+  "stripe_plan_id" : "stripe_plan_id_5",
+  "stripe_test_product_id" : "stripe_test_product_id_5",
+  "stripe_test_plan_id" : "stripe_test_plan_id_5",
+  "deprecated" : false
+}, {
+  "id" : 6,
+  "point_cap" : 70000,
+  "interval" : "YEARLY",
+  "cost_per_interval" : 300.0,
+  "stripe_product_id" : "stripe_product_id_6",
+  "stripe_plan_id" : "stripe_plan_id_6",
+  "stripe_test_product_id" : "stripe_test_product_id_6",
+  "stripe_test_plan_id" : "stripe_test_plan_id_6",
+  "deprecated" : false
+} ]

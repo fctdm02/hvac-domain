@@ -1,0 +1,30 @@
+[
+	{
+		"id" : 1,
+		"referral_agent_type_id" : 1,
+		"parent_id" : null,
+		"name" : "Resolute BI",
+		"code" : "YvxhIYrN"
+	},
+	{
+		"id" : 3,
+		"referral_agent_type_id" : 3,
+		"parent_id" : null,
+		"name" : "Test External Organization",
+		"code" : "TNurmUBq"
+	},
+	{
+		"id" : 2,
+		"referral_agent_type_id" : 2,
+		"parent_id" : 1,
+		"name" : "tmyers@resolutebi.com",
+		"code" : "wmYVokMW"
+	},
+	{
+		"id" : 4,
+		"referral_agent_type_id" : 4,
+		"parent_id" : 3,
+		"name" : "joe.smith@external.com",
+		"code" : "rs9AWcmT"
+	}
+]

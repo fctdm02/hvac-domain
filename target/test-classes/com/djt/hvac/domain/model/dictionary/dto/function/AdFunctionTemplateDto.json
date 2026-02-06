@@ -1,0 +1,72 @@
+{
+	"id": 4,
+	"beta": false,
+	"name": "ZoneTemperatureSensorFailure",
+	"active": true,
+	"description": "The zone temperature sensor has failed. The temperature sensor point is invariant or is outside the expected range.",
+	"display_name": "VAV Zone Temperature Sensor Failure",
+	"input_consts": [{
+		"id": 5,
+		"name": "VARIANCE",
+		"seq_no": 1,
+		"unit_id": 1,
+		"description": "Variance Threshold",
+		"is_required": true,
+		"data_type_id": 1,
+		"default_value": "0.01"
+	}, {
+		"id": 6,
+		"name": "DELAY",
+		"seq_no": 2,
+		"unit_id": 1,
+		"description": "Time Interval (minutes)",
+		"is_required": true,
+		"data_type_id": 1,
+		"default_value": "240"
+	}, {
+		"id": 7,
+		"name": "MIN_VALUE",
+		"seq_no": 3,
+		"unit_id": 1,
+		"description": "Low Threshold",
+		"is_required": true,
+		"data_type_id": 1,
+		"default_value": "-40"
+	}, {
+		"id": 8,
+		"name": "MAX_VALUE",
+		"seq_no": 4,
+		"unit_id": 1,
+		"description": "High Threshold",
+		"is_required": true,
+		"data_type_id": 1,
+		"default_value": "250"
+	}],
+	"input_points": [{
+		"id": 5,
+		"name": "Sensor",
+		"tags": ["zone", "air", "temp", "sensor"],
+		"array": false,
+		"seq_no": 1,
+		"required": true,
+		"description": "Zone Temperature",
+		"current_object_expression": null
+	}],
+	"output_points": [{
+		"id": 4,
+		"range": "{\"trueText\":\"On\",\"falseText\":\"Off\"}",
+		"seq_no": 1,
+		"unit_id": 1,
+		"description": "Anomaly Detected",
+		"data_type_id": 2
+	}],
+	"function_type_id": 1,
+	"function_code_module_id": 10,
+	"function_code_module_name": "SensorFailure",
+	"function_code_module_description": "Your sensors are failing!",
+	"reference_number": "3.2.9.1",
+	"tuple_constraint": null,
+	"equipment_type_id": [43],
+	"node_filter_expression": null,
+	"tuple_constraint_error_message": null
+}
