@@ -61,7 +61,7 @@ public class MockStripeClient extends AbstractStripeClient {
   private static final String STRIPE_INVOICE_ID_PREFIX = "stripe_invoice_id_";
   private static final String STRIPE_SOURCE_ID_PREFIX = "stripe_source_id_";
   
-  private static final String MOCK_API_KEY = "sk_test_999999999999";
+  private static final String MOCK_API_KEY = "REDACTED";
   
   private Map<String, Map<String, Object>> customers = new TreeMap<>();
   

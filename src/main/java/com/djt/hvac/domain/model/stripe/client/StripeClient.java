@@ -542,8 +542,8 @@ public interface StripeClient {
   
   /**
    * NOTES: 
-   * - Test API Key starts with: "sk_test_"
-   * - Prod API starts with: "sk_prod_"
+   * - Test API Key starts with: "sk underscore test_"
+   * - Prod API starts with: "sk underscore prod_"
    * 
    * @return <code>true</code> If the injected API key is a live mode key.
    */
@@ -561,7 +561,7 @@ public interface StripeClient {
    */
   /*
 
-    Stripe.apiKey = "sk_test_4eC39HqLyjWDarjtT1zdp7dc";
+    
     
     Map<String, Object> params = new HashMap<>();
     params.put(
@@ -585,7 +585,7 @@ public interface StripeClient {
    */
   /*
 
-    Stripe.apiKey = "sk_test_4eC39HqLyjWDarjtT1zdp7dc";
+    
     
     Customer customer = Customer.retrieve("cus_GeI1DzigoSv0Cn");
     
@@ -603,7 +603,7 @@ public interface StripeClient {
    */
   /*
    
-    Stripe.apiKey = "sk_test_4eC39HqLyjWDarjtT1zdp7dc";
+    
     
     Map<String, Object> params = new HashMap<>();
     params.put("limit", 3);
@@ -624,7 +624,7 @@ public interface StripeClient {
    */
   /*
 
-    Stripe.apiKey = "sk_test_4eC39HqLyjWDarjtT1zdp7dc";
+    
     
     Customer customer = Customer.retrieve("cus_GeI1DzigoSv0Cn");
      
@@ -643,7 +643,7 @@ public interface StripeClient {
    */
   /*
 
-    Stripe.apiKey = "sk_test_4eC39HqLyjWDarjtT1zdp7dc";
+    
     
     Customer customer = Customer.retrieve("cus_GeI1DzigoSv0Cn");
     
@@ -673,7 +673,7 @@ public interface StripeClient {
    * 
    * @throws StripeClientException If any problem occurred
    <pre>
-    Stripe.apiKey = "sk_test_4eC39HqLyjWDarjtT1zdp7dc";
+    
     
     Map<String, Object> params = new HashMap<>();
     params.put("limit", 3);
@@ -748,7 +748,7 @@ public interface StripeClient {
    */
   /*
    
-    Stripe.apiKey = "sk_test_HaTrTphyrziDXQRh2qegoW7700lrXTjENZ";
+    
     
     Invoice invoice = Invoice.retrieve("in_1FGqe2Eyc0NCi7H2K2X73X1R");
     
@@ -767,7 +767,7 @@ public interface StripeClient {
    */
   /*
    
-    Stripe.apiKey = "sk_test_HaTrTphyrziDXQRh2qegoW7700lrXTjENZ";
+    
     
     Map<String, Object> invoiceParams = new HashMap<String, Object>();
     invoiceParams.put("subscription", "cus_GeMIVmtO2zaJnt");
@@ -806,7 +806,7 @@ public interface StripeClient {
     A cursor for use in pagination. starting_after is an object ID that defines your place in the list. For instance, if you make a list request and receive 100 objects, ending with obj_foo, your subsequent call can include starting_after=obj_foo in order to fetch the next page of the list.
 
    
-    Stripe.apiKey = "sk_test_4eC39HqLyjWDarjtT1zdp7dc";
+    
     
     Invoice invoice = Invoice.retrieve("in_19yTU92eZvKYlo2C7uDjvu6v");
     Map<String, Object> params = new HashMap<String, Object>();
@@ -826,7 +826,7 @@ public interface StripeClient {
    */
   /*
 
-    Stripe.apiKey = "sk_test_HaTrTphyrziDXQRh2qegoW7700lrXTjENZ";
+    
     
     Map<String, Object> invoiceParams = new HashMap<>();
     params.put("customer", "cus_GenBReS9ujasJF");
@@ -854,7 +854,7 @@ public interface StripeClient {
    */
   /*
   
-    Stripe.apiKey = "sk_test_4eC39HqLyjWDarjtT1zdp7dc";
+    
     
     Invoice invoice = Invoice.retrieve(stripeInvoiceId);
       
@@ -883,7 +883,7 @@ public interface StripeClient {
    */
   /*
 
-    Stripe.apiKey = "sk_test_HaTrTphyrziDXQRh2qegoW7700lrXTjENZ";
+    
     
     PaymentMethod paymentMethod = PaymentMethod.retrieve("pm_123456789");
     
@@ -904,7 +904,7 @@ public interface StripeClient {
    */
   /*
    
-    Stripe.apiKey = "sk_test_4eC39HqLyjWDarjtT1zdp7dc";
+    
     
     Map<String, Object> params = new HashMap<>();
     params.put("customer", "cus_GaKUCtWghgOl2S");
@@ -929,7 +929,7 @@ public interface StripeClient {
    */
   /*
 
-    Stripe.apiKey = "sk_test_HaTrTphyrziDXQRh2qegoW7700lrXTjENZ";
+    
     
     PaymentMethod paymentMethod = PaymentMethod.retrieve("pm_123456789");
     
@@ -952,7 +952,7 @@ public interface StripeClient {
    */
   /*
 
-    Stripe.apiKey = "sk_test_HaTrTphyrziDXQRh2qegoW7700lrXTjENZ";
+    
     
     PaymentMethod paymentMethod = PaymentMethod.retrieve("pm_1G700Q2eZvKYlo2Cr3MWQkgU");
      
@@ -973,7 +973,7 @@ public interface StripeClient {
    */
   /*
    
-    Stripe.apiKey = "sk_test_4eC39HqLyjWDarjtT1zdp7dc";
+    
     
     Map<String, Object> params = new HashMap<>();
     params.put("limit", 3);
@@ -1186,7 +1186,7 @@ public interface StripeClient {
    */
   /*
    
-    Stripe.apiKey = "sk_test_4eC39HqLyjWDarjtT1zdp7dc";
+    
     
     Subscription subscription = Subscription.retrieve("sub_9h6CopvY0Fldnj");
     
@@ -1206,7 +1206,7 @@ public interface StripeClient {
    */
   /*
    
-    Stripe.apiKey = "sk_test_HaTrTphyrziDXQRh2qegoW7700lrXTjENZ";
+    
     
     Map<String, Object> params = new HashMap<>();
     
@@ -1228,7 +1228,7 @@ public interface StripeClient {
    */
   /*
 
-    Stripe.apiKey = "sk_test_4eC39HqLyjWDarjtT1zdp7dc";
+    
     
     Subscription subscription = Subscription.retrieve("sub_9h6CopvY0Fldnj");
     
@@ -1259,7 +1259,7 @@ public interface StripeClient {
    */
   /* 
     
-    Stripe.apiKey = "sk_test_4eC39HqLyjWDarjtT1zdp7dc";
+    
     
     Subscription subscription = Subscription.retrieve(stripeSubscriptionId);
     
