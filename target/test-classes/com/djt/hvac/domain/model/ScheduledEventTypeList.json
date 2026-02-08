@@ -1,7 +1,0 @@
-[ {
-  "id" : 1,
-  "name" : "Scheduled Occupancy Status",
-  "metric_id" : "ScheduledOccSt",
-  "range" : "{\"trueText\":\"Occupied\",\"falseText\":\"Unoccupied\"}",
-  "haystack_tags" : "{cmd,computed,occ,scheduled}"
-} ]
