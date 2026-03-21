@@ -290,7 +290,7 @@ public abstract class AbstractAdFunctionTemplateEntity extends AbstractPersisten
     Iterator<AdFunctionTemplateInputConstantEntity> iterator = inputConstants.iterator();
     while (iterator.hasNext()) {
       AdFunctionTemplateInputConstantEntity inputConstant = iterator.next();
-      if (inputConstant.getPersistentIdentity().equals(inputConstant)) {
+      if (inputConstant.getPersistentIdentity().equals(inputConstant.getPersistentIdentity())) {
         return inputConstant;
       }
     }
